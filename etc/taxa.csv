@@ -1,0 +1,413 @@
+taxon,xd_ids,soc_ids,Guthrie,Hist-Groups,G-code,L-code,Language,missing,Longitude,Latitude,glottocode
+Tiv,xd320,"Ah3, SCCS16",0,Bantoid,802,Tiv,Tiv,0,5,7.5,tivv1240
+Ama,,,0,Bantoid,805,Ama,Amasi,9,6.1,9.75,
+Amb,,,0,Bantoid,806,Amb,Ambele,9,6.95,9.55,ambe1247
+Asu,,,0,Bantoid,894,Asu,Asumbo,14,6.3,9.5,iyiv1238
+Bang,,,0,Bantoid,951,Bang,Bangangte,1,5.6,10.2,bato1244
+Mif,,,0,Bantoid,900a,Mif,Miﬁ,3,5.2,10.3,
+Band,,,0,Bantoid,900b,Band,Bandjoun,0,5.3,10.3,ghom1247
+Dsc,,,0,Bantoid,900c,Dsc,Dschang,0,5.4,10.1,yemb1246
+Fef1,xd171,Ae5,0,Bantoid,970a,Fef1,Fefe,0,5.3,10.2,fefe1239
+Baf,xd171,Ae5,0,Bantoid,970b,Baf,Bafang,1,5.1,10.2,fefe1239
+A_Mbo,,,A,North-West,A15g,A-Mbo,Mbo,0,4.8,10,mboc1235
+A_Dua,xd130,Ae12,A,North-West,A24,A-Dua,Duala,0,3.8,9.7,dual1243
+A_Pon,,,A,North-West,A26,A-Pon,Pongo,0,4.1,9.7,pong1251
+A_Lim,,,A,North-West,A27,A-Lim,Limba,0,3.9,9.5,mali1280
+A_Bub,xd165,Ae44,A,Buneya,A31,A-Bub,Bubi,4,3.5,8.8,bube1242
+A_Noh,xd168,Ae47,A,North-West,A32a,A-Noh,Noho,9,3.1,10,bata1285
+A_Tan,xd168,Ae47,A,North-West,A32c,A-Tan,Tanga,0,3.3,10,bata1285
+A_Be1,,,A,North-West,A34,A-Be1,Benga,0,0.5,9.7,beng1282
+A_Bas,,,A,Buneya,A43a,A-Bas,Basaa,0,3.6,11,basa1284
+A_Kok,xd175,Ae53,A,Buneya,A43b,A-Kok,Koko,0,3.5,10,bako1249
+A_Nen,xd173,"Ae51, SCCS15",A,Buneya,A44,A-Nen,Nen,0,4.7,10.9,tune1261
+A_Lef,,,A,Buneya,A51,A-Lef,Lefa,17,5,11.2,lefa1242
+A_Maj,,,A,Buneya,A51,A-Maj,Maja,6,4.8,11.2,lefa1242
+A_Tum,,,A,Buneya,A51,A-Tum,Tumi,4,4.9,11.1,lefa1242
+A_Kpa,,,A,Buneya,A53,A-Kpa,Kpa,1,4.6,11.1,kpaa1242
+A_Rop,,,A,Buneya,A53,A-Rop,Rope,2,4.6,11.1,
+A_Nja,,,A,Buneya,A54,A-Nja,Njanti,6,5,11.3,tibe1274
+A_Tuk,,,A,Buneya,A61a,A-Tuk,Tuki,3,4.5,11.4,tuki1240
+A_Gun,,,A,Buneya,A62a,A-Gun,Gunu,11,4.6,11.3,nugu1242
+A_Mma,,,A,Buneya,A62b,A-Mma,Mmala,7,4.5,11.2,mmaa1238
+A_Kal,,,A,Buneya,A62d,A-Kal,Kalonge,0,4.3,11.1,yang1293
+A_Eto,,,A,North-West,A71,A-Eto,Eton,0,4,11.2,eton1253
+A_Ndo,,,A,North-West,A71a,A-Ndo,Ndongo,0,3.9,11.3,
+A_Ewo,,,A,North-West,A72a,A-Ewo,Ewondo,0,3.9,11.5,ewon1239
+A_Yao,,,A,North-West,A72a,A-Yao,Yaounde,0,3.6,11.2,ewon1239
+A_Yas,,,A,North-West,A72d,A-Yas,Yasem,3,4.4,11.7,
+A_Bul,,,A,North-West,A74a,A-Bul,Bulu,1,3,11.5,bulu1251
+A_Fan,xd149,Ae3,A,North-West,A75,A-Fan,Fang,2,2.1,14.1,fang1246
+A_Mak,,,A,North-West,A75,A-Mak,Make,3,-0.5,10,make1249
+A_Ntu,,,A,North-West,A75,A-Ntu,Ntum,1,1.62,11.6,ntum1238
+A_Kw1,,,A,North-West,A80,A-Kw1,Kwejo,0,3.5,16.2,ukhw1241
+A_Kw2,,,A,North-West,A80,A-Kw2,Kweso,5,1.8,16.3,
+A_Koo,,,A,North-West,A84,A-Koo,Koozime,0,3.4,13,koon1245
+A_Bek,,,A,North-West,A85b,A-Bek,Bekwil,0,1.8,14.2,bekw1242
+A_Mpy,,,A,North-West,A86c,A-Mpy,Mpyemo,0,3.5,15,mpie1238
+A_Bom,xd164,Ae43,A,North-West,A87,A-Bom,Bomwali,3,1.55,15.7,bomw1238
+A_San,,,A,North-West,A87,A-San,Sangasanga,5,2.2,15.15,
+A_Pom,,,A,North-West,A92,A-Pom,Pomo,2,1.7,16.2,pomo1271
+A_Ka2,,,A,North-West,A93a,A-Ka2,Kako,0,4.1,15.2,kako1242
+B_Pon,,,B,North-West,B11a,B-Pon,Pongwe,1,0.35,9,mpon1255
+B_Ga2,,,B,North-West,B11C,B-Ga2,Galwa,0,-0.8,10.1,galw1238
+B_Him,,,B,North-West,B11d,B-Him,Himba,6,-1.48,11.54,simb1254
+B_Nko,,,B,North-West,B11e,B-Nko,Nkomi,1,-1.3,9.22,nkom1238
+B_Sha,,,B,North-West,B20,B-Sha,Shama,0,0.55,12.85,osam1235
+B_Sek,,,B,North-West,B21,B-Sek,Seki,0,0.5,9.5,seki1238
+B_Ung,,,B,North-West,B22b,B-Ung,Ungom,0,-0.5,10.5,ngom1270
+B_Pov,,,B,North-West,B22c,B-Pov,Pove,2,-1.2,12.2,bubi1250
+B_Mbh,,,B,North-West,B23,B-Mbh,Mbahouin,16,-1.7,13.4,mban1268
+B_Wu1,,,B,North-West,B24,B-Wu1,Wumbu,0,-2,12,wumb1242
+B_Mah,,,B,North-West,B25,B-Mah,Mahongwe,0,1,14.3,maho1248
+B_Sa1,,,B,North-West,B25,B-Sa1,Sake,7,-0.1,11.9,sake1247
+B_Ko3,,,B,North-West,B25b,B-Ko3,Kota,0,1.1,13.9,kota1274
+B_Nd1,xd162,Ae41,B,North-West,B26,B-Nd1,Ndasa,2,-3.3,13.2,ndas1238
+B_Tsg,xd40,Ac16,B,North-West,B31,B-Tsg,Tsogo,4,-1.75,11.5,tsog1243
+B_Pin,,,B,North-West,B33,B-Pin,Pinji,1,-1.8,11,pinj1243
+B_Bon,,,B,West-Coastal,B40,B-Bon,Bongo,2,-3.1,12,
+B_Vu2,,,B,West-Coastal,B40a,B-Vu2,Vungu,1,-2.1,10.7,vumb1238
+B_Bwa,,,B,West-Coastal,B41,B-Bwa,Bwali,2,-1.4,10.6,
+B_Shi,,,B,West-Coastal,B41,B-Shi,Shira,0,-1.5,10.5,sira1266
+B_Sg2,,,B,West-Coastal,B42a,B-Sg2,Sango,1,-1.2,12.5,sang1333
+B_Pu1,,,B,West-Coastal,B43,B-Pu1,Punu,1,-2.5,11,punu1239
+B_Lu1,,,B,West-Coastal,B44,B-Lu1,Lumbu,0,-2.8,10,lumb1249
+B_Bwi,,,B,West-Coastal,B45,B-Bwi,Bwisi,1,-3.25,13.1,bwis1242
+B_Bar,,,B,West-Coastal,B46,B-Bar,Barama,1,-2.6,9.8,bara1362
+B_Dum,,,B,West-Coastal,B51,B-Dum,Duma,5,-0.8,12.6,duma1253
+B_Wan,,,B,West-Coastal,B51,B-Wan,Wanji,2,-0.9,12.8,wand1266
+B_Nze,,,B,West-Coastal,B52,B-Nze,Nzebi,1,-1.9,11.9,njeb1242
+B_Tsa,,,B,West-Coastal,B53,B-Tsa,Tsangi,2,-2.9,13.7,tsaa1242
+B_Mbe,,,B,West-Coastal,B61,B-Mbe,Mbede,1,-0.4,14,mber1257
+B_Bam,,,B,West-Coastal,B62,B-Bam,Bamba,0,-1.2,13.9,omba1241
+B_Mpi,,,B,West-Coastal,B62,B-Mpi,Mpini,3,-1.2,14.5,
+B_Kuy,,,B,West-Coastal,B63,B-Kuy,Kuya,10,-1.5,13.4,kuya1249
+B_Ndu,,,B,West-Coastal,B63,B-Ndu,Ndumu,11,-1.6,13.5,ndum1239
+B_Ngw,,,B,West-Coastal,B64,B-Ngw,Ngwi,2,-4.3,19.4,ngwi1238
+B_Ng2,,,B,West-Coastal,B65a,B-Ng2,Ngoli,1,-4.15,19.1,ngul1247
+B_Kan,,,B,West-Coastal,B66,B-Kan,Kaningi,5,-1.75,13.6,kani1279
+B_Nun,,,B,West-Coastal,B70,B-Nun,Nunu,3,-3.1,16.9,
+B_Tgu,,,B,West-Coastal,B70,B-Tgu,Tegue,3,-1.1,15.2,teke1275
+B_Tek,,,B,West-Coastal,B70,B-Tek,Teke,7,-4.1,17.2,teke1275
+B_Tkk,,,B,West-Coastal,B71a,B-Tkk,Teke-Kale,2,-1.3,15.4,teke1275
+B_Gun,,,B,West-Coastal,B72a,B-Gun,Gungwel,4,-1.9,15.8,ngun1272
+B_Teg,,,B,West-Coastal,B73,B-Teg,Tege-W,3,-3.3,13.2,
+B_Ts2,,,B,West-Coastal,B73A,B-Ts2,Tsayi,2,-2.8,12.6,teke1281
+B_Lal,,,B,West-Coastal,B73B,B-Lal,Lali,2,-3.7,13.3,teke1277
+B_Iya,,,B,West-Coastal,B73c,B-Iya,Iyaa,3,-3.8,13.3,yaka1274
+B_Bo,xd43,Ac19,B,West-Coastal,B74b,B-Bo,Bo,0,-2.5,15.6,teke1278
+B_Ti2,,,B,West-Coastal,B74C,B-Ti2,Tio,3,-3.7,14.5,
+B_Ite,,,B,West-Coastal,B75,B-Ite,Iteke,3,-3.6,16.65,bali1275
+B_Ku2,,,B,West-Coastal,B77A,B-Ku2,Kukuya,0,-2.3,14.5,teke1280
+B_Fum,,,B,West-Coastal,B77b,B-Fum,Fumu,0,-4.2,15.3,fuum1238
+B_Iwu,,,B,West-Coastal,B78,B-Iwu,Iwum,1,-4.3,17.05,wuum1238
+B_Gon,,,B,West-Coastal,B80,B-Gon,Gongo,2,-5.7,18.2,
+B_Kem,,,B,West-Coastal,B80,B-Kem,Kempee,2,-2.3,18,kemp1234
+B_Kes,,,B,West-Coastal,B80,B-Kes,Kesaa,2,-3,17.5,
+B_Mi2,,,B,West-Coastal,B80,B-Mi2,Mpiin,4,-5,18.7,
+B_Zad,,,B,West-Coastal,B80a,B-Zad,Zadi,2,-3.8,19.1,
+B_Te2,,,B,West-Coastal,B81a,B-Te2,Tiene,1,-2.7,17.7,tien1242
+B_Ful,,,B,West-Coastal,B83,B-Ful,Fulunga,3,-4.2,15.8,
+B_Fin,,,B,West-Coastal,B83a,B-Fin,Finu,4,-5.2,14.8,mfin1238
+B_Mpu,,,B,West-Coastal,B84a,B-Mpu,Mpuono,3,-3.95,16.9,mpuu1242
+B_Iyn,xd51,Ac26,B,West-Coastal,B85b,B-Iyn,Iyanz,2,-4.7,18.7,yans1239
+B_Kiy,,,B,West-Coastal,B85B,B-Kiy,Kiyey,6,-3.7,17.95,
+B_Nso,xd50,Ac25,B,West-Coastal,B85d,B-Nso,Nsongo,0,-4.9,19.85,song1299
+B_Imp,,,B,West-Coastal,B85e,B-Imp,Impur,0,-4.3,18.8,
+B_Mp2,,,B,West-Coastal,B85E,B-Mp2,Mput,2,-4.3,18.9,
+B_Tm2,,,B,West-Coastal,B85f,B-Tm2,Tsambaan,3,-4.5,18.9,samb1309
+B_Dzi,xd47,Ac22,B,West-Coastal,B86,B-Dzi,Dzing,2,-4.3,19.3,ding1239
+B_Mb1,xd46,Ac21,B,West-Coastal,B87,B-Mb1,Mbuun,1,-4.9,19.8,mpuo1241
+C_Bam,,,C,West-Congo Basin,C00,C-Bam,Bambomba,8,1.3,17.3,bomi1238
+C_Bwa,,,C,West-Congo Basin,C00,C-Bwa,Bwamba,0,3.6,18,
+C_Lik,,,C,West-Congo Basin,C00,C-Lik,Likau,5,2.4,18.9,
+C_Mok,,,C,West-Congo Basin,C00,C-Mok,Mokiba,2,0.7,14.5,
+C_Ba2,,,C,West-Congo Basin,C00a,C-Ba2,Babole,3,1.4,18,dibo1245
+C_Gan,,,C,West-Congo Basin,C01,C-Gan,Gando,7,3.6,17.5,ngan1304
+C_Kot,,,C,West-Congo Basin,C02,C-Kot,Kota,1,-0.7,12,kota1274
+C_Iso,,,C,West-Congo Basin,C10,C-Iso,Isongo,7,4,17.8,
+C_Lke,,,C,West-Congo Basin,C10,C-Lke,Leke,4,1.6,17.2,
+C_Kod,,,C,West-Congo Basin,C11,C-Kod,Kondi,12,3.9,16.2,ngun1270
+C_Pan,,,C,West-Congo Basin,C12,C-Pan,Pande,7,3.5,16.2,pand1264
+C_Gon,,,C,West-Congo Basin,C12b,C-Gon,Gongo,7,3.2,16,bogo1240
+C_Bon,,,C,West-Congo Basin,C15,C-Bon,Bongili,0,0.3,15.5,bong1284
+C_Lob,,,C,West-Congo Basin,C16,C-Lob,Lobala,4,2.7,18.5,loba1239
+C_Aka,,,C,West-Congo Basin,C22,C-Aka,Aka,7,4.3,18.5,akwa1248
+C_Koy,,,C,West-Congo Basin,C24,C-Koy,Koyo,0,-0.5,15.9,koyo1242
+C_Bo1,,,C,West-Congo Basin,C25,C-Bo1,Bosi,0,-1.1,15.4,mbos1242
+C_Lkb,,,C,West-Congo Basin,C27,C-Lkb,Likuba,2,-1.7,16.4,liku1242
+C_Bab,,,C,West-Congo Basin,C30,C-Bab,Babale,3,-2.1,17.15,
+C_Blk,,,C,West-Congo Basin,C30,C-Blk,Boloki,1,0.9,18.7,bolo1262
+C_Gya,,,C,West-Congo Basin,C30,C-Gya,Gyando,1,1.8,18.2,
+C_Lkk,,,C,West-Congo Basin,C30,C-Lkk,Likoka,2,2.7,18.7,liko1252
+C_Mot,,,C,West-Congo Basin,C30,C-Mot,Motembo,1,2.1,21.1,temb1272
+C_Ndo,,,C,West-Congo Basin,C30,C-Ndo,Ndobo,0,1,18.7,ndob1238
+C_Pam,,,C,West-Congo Basin,C30,C-Pam,Pama,2,-1.05,17.2,mpam1239
+C_Mo1,,,C,West-Congo Basin,C30a,C-Mo1,Moya,2,-2.5,16.2,
+C_Dok,xd158,Ae38,C,West-Congo Basin,C31,C-Dok,Doko,4,1.6,19.7,doko1244
+C_Lo1,,,C,West-Congo Basin,C31a,C-Lo1,Loi,1,0.5,17.9,loii1242
+C_Zam,,,C,West-Congo Basin,C31e,C-Zam,Zamba,2,1.4,18.2,zamb1245
+C_Mbz,,,C,West-Congo Basin,C31f,C-Mbz,Mbonzo,0,1.8,18,
+C_Lib,,,C,West-Congo Basin,C31r,C-Lib,Libinza,0,1.5,18.5,libi1244
+C_Bal,,,C,West-Congo Basin,C31s,C-Bal,Balobo,1,1.9,19.4,liki1240
+C_Mwe,,,C,West-Congo Basin,C31y,C-Mwe,Mwe,8,2.1,19.2,bamw1238
+C_Bob,,,C,West-Congo Basin,C32,C-Bob,Bobangi,0,-1.4,17.7,bang1354
+C_Kin,,,C,West-Congo Basin,C32,C-Kin,Kinunu,4,-1.9,16.5,
+C_Mbm,,,C,West-Congo Basin,C32,C-Mbm,Mbompo,2,-0.1,18.1,
+C_Sen,,,C,West-Congo Basin,C33,C-Sen,Sengele,1,-1.8,18.7,seng1278
+C_Sak,xd49,Ac24,C,West-Congo Basin,C34,C-Sak,Sakata,3,-2.7,18.1,saka1287
+C_Kba,,,C,West-Congo Basin,C34a,C-Kba,Kibai,6,-2.9,18.6,
+C_Kes,,,C,West-Congo Basin,C34B,C-Kes,Kesha,2,-3.05,18.7,
+C_Bol,,,C,West-Congo Basin,C35,C-Bol,Bolia,1,-1.5,18.4,boli1255
+C_Nt1,,,C,West-Congo Basin,C35,C-Nt1,Ntomba-B,0,-1.1,18.1,boli1263
+C_Lol,,,C,West-Congo Basin,C36,C-Lol,Lolia,1,-1.3,18.2,boli1255
+C_Bdz,xd157,Ae37,C,West-Congo Basin,C36c,C-Bdz,Budza,1,2.2,22.5,budz1238
+C_Lin,xd147,Ae28,C,West-Congo Basin,C36d,C-Lin,Lingala,1,1.5,17.5,ling1263
+C_Lko,,,C,West-Congo Basin,C36g,C-Lko,Leko,2,0.8,18.6,
+C_Bdj,,,C,West-Congo Basin,C37,C-Bdj,Budja,4,2.2,23.2,budj1234
+C_Kul,,,C,West-Congo Basin,C41,C-Kul,Kula,3,2.3,20.2,
+C_Ngo,,,C,West-Congo Basin,C41,C-Ngo,Ngombe,3,1.2,19.8,ngom1268
+C_Ben,,,C,Boan-Lebonya,C43,C-Ben,Benge,5,3.4,23.9,beng1281
+C_Boa,xd183,Ae7,C,Boan-Lebonya,C44a,C-Boa,Boa,3,2.7,23.8,bwaa1238
+C_Leb,,,C,Boan-Lebonya,C45,C-Leb,Lebeo,6,2.5,27,beoo1240
+C_Nge,,,C,Boan-Lebonya,C45,C-Nge,Ngelema,1,1.5,25,ngel1238
+C_Ela,,,C,West-Congo Basin,C50,C-Ela,Elambo,1,-1,23.75,
+C_Mbe,xd156,Ae36,C,West-Congo Basin,C51,C-Mbe,Mbesa,3,1.1,23.15,mbes1238
+C_Hes,,,C,West-Congo Basin,C52,C-Hes,Heso,3,0.7,24.2,sode1235
+C_Lon,,,C,West-Congo Basin,C52,C-Lon,Lolinga,1,1.05,23.85,
+C_Lyo,,,C,West-Congo Basin,C52,C-Lyo,Lyombo,2,0.5,24.3,
+C_Bau,,,C,West-Congo Basin,C53,C-Bau,Bauma,6,0,24,
+C_Wen,,,C,West-Congo Basin,C53,C-Wen,Wenge,7,0.1,24.1,
+C_Ilo,,,C,West-Congo Basin,C54,C-Ilo,Ilombo,1,1,24.3,
+C_Kle,xd146,Ae27,C,West-Congo Basin,C55,C-Kle,Kele,1,0.8,24.2,kele1255
+C_Kun,xd160,"Ae4, SCCS14",C,West-Congo Basin,C61,C-Kun,Kundo,0,-1,19.6,nkun1238
+C_Mng,,,C,West-Congo Basin,C61,C-Mng,Mongo,1,-0.6,24.3,mong1338
+C_Kon,,,C,West-Congo Basin,C64,C-Kon,Konda,0,-1.4,19,kond1299
+C_Nt4,,,C,West-Congo Basin,C65a,C-Nt4,Ntomba-I,2,-1.9,18.3,ntom1249
+C_Ml2,,,C,West-Congo Basin,C68a,C-Ml2,Mbole-K,0,-0.1,24.5,mbol1247
+C_Omb,,,C,West-Congo Basin,C69,C-Omb,Ombo,0,-2.2,25.8,ombo1238
+C_Tet,xd144,Ae25,C,West-Congo Basin,C71,C-Tet,Tetela,0,-5,25,tete1250
+C_Yyo,,,C,West-Congo Basin,C71a,C-Yyo,Yyondo,0,-4.6,24.2,
+C_Ku2,xd141,Ae22,C,West-Congo Basin,C72a,C-Ku2,Kushu,0,-4,25.1,kusu1252
+C_Kla,,,C,West-Congo Basin,C75,C-Kla,Kela,4,-2.5,23.2,kela1254
+C_Ile,,,C,West-Congo Basin,C80,C-Ile,Ilebo,6,-4.3,20.6,
+C_Mbi,xd66,Ac4,C,West-Congo Basin,C80,C-Mbi,Mbingi,6,-4.05,22.2,bush1247
+C_Shu,,,C,West-Congo Basin,C80,C-Shu,Shuwa,4,-4.1,22.2,pian1241
+C_Nde,,,C,West-Congo Basin,C81,C-Nde,Ndengese,6,-3.5,21.4,deng1250
+C_Won,,,C,West-Congo Basin,C83,C-Won,Wongo,0,-4.9,19.9,wong1247
+C_Lu1,,,C,West-Congo Basin,C83a,C-Lu1,Luhilel,0,-4.35,20.2,
+C_Lor,,,C,West-Congo Basin,C83B,C-Lor,Lori,2,-4.2,19.1,
+C_Cwa,,,C,West-Congo Basin,C90,C-Cwa,Cwao,6,-5,22,
+D_Kwa,,,D,Boan-Lebonya,D00,D-Kwa,Kwange,0,-3.9,25.9,kwan1271
+D_Lil,,,D,Boan-Lebonya,D00,D-Lil,Liliko,0,2.2,27.3,lili1250
+D_Lum,,,D,Boan-Lebonya,D00,D-Lum,Lumbwe,6,-6.5,28.2,
+D_Nge,,,D,Boan-Lebonya,D00,D-Nge,Ngengele,1,-2.8,25.3,
+D_Son,xd136,Ae18,D,Boan-Lebonya,D00,D-Son,Songe,0,-4.5,26.3,song1303
+D_Zur,,,D,Boan-Lebonya,D00,D-Zur,Zura,0,-4.5,26.6,
+D_La2,,,D,Boan-Lebonya,D00a,D-La2,Langa,0,-3.3,24.7,
+D_Len,,,D,Boan-Lebonya,D12,D-Len,Lengola,0,-0.5,25.5,leng1258
+D_Mit,,,D,East-Central,D13,D-Mit,Mituku,18,-0.2,24.8,mitu1240
+D_Eny,,,D,East-Central,D14,D-Eny,Enya,6,0.5,25.5,enya1247
+D_Ge1,,,D,East-Central,D14,D-Ge1,Genia,0,-4.1,26,
+D_Bin,xd159,Ae39,D,East-Central,D24,D-Bin,Binja-N,0,-2.7,26.2,binj1250
+D_Sng,xd129,Ae11,D,East-Central,D24,D-Sng,Songola,1,-2.3,26.5,song1300
+D_Le1,,,D,East-Central,D25,D-Le1,Lega,0,-2.7,27.3,lega1250
+D_Reg,,,D,East-Central,D25,D-Reg,Rega,0,-2.6,27.35,
+D_Zim,,,D,East-Central,D26,D-Zim,Zimba,0,-4.3,26.6,zimb1251
+D_Hol,xd925,B62,D,East-Central,D28,D-Hol,Holoholo,1,-5.9,29.2,holo1240
+D_Tum,,,D,East-Central,D28b,D-Tum,Tumbwe,5,-6,28.8,
+D_Bi1,xd154,Ae34,D,Boan-Lebonya,D32,D-Bi1,Bira,0,1.6,30.2,bera1259
+D_Ny1,,,D,Boan-Lebonya,D33,D-Ny1,Nyali,0,2,27.9,nyal1250
+D_Bod,,,D,Boan-Lebonya,D35,D-Bod,Bodo,0,2.2,27.9,bodo1272
+D_Kum,xd152,Ae32,D,Boan-Lebonya,D37,D-Kum,Kumu,0,-0.5,27,komo1260
+D_Nyg,,,D,Boan-Lebonya,D43,D-Nyg,Nyanga,0,-1.4,28,nyan1304
+D_Buy,xd57,Ac31,D,East-Great Lakes,D55,D-Buy,Buyu,17,-4.5,28.3,buyu1239
+E_Log,,,E,East-Great Lakes,E41,E-Log,Logoli,3,0.1,34.9,logo1258
+E_Gik,xd109,"Ad4, SCCS11",E,East-Kilimanjaro,E51,E-Gik,Gikuyu,0,-0.5,36.7,kiku1240
+E_Tha,,,E,East-Kilimanjaro,E54,E-Tha,Tharaka,0,-0.2,38.2,thar1283
+E_Kam,xd103,Ad34,E,East-Kilimanjaro,E55,E-Kam,Kamba,6,-1.4,38,kamb1297
+E_Cha,,,E,East-Kilimanjaro,E62b,E-Cha,Chaga,2,-3.2,37.3,chag1250
+E_Po1,xd102,Ad33,E,East-Coastal,E71,E-Po1,Pokomo,10,-1.4,39.9,poko1261
+E_Gi1,xd101,Ad32,E,East-Coastal,E72a,E-Gi1,Giryama,0,-3.2,39.4,giry1241
+E_Cho,,,E,East-Coastal,E72c,E-Cho,Choni,9,-3.8,39.8,chon1287
+E_Rab,,,E,East-Coastal,E72e,E-Rab,Rabai,10,-3.3,39.8,raba1248
+E_Di1,xd99,Ad30,E,East-Coastal,E73,E-Di1,Digo,9,-4.3,39.2,digo1243
+E_Seg,,,E,East-Coastal,E73,E-Seg,Segeju,11,-4.8,39.2,sege1246
+E_Daw,xd106,Ad37,E,East-Coastal,E74a,E-Daw,Dawida,10,-3.1,38,tait1250
+E_Sag,,,E,East-Coastal,E74b,E-Sag,Sagala,11,-6.9,36.3,saga1256
+F_Suk,xd90,Ad22,F,East-Coastal,F21,F-Suk,Sukuma,18,-3,33,suku1261
+F_Nya,xd88,Ad20,F,East-Coastal,F22,F-Nya,Nyamwezi,0,-4.3,33.2,nyam1276
+F_Sum,xd117,Ad47,F,East-Coastal,F23,F-Sum,Sumbwa,0,-3.9,32.8,sumb1240
+F_Nyi,,,F,East-Coastal,F31,F-Nyi,Nyiramba,10,-5,34.7,nila1242
+G_Gog,xd92,Ad24,G,East-Coastal,G11,G-Gog,Gogo,10,-6.3,35.7,gogo1263
+G_Kag,xd121,Ad50,G,East-Coastal,G12,G-Kag,Kaguru,10,-6.3,37,kagu1239
+G_Tav,,,G,East-Coastal,G21,G-Tav,Taveta,12,-3.4,37.8,tave1240
+G_Cas,xd105,Ad36,G,East-Coastal,G22,G-Cas,Casu,6,-4.2,37.8,asut1235
+G_Par,,,G,East-Coastal,G22,G-Par,Pare,1,-4.5,38,
+G_Sha,xd77,Ad10,G,East-Coastal,G23,G-Sha,Shambala,9,-4.9,38.3,sham1280
+G_Bon,,,G,East-Coastal,G24,G-Bon,Bondei,9,-5.3,38.8,bond1247
+G_Zig,,,G,East-Coastal,G31,G-Zig,Zigula,9,-5.4,38,zigu1244
+G_Ngw,xd95,Ad27,G,East-Coastal,G32,G-Ngw,Ngwele,10,-6.4,38.3,kwer1261
+G_Doe,,,G,East-Coastal,G33,G-Doe,Doe,9,-6.3,38.6,doee1238
+G_Zar,,,G,East-Coastal,G33,G-Zar,Zaramo,10,-7,39,zara1247
+G_Ngu,xd122,Ad51,G,East-Coastal,G34,G-Ngu,Ngulu,9,-6.2,37.5,ngul1246
+G_Lug,xd81,"Ad14, SCCS10",G,East-Coastal,G35,G-Lug,Luguru,10,-6.9,37.7,lugu1238
+G_Kam,,,G,East-Coastal,G36,G-Kam,Kami,11,-7.4,39.1,kami1256
+G_Kut,,,G,East-Coastal,G37,G-Kut,Kutu,10,-7.5,37.5,kutu1263
+G_Elw,,,G,East-Coastal,G40,G-Elw,Elwana,10,-1.1,40.1,ilwa1237
+G_Had,,,G,East-Coastal,G40,G-Had,Hadimu,10,-6.3,39.5,
+G_Mii,,,G,East-Coastal,G40,G-Mii,Miini,0,1.2,44,chim1312
+G_Pem,xd97,Ad29,G,East-Coastal,G40,G-Pem,Pemba,10,-5.2,39.3,pemb1239
+G_Vum,,,G,East-Coastal,G40,G-Vum,Vumba,12,-4.6,39.4,
+G_Tik,xd76,Ad1,G,East-Coastal,G41,G-Tik,Tikuu,10,-2,40.9,baju1245
+G_Sw1,,,G,East-Coastal,G42,G-Sw1,Swahili,0,-6.8,39.3,swah1253
+G_Nga,,,G,East-Coastal,G44a,G-Nga,Ngazija,4,-11.5,43.5,ngaz1238
+G_Mao,,,G,East-Coastal,G44b,G-Mao,Maore,1,-12.8,44.2,maor1244
+G_Nju,,,G,East-Coastal,G44b,G-Nju,Njuani,10,-12.1,44.3,ndzw1235
+G_Mwl,,,G,East-Coastal,G44c,G-Mwl,Mwali,0,-12.2,40.5,mwal1237
+G_Kin,,,G,East-Coastal,G65,G-Kin,Kinga,1,-9,34,nucl1379
+H_Be2,,,H,West-Coastal,H11a,H-Be2,Bembe,0,-3.9,13.55,beem1239
+H_Vi1,,,H,West-Coastal,H12,H-Vi1,Vili,3,-4.6,12.7,vili1238
+H_Su3,,,H,West-Coastal,H12b,H-Su3,Suundi,1,-6.3,18.1,suun1239
+H_Yo1,xd74,Ac8,H,West-Coastal,H12b,H-Yo1,Yombe,0,-5,13,yomb1244
+H_Yo2,xd74,Ac8,H,West-Coastal,H12B,H-Yo2,Yombe,1,-4.1,12.9,yomb1244
+H_Kun,,,H,West-Coastal,H13a,H-Kun,Kunyi,0,-4.1,13.05,kuny1238
+H_Su4,,,H,West-Coastal,H13b,H-Su4,Suundi,0,-4.3,12.9,suun1239
+H_Snd,xd54,Ac29,H,West-Coastal,H16,H-Snd,Sonde,8,-6.1,18.2,sond1250
+H_Man,,,H,West-Coastal,H16B,H-Man,Manyanga,1,-5.2,14,
+H_Mbo,,,H,West-Coastal,H16b,H-Mbo,Mboma,2,-5.7,14,
+H_Laa,,,H,West-Coastal,H16f,H-Laa,Laadi,4,-4.3,15,laar1238
+H_Lar,,,H,West-Coastal,H16f,H-Lar,Lari,2,-4.2,14.8,laar1238
+H_Nta,xd42,Ac18,H,West-Coastal,H16g,H-Nta,Ntandu,0,-5,15.2,koon1244
+H_Sik,xd38,Ac14,H,West-Coastal,H16h,H-Sik,Sikongo,0,-6.2,14.2,sans1272
+H_Su5,,,H,West-Coastal,H16i,H-Su5,Suundi,1,-4.8,14.7,suun1239
+H_Han,,,H,West-Coastal,H16j,H-Han,Hangala,0,-4.3,14.3,ghaa1238
+H_Zoo,xd42,Ac18,H,West-Coastal,H16k,H-Zoo,Zoombo,1,-6.7,15.1,koon1244
+H_Kam,,,H,West-Coastal,H17b,H-Kam,Kamba,4,-4.15,13.5,kaam1238
+H_Kim,,,H,West-Coastal,H21,H-Kim,Kimbundu,0,-8.75,15.51,kimb1241
+H_Sng,,,H,West-Coastal,H24,H-Sng,Songo,6,-4.5,18.2,nson1238
+H_Ya1,xd45,Ac20,H,West-Coastal,H31,H-Ya1,Yaka,0,-4.9,17.15,yaka1269
+H_Suk,xd41,"Ac17, SCCS6",H,West-Coastal,H32,H-Suk,Suku,1,-5.3,17.6,suku1259
+H_Hu1,,,H,West-Coastal,H33,H-Hu1,Hungana,1,-4.5,18.5,hung1278
+J_Reg,xd107,Ad38,J,East-Great Lakes,J00,J-Reg,Regi,4,-1.9,33.1,kara1481
+J_Yaa,xd45,Ac20,J,East-Great Lakes,J00,J-Yaa,Yaaka,0,-1.8,29.3,yaka1269
+J_Nyo,xd87,Ad2,J,East-Great Lakes,J11,J-Nyo,Nyoro,0,1.1,30,nyor1246
+J_Him,,,J,East-Great Lakes,J13,J-Him,Hima,0,-0.6,30.5,
+J_Gan,xd124,"Ad7, SCCS12",J,East-Great Lakes,J15,J-Gan,Ganda,1,0.5,33.7,gand1255
+J_Sog,xd116,Ad46,J,East-Great Lakes,J16,J-Sog,Soga,3,0.6,33.9,soga1242
+J_Gwe,,,J,East-Great Lakes,J17,J-Gwe,Gwere,6,1.2,34,gwer1238
+J_Tal,,,J,East-Great Lakes,J21,J-Tal,Talinga,4,0.7,29.8,tali1258
+J_Hay,xd112,Ad42,J,East-Great Lakes,J22,J-Hay,Haya,6,-1.8,31.4,haya1250
+J_Zib,,,J,East-Great Lakes,J22,J-Zib,Ziba,3,-1.1,31.4,
+J_Zin,xd119,Ad49,J,East-Great Lakes,J23,J-Zin,Zinza,3,-2.7,31.4,zinz1238
+J_Ker,xd113,Ad43,J,East-Great Lakes,J24,J-Ker,Kerebe,5,-2.1,33.5,kere1283
+J_Jit,,,J,East-Great Lakes,J25,J-Jit,Jita,4,-1.8,33,jita1239
+J_Kwa,,,J,East-Great Lakes,J25,J-Kwa,Kwaya,4,-1.8,33.5,kway1241
+J_Kis,,,J,East-Great Lakes,J30,J-Kis,Kisa,17,0.3,34.8,kisa1263
+J_Mar,,,J,East-Great Lakes,J30,J-Mar,Maraba,12,0.25,34.5,
+J_Buk,xd111,Ad41,J,East-Great Lakes,J31c,J-Buk,Bukusu,5,0.6,34.7,buku1249
+J_Isu,xd110,Ad40,J,East-Great Lakes,J32,J-Isu,Isuka,6,0.3,34.8,idak1243
+J_Sam,,,J,East-Great Lakes,J34,J-Sam,Samia,6,0.3,34.1,saam1283
+J_Nan,,,J,East-Great Lakes,J42,J-Nan,Nande,0,0.2,29.2,nand1264
+J_Shu,,,J,East-Great Lakes,J42,J-Shu,Shu,0,0.15,29.4,
+J_Swa,,,J,East-Great Lakes,J42,J-Swa,Swaga,2,0,29,
+J_Yir,,,J,East-Great Lakes,J42,J-Yir,Yira,0,0.1,29.3,
+J_Hun,xd133,Ae15,J,East-Great Lakes,J51,J-Hun,Hunde,12,-1.5,28.5,hund1239
+J_Hav,,,J,East-Great Lakes,J52,J-Hav,Havu,1,-2.1,29.1,havu1238
+J_Shi,xd131,Ae13,J,East-Great Lakes,J53,J-Shi,Shi,1,-2.5,28.8,shii1238
+J_Ful,,,J,East-Great Lakes,J54,J-Ful,Fuliru,1,-3.1,29,fuli1240
+J_Vir,,,J,East-Great Lakes,J55,J-Vir,Vira,1,-3.4,29.1,
+J_Tem,,,J,East-Great Lakes,J57,J-Tem,Tembo,0,-1.7,28,temb1270
+J_Kig,,,J,East-Great Lakes,J61,J-Kig,Kigoyi,3,-1.7,29.3,
+J_Nig,,,J,East-Great Lakes,J61,J-Nig,Nigi,4,-1.4,29.6,
+J_Rer,,,J,East-Great Lakes,J61,J-Rer,Rera,0,-1.7,29.6,
+J_Rwa,,,J,East-Great Lakes,J61,J-Rwa,Rwanda,0,-2,30,
+J_Run,xd184,Ae8,J,East-Great Lakes,J62,J-Run,Rundi,0,-3,30,rund1242
+J_Vin,,,J,East-Great Lakes,J67,J-Vin,Vinza,4,-5.2,31,vinz1238
+K_Hol,,,K,West-Southwest,K01,K-Hol,Holu,5,-7.7,17.5,holu1245
+K_Cio,xd36,Ac12,K,West-Southwest,K11,K-Cio,Ciokwe,0,-9,20,chok1245
+K_Luv,xd35,Ac11,K,West-Southwest,K14,K-Luv,Luvale,0,-13.1,22.1,luva1239
+K_Lwe,xd35,Ac11,K,West-Southwest,K14,K-Lwe,Lwena,0,-12.4,22.4,luva1239
+K_Mbu,,,K,West-Southwest,K15,K-Mbu,Mbunda,0,-11.8,19.9,mbun1249
+K_Gan,,,K,West-Southwest,K19,K-Gan,Gangela,1,-14.1,21.4,
+K_Sal,,,K,West-Southwest,K21,K-Sal,Salampasu,2,-7.5,22.5,sala1268
+K_Nde,,,K,West-Southwest,K22,K-Nde,Ndembu,5,-10.7,22.4,
+K_Lun,xd72,Ac6,K,West-Southwest,K23,K-Lun,Lunda,1,-12,24.2,lund1266
+K_Ruu,,,K,West-Southwest,K23,K-Ruu,Ruund,9,-8.6,23,ruun1238
+K_Luy,,,K,West-Southwest,K31,K-Luy,Luyi,1,-16.2,22,luya1241
+K_Kwa,,,K,West-Southwest,K33,K-Kwa,Kwangali,0,-17.9,19.7,kwan1273
+K_Dci,,,K,West-Southwest,K39,K-Dci,Dciriku,0,-17.9,20.8,diri1252
+K_Mb4,xd39,Ac15,K,West-Southwest,K51B,K-Mb4,Mbala,0,-4.5,17.9,mbal1257
+K_Phe,xd44,Ac2,K,West-Southwest,K52,K-Phe,Pheende,0,-6,19,phen1239
+K_Kwe,,,K,West-Southwest,K53,K-Kwe,Kwezo,1,-5.6,18.4,kwes1244
+L_Bwi,,,L,East-Central,L00,L-Bwi,Bwile,7,-8,29,bwil1245
+L_Keb,,,L,East-Central,L00,L-Keb,Kebwe,4,-6.5,26.7,
+L_Yaz,,,L,East-Central,L00,L-Yaz,Yazi,5,-5.3,26.8,hemb1242
+L_Kei,,,L,East-Central,L21,L-Kei,Kete-I,3,-7.6,23.1,kete1252
+L_Mba,,,L,West-Southwest,L22a,L-Mba,Mbagani,0,-6.7,21.7,
+L_Lw1,,,L,West-Southwest,L22b,L-Lw1,Lwalwa,2,-7.2,21.8,lwal1238
+L_Son,xd136,Ae18,L,East-Central,L23,L-Son,Songye,1,-6.15,24.4,song1303
+L_Ba2,,,L,East-Central,L27a,L-Ba2,Bangubangu,4,-4.6,26.8,bang1350
+L_LuK,xd134,Ae16,L,East-Central,L31,L-LuK,Luba-Ks,2,-6.5,23.5,luba1249
+L_Kan,,,L,East-Central,L32,L-Kan,Kanyok,2,-7.1,23.4,kany1247
+L_LuS,"xd182, xd61","Ac35, Ae6",L,East-Central,L33,L-LuS,Luba-Sh,1,-7.8,27,luba1250
+L_He1,,,L,East-Central,L34,L-He1,Hemba,0,-5.7,26.7,hemb1242
+L_He2,,,L,East-Central,L34,L-He2,Hemba-m,1,-5.5,26.8,hemb1242
+L_San,xd137,Ae19,L,East-Central,L35,L-San,Sanga,0,-9.6,26.8,sang1331
+L_Kao,xd58,Ac32,L,East-Central,L41,L-Kao,Kaonde,1,-12.2,26.8,kaon1241
+L_Nko,,,L,East-Central,L62,L-Nko,Nkoya,1,-14.8,24.8,nkoy1244
+M_Mam,xd70,Ac43,M,East-Central,M15,M-Mam,Mambwe,2,-9.2,31.8,mamb1296
+M_Kon,xd68,Ac41,M,East-Coastal,M31,M-Kon,Konde,0,-8.95,33.55,mako1251
+M_Ny1,,,M,East-Coastal,M31,M-Ny1,Nyakyusa,0,-9.7,33.9,nyak1260
+M_Tem,,,M,East-Central,M40,M-Tem,Temba,1,-11.1,27.3,
+M_Ta1,,,M,East-Central,M41,M-Ta1,Taabwa,0,-7.8,30,shil1264
+M_Bem,,,M,East-Central,M42,M-Bem,Bemba,1,-12.6,28.2,bemb1257
+M_Aus,,,M,East-Central,M43,M-Aus,Aushi,1,-11.2,26.8,aush1241
+M_Ngu,,,M,East-Central,M50,M-Ngu,Ngumbo,0,-10.8,29.7,
+M_Lal,xd59,Ac33,M,East-Central,M52,M-Lal,Lala,0,-13.3,30.2,lala1264
+M_Lam,xd71,Ac5,M,East-Central,M54,M-Lam,Lamba,0,-12.9,28.6,lamb1271
+M_Len,,,M,East-Central,M61,M-Len,Lenje,0,-15,27.5,lenj1248
+M_Sol,,,M,East-Central,M62,M-Sol,Soli,1,-15.4,28.3,soli1239
+M_To2,xd56,Ac30,M,East-Central,M64a,M-To2,Tonga,0,-16.8,27.2,tong1318
+N_Mpo,,,N,East-Coastal,N14,N-Mpo,Mpoto,2,-10.7,35.6,mpot1240
+N_Tu2,xd62,Ac36,N,East-Coastal,N21a,N-Tu2,Tumbuka,1,-11.6,33.6,tumb1250
+N_Suk,,,N,East-Coastal,N25,N-Suk,Sukwa,0,-9.6,33.2,
+N_Lam,,,N,East-Coastal,N26,N-Lam,Lambya,0,-9.7,33.6,lamb1272
+N_Nys,xd65,Ac39,N,East-Coastal,N31,N-Nys,Nyasa,7,-11.2,35.8,mwer1247
+N_Nyj,,,N,East-Coastal,N31a,N-Nyj,Nyanja,0,-12,33.5,nyan1308
+N_Cew,,,N,East-Coastal,N31b,N-Cew,Cewa,1,-14,33.8,
+N_Sng,,,N,East-Coastal,N41,N-Sng,Senga,0,-11.3,32.9,nsen1242
+N_Kun,xd63,Ac37,N,East-Coastal,N42,N-Kun,Kunda,0,-15.5,30,kund1255
+N_Sen,xd67,Ac40,N,East-Coastal,N44,N-Sen,Sena,2,-17,35.2,nucl1396
+P_Ya1,xd73,Ac7,P,East-Coastal,P21,P-Ya1,Yao,0,-15.7,35.5,yaoo1241
+P_Ma4,xd69,Ac42,P,East-Southeast,P31c,P-Ma4,Makua,0,-14,39.5,makh1264
+P_Lom,,,P,East-Southeast,P32,P-Lom,Lomwe,0,-16.5,36.5,lomw1241
+R_Um1,xd28,"Ab5, SCCS5",R,West-Southwest,R11,R-Um1,Umbundu,0,-11.3,16.2,umbu1257
+R_Nku,,,R,West-Southwest,R14,R-Nku,Nkumbi,13,-16.5,14.6,
+R_Kwa,,,R,West-Southwest,R21,R-Kwa,Kwanyama,0,-17,16.8,kuan1247
+R_Ndo,xd20,Ab19,R,West-Southwest,R22,R-Ndo,Ndonga,0,-18,16.8,ndon1254
+R_Her,xd10,Ab1,R,West-Southwest,R31,R-Her,Herero,0,-17,12,here1253
+S_Mba,,,S,East-South,S00,S-Mba,Mbalangwe,0,-17.8,23,
+S_Sho,xd19,Ab18,S,East-South,S10,S-Sho,Shona,0,-19,30,shon1251
+S_Kor,,,S,East-South,S11,S-Kor,Korekore,4,-17,30,kore1281
+S_Zez,,,S,East-South,S12,S-Zez,Zezuru,0,-17.8,31.1,zezu1238
+S_Man,,,S,East-South,S13,S-Man,Manyika,0,-18.5,31.1,many1258
+S_Kar,,,S,East-South,S14,S-Kar,Karanga,0,-20.1,30.8,kara1480
+S_Nda,xd18,Ab17,S,East-South,S15,S-Nda,Ndau,0,-19.8,34.8,ndau1241
+S_Kal,,,S,East-South,S16,S-Kal,Kalanga,1,-20.45,27.8,kala1384
+S_Ven,xd29,Ab6,S,East-South,S21,S-Ven,Venda,1,-22.2,30,vend1245
+S_Twn,xd14,Ab13,S,East-South,S31,S-Twn,Tswana,0,-25.5,25.9,tswa1253
+S_Kha,,,S,East-South,S31d,S-Kha,Khalaxadi,4,-13.7,22,kgal1244
+S_Sot,xd31,Ab8,S,East-South,S32,S-Sot,Sotho-N,0,-30,28,sout2807
+S_Loz,xd26,"Ab3, SCCS4",S,East-South,S34,S-Loz,Lozi,0,-17.9,26,lozi1239
+S_Xho,,,S,East-South,S41,S-Xho,Xhosa,0,-32,27,xhos1239
+S_Zul,xd13,Ab12,S,East-South,S42,S-Zul,Zulu,0,-28,32,zulu1248
+S_Swa,xd21,Ab2,S,East-South,S43,S-Swa,Swati,0,-26.5,31.5,swat1243
+S_Nde,xd32,Ab9,S,East-South,S44,S-Nde,Ndebele,0,-19.5,29,nort2795
+S_Ngo,xd75,Ac9,S,East-South,S45,S-Ngo,Ngoni,3,-11.65,33.65,ngon1269
+S_Tsw,,,S,East-South,S51,S-Tsw,Tswa,6,-23.8,35,tswa1255
+S_Nku,,,S,East-South,S52,S-Nku,Nkuna,6,-24.1,30.3,
+S_Tso,xd27,"Ab4, SCCS3",S,East-South,S53,S-Tso,Tsonga,0,-23,33.5,tson1249
+S_Ron,,,S,East-South,S54,S-Ron,Ronga,6,-26,33,rong1268
+S_Kon,,,S,East-South,S54a,S-Kon,Konde,6,-27,32.6,kond1296
+S_Lul,,,S,East-South,S54b,S-Lul,Luleke,9,-22.4,31.2,lule1255
+Eja,xd195,Af18,0,Bantoid,800,Eja,Ejagham,0,5.5,9.2,ejag1239
