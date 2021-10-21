@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2019.11.28
 chardet==3.0.4
 cldfbench==1.7.2
--e git+https://github.com/D-PLACE/dplace-tree-birchall_et_al2016@09deffd313b1b2a22c248326ac8aa1fb9cf0c958#egg=cldfbench_birchall_et_al2016
+-e git+https://github.com/D-PLACE/dplace-tree-birchall_et_al2016@ee8e4e50dda2667d1ec1dc80c1b7285413aa610a#egg=cldfbench_birchall_et_al2016
 cldfcatalog==1.3.2
 clldutils==3.10.0
 colorama==0.4.3

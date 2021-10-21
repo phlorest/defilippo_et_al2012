@@ -1,4 +1,4 @@
-taxon,xd_ids,soc_ids,Guthrie,Hist-Groups,G-code,L-code,Language,missing,Longitude,Latitude,glottocode
+taxon,xd_ids,soc_ids,Guthrie,Hist-Groups,G-code,L-code,Language,missing,orig-Longitude,orig-Latitude,glottocode
 Tiv,xd320,"Ah3, SCCS16",0,Bantoid,802,Tiv,Tiv,0,5,7.5,tivv1240
 Ama,,,0,Bantoid,805,Ama,Amasi,9,6.1,9.75,
 Amb,,,0,Bantoid,806,Amb,Ambele,9,6.95,9.55,ambe1247

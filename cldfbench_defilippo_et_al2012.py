@@ -8,35 +8,8 @@ class Dataset(phlorest.Dataset):
     dir = pathlib.Path(__file__).parent
     id = "defilippo_et_al2012"
 
-    def add_custom_schema(self, args):
-        args.writer.cldf.add_columns(
-            'LanguageTable',
-            'Guthrie',
-            'Hist-Groups',
-            'G-code',
-            'L-code',
-            'Language',
-            'missing',
-            'orig-Longitude',
-            'orig-Latitude',
-        )
-
-    @staticmethod
-    def language_factory(d, row):
-        for k in [
-            'Guthrie',
-            'Hist-Groups',
-            'G-code',
-            'L-code',
-            'Language',
-            'missing',
-            'orig-Longitude',
-            'orig-Latitude',
-        ]:
-            d[k] = row[k.replace('orig-', '')]
-
     def cmd_makecldf(self, args):
-        self.init(args, language_factory=self.language_factory)
+        self.init(args)
         with self.nexus_summary() as nex:
             self.add_tree_from_nexus(
                 args,
