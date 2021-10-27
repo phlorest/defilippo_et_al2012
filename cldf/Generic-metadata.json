@@ -19,13 +19,13 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-defilippo_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "17d163f",
+            "dc:created": "with-glottolog-v4.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.2",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],
