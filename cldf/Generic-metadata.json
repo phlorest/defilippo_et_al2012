@@ -19,13 +19,13 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-defilippo_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "19b948d",
+            "dc:created": "17d163f",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-50-g7e36072d31",
+            "dc:created": "v4.2",
             "dc:title": "Glottolog"
         }
     ],
@@ -47,6 +47,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "The LanguageTable lists the taxa, i.e. the leafs of the phylogeny, mapped to languoids.",
             "dc:extent": 412,
             "tableSchema": {
                 "columns": [
@@ -141,6 +142,10 @@
                     {
                         "datatype": "string",
                         "name": "orig-Latitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
                     }
                 ],
                 "primaryKey": [
@@ -204,6 +209,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "The ParameterTable lists characters (a.k.a. sites), i.e. the (often binary) variables used as data basis to compute the phylogeny from.",
             "dc:extent": 2832,
             "tableSchema": {
                 "columns": [
