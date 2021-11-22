@@ -14,12 +14,12 @@
     },
     "dc:identifier": "https://dx.doi.org/10.1098/rspb.2012.0318",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-defilippo_et_al2012",
+    "dcat:accessURL": "https://github.com/phlorest/defilippo_et_al2012",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-defilippo_et_al2012",
+            "rdf:about": "https://github.com/phlorest/defilippo_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "with-glottolog-v4.2",
+            "dc:created": "with-glottolog-v4.4",
             "dc:title": "Repository"
         },
         {
