@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "substitutions"
     },
-    "dc:title": "Phlorest phylogeny derived from De Filippo et al. 2012 'Bantu (De Filippo et al. 2012)'",
+    "dc:title": "Phlorest phylogeny derived from De Filippo et al.2012'Bantu (De Filippo et al. 2012)'",
     "dcat:accessURL": "https://github.com/phlorest/defilippo_et_al2012",
     "prov:wasDerivedFrom": [
         {
@@ -27,20 +27,20 @@
         {
             "rdf:about": "https://github.com/phlorest/defilippo_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "with-glottolog-v4.4-1-g12bdd58",
+            "dc:created": "with-glottolog-v4.4-2-ga841f46",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.4-57-g459b6703ab",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",

@@ -1,6 +1,5 @@
 import pathlib
 
-from tqdm import tqdm
 import phlorest
 
 
@@ -10,21 +9,22 @@ class Dataset(phlorest.Dataset):
 
     def cmd_makecldf(self, args):
         self.init(args)
-        with self.nexus_summary() as nex:
-            self.add_tree_from_nexus(
-                args,
-                self.raw_dir / 'bantu_lexico_bin_M1P_cov2_burn40_all.mcct.trees',
-                nex,
-                'summary',
-                detranslate=True,
-            )
+        args.writer.add_summary(
+            self.raw_dir.read_tree(
+                'bantu_lexico_bin_M1P_cov2_burn40_all.mcct.trees',
+                detranslate=True),
+            self.metadata,
+            args.log)
         posterior = self.sample(
-            self.read_gzipped_text(self.raw_dir / 'bantu_lexico_bin_M1P_cov2_burn40_all.trees.gz'),
+            self.raw_dir.read('bantu_lexico_bin_M1P_cov2_burn40_all.trees.gz'),
             detranslate=True,
             as_nexus=True)
-
-        with self.nexus_posterior() as nex:
-            for i, tree in tqdm(enumerate(posterior.trees.trees, start=1), total=1000):
-                self.add_tree(args, tree, nex, 'posterior-{}'.format(i))
-
-        self.add_data(args, self.raw_dir / 'deFelippo_et_al-Bantu.nex')
+        args.writer.add_posterior(
+            posterior.trees.trees,
+            self.metadata,
+            args.log,
+            verbose=True)
+        args.writer.add_data(
+            self.raw_dir.read_nexus('deFelippo_et_al-Bantu.nex'),
+            self.characters,
+            args.log)
