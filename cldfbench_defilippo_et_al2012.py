@@ -9,22 +9,18 @@ class Dataset(phlorest.Dataset):
 
     def cmd_makecldf(self, args):
         self.init(args)
-        args.writer.add_summary(
-            self.raw_dir.read_tree(
-                'bantu_lexico_bin_M1P_cov2_burn40_all.mcct.trees',
-                detranslate=True),
-            self.metadata,
-            args.log)
-        posterior = self.sample(
-            self.raw_dir.read('bantu_lexico_bin_M1P_cov2_burn40_all.trees.gz'),
-            detranslate=True,
-            as_nexus=True)
-        args.writer.add_posterior(
-            posterior.trees.trees,
-            self.metadata,
-            args.log,
-            verbose=True)
-        args.writer.add_data(
-            self.raw_dir.read_nexus('deFelippo_et_al-Bantu.nex'),
-            self.characters,
-            args.log)
+        
+        # Add summary tree (e.g. MCCT or Consensus)
+        summary = self.raw_dir.read_tree(
+            'bantu_lexico_bin_M1P_cov2_burn40_all.mcct.trees', detranslate=True)
+        args.writer.add_summary(summary, self.metadata, args.log)
+
+        # Add posterior tree distribution
+        posterior = self.raw_dir.read_trees(
+            'bantu_lexico_bin_M1P_cov2_burn40_all.trees.gz',
+            burnin=4001, sample=1000, detranslate=True)
+        args.writer.add_posterior(posterior, self.metadata, args.log)
+
+        # Add nexus data
+        data = self.raw_dir.read_nexus('deFelippo_et_al-Bantu.nex')
+        args.writer.add_data(data, self.characters, args.log)
