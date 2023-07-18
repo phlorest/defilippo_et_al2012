@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from De Filippo et al. 2012 'Bantu (De Filippo et al. 2012)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,26 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Cesare de Filippo"
+        },
+        {
+            "name": "Koen Bostoen"
+        },
+        {
+            "name": "Mark Stoneking"
+        },
+        {
+            "name": "Brigitte Pakendorf"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
