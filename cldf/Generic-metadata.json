@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "substitutions"
     },
-    "dc:title": "Phlorest phylogeny derived from De Filippo et al. 2012 'Bantu (De Filippo et al. 2012)'",
+    "dc:title": "Phlorest phylogeny derived from De Filippo et al. 2012 'Bringing together linguistic and genetic evidence to test the Bantu expansion'",
     "dcat:accessURL": "https://github.com/phlorest/defilippo_et_al2012",
     "prov:wasDerivedFrom": [
         {
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/defilippo_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "with-glottolog-v4.4-11-g457004b",
+            "dc:created": "with-glottolog-v4.4-13-g5743534",
             "dc:title": "Repository"
         },
         {

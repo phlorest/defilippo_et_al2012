@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from De Filippo et al. 2012 'Bantu (De Filippo et al. 2012)'
+# Phlorest phylogeny derived from De Filippo et al. 2012 'Bringing together linguistic and genetic evidence to test the Bantu expansion'
 
 [![CLDF validation](https://github.com/phlorest/defilippo_et_al2012/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/defilippo_et_al2012/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Bantu language family computed from a bayesian analysis scaled by substitutions.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at https://doi.org/10.1098/rspb.2012.0318
+Source available online at https://doi.org/10.1098/rspb.2012.0318
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/defilippo_et_al2012/main/summary_tree.svg)
