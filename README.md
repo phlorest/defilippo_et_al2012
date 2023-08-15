@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from De Filippo et al. 2012 'Bringing together linguistic and genetic evidence to test the Bantu expansion'
 
 [![CLDF validation](https://github.com/phlorest/defilippo_et_al2012/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/defilippo_et_al2012/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250038.svg)](https://doi.org/10.5281/zenodo.8250038)
 
 ## How to cite
 
