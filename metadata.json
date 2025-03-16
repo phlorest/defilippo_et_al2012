@@ -10,6 +10,7 @@
     "scaling": "substitutions",
     "analysis": "bayesian",
     "family": "Bantu",
+    "artefacts": ["raw/deFelippo_et_al-Bantu.nex"],
     "missing": {
         "data": "not available.",
         "cldf": "not available.",
