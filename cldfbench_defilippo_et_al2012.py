@@ -32,7 +32,7 @@ class Dataset(phlorest.Dataset):
             sample=1000, 
             detranslate=True,
             # Fix the NEXUS by assigning names to all TREEs.
-            preprocessor=lambda s: re.sub('tree\s+=\s', TreeLabeler(), s)
+            preprocessor=lambda s: re.sub(r'tree\s+=\s', TreeLabeler(), s)
         )
         args.writer.add_posterior(posterior, self.metadata, args.log)
 
