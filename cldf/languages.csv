@@ -403,7 +403,7 @@ S_Xho,S_Xho,,-31.0389,28.0769,xhos1239,,,S,East-South,S41,S-Xho,Xhosa,0,-32,27,X
 S_Zul,S_Zul,,-28.9,30.2,zulu1248,,xd13,S,East-South,S42,S-Zul,Zulu,0,-28,32,Zulu
 S_Swa,S_Swa,,-26.0,31.5,swat1243,,xd21,S,East-South,S43,S-Swa,Swati,0,-26.5,31.5,Swati
 S_Nde,S_Nde,,-20.2513,27.4096,nort2795,,xd32,S,East-South,S44,S-Nde,Ndebele,0,-19.5,29,Zimbabwean Ndebele
-S_Ngo,S_Ngo,,-11.7794,37.4118,ngon1269,,xd75,S,East-South,S45,S-Ngo,Ngoni,3,-11.65,33.65,Tanzania-Mozambique Ngoni
+S_Ngo,S_Ngo,,-11.779,35.459,tanz1241,,xd75,S,East-South,S45,S-Ngo,Ngoni,3,-11.65,33.65,Tanzanian Ngoni
 S_Tsw,S_Tsw,,-22.9891,32.4287,tswa1255,,,S,East-South,S51,S-Tsw,Tswa,6,-23.8,35,Tswa
 S_Nku,S_Nku,,,,,,,S,East-South,S52,S-Nku,Nkuna,6,-24.1,30.3,
 S_Tso,S_Tso,,-23.5754,31.8105,tson1249,,xd27,S,East-South,S53,S-Tso,Tsonga,0,-23,33.5,Tsonga

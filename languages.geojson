@@ -1,0 +1,7066 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26287,
+          6.88039
+        ]
+      },
+      "properties": {
+        "Name": "Tiv",
+        "Glottocode": "tivv1240",
+        "xd_ids": [
+          "xd320"
+        ],
+        "Guthrie": "0",
+        "Hist-Groups": "Bantoid",
+        "G-code": "802",
+        "L-code": "Tiv",
+        "Language": "Tiv",
+        "missing": "0",
+        "orig-Longitude": "5",
+        "orig-Latitude": "7.5",
+        "Glottolog_Name": "Tiv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.62028,
+          5.94043
+        ]
+      },
+      "properties": {
+        "Name": "Amb",
+        "Glottocode": "ambe1247",
+        "Guthrie": "0",
+        "Hist-Groups": "Bantoid",
+        "G-code": "806",
+        "L-code": "Amb",
+        "Language": "Ambele",
+        "missing": "9",
+        "orig-Longitude": "6.95",
+        "orig-Latitude": "9.55",
+        "Glottolog_Name": "Ambele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.53302,
+          6.50437
+        ]
+      },
+      "properties": {
+        "Name": "Asu",
+        "Glottocode": "iyiv1238",
+        "Guthrie": "0",
+        "Hist-Groups": "Bantoid",
+        "G-code": "894",
+        "L-code": "Asu",
+        "Language": "Asumbo",
+        "missing": "14",
+        "orig-Longitude": "6.3",
+        "orig-Latitude": "9.5",
+        "Glottolog_Name": "Iyive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.352,
+          5.39619
+        ]
+      },
+      "properties": {
+        "Name": "Band",
+        "Glottocode": "ghom1247",
+        "Guthrie": "0",
+        "Hist-Groups": "Bantoid",
+        "G-code": "900b",
+        "L-code": "Band",
+        "Language": "Bandjoun",
+        "missing": "0",
+        "orig-Longitude": "5.3",
+        "orig-Latitude": "10.3",
+        "Glottolog_Name": "Ghom\u00e1l\u00e1'"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0214,
+          5.47421
+        ]
+      },
+      "properties": {
+        "Name": "Dsc",
+        "Glottocode": "yemb1246",
+        "Guthrie": "0",
+        "Hist-Groups": "Bantoid",
+        "G-code": "900c",
+        "L-code": "Dsc",
+        "Language": "Dschang",
+        "missing": "0",
+        "orig-Longitude": "5.4",
+        "orig-Latitude": "10.1",
+        "Glottolog_Name": "Yemba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1442,
+          5.18158
+        ]
+      },
+      "properties": {
+        "Name": "Fef1",
+        "Glottocode": "fefe1239",
+        "xd_ids": [
+          "xd171"
+        ],
+        "Guthrie": "0",
+        "Hist-Groups": "Bantoid",
+        "G-code": "970a",
+        "L-code": "Fef1",
+        "Language": "Fefe",
+        "missing": "0",
+        "orig-Longitude": "5.3",
+        "orig-Latitude": "10.2",
+        "Glottolog_Name": "Fe'fe'"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1442,
+          5.18158
+        ]
+      },
+      "properties": {
+        "Name": "Baf",
+        "Glottocode": "fefe1239",
+        "xd_ids": [
+          "xd171"
+        ],
+        "Guthrie": "0",
+        "Hist-Groups": "Bantoid",
+        "G-code": "970b",
+        "L-code": "Baf",
+        "Language": "Bafang",
+        "missing": "1",
+        "orig-Longitude": "5.1",
+        "orig-Latitude": "10.2",
+        "Glottolog_Name": "Fe'fe'"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92766,
+          5.13981
+        ]
+      },
+      "properties": {
+        "Name": "A_Mbo",
+        "Glottocode": "mboc1235",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A15g",
+        "L-code": "A-Mbo",
+        "Language": "Mbo",
+        "missing": "0",
+        "orig-Longitude": "4.8",
+        "orig-Latitude": "10",
+        "Glottolog_Name": "Mbo (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.61877,
+          4.10208
+        ]
+      },
+      "properties": {
+        "Name": "A_Dua",
+        "Glottocode": "dual1243",
+        "xd_ids": [
+          "xd130"
+        ],
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A24",
+        "L-code": "A-Dua",
+        "Language": "Duala",
+        "missing": "0",
+        "orig-Longitude": "3.8",
+        "orig-Latitude": "9.7",
+        "Glottolog_Name": "Duala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.67186,
+          3.67696
+        ]
+      },
+      "properties": {
+        "Name": "A_Lim",
+        "Glottocode": "mali1280",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A27",
+        "L-code": "A-Lim",
+        "Language": "Limba",
+        "missing": "0",
+        "orig-Longitude": "3.9",
+        "orig-Latitude": "9.5",
+        "Glottolog_Name": "Malimba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68929,
+          3.53638
+        ]
+      },
+      "properties": {
+        "Name": "A_Bub",
+        "Glottocode": "bube1242",
+        "xd_ids": [
+          "xd165"
+        ],
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A31",
+        "L-code": "A-Bub",
+        "Language": "Bubi",
+        "missing": "4",
+        "orig-Longitude": "3.5",
+        "orig-Latitude": "8.8",
+        "Glottolog_Name": "Bube"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.51011,
+          1.397041
+        ]
+      },
+      "properties": {
+        "Name": "A_Noh",
+        "Glottocode": "bata1285",
+        "xd_ids": [
+          "xd168"
+        ],
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A32a",
+        "L-code": "A-Noh",
+        "Language": "Noho",
+        "missing": "9",
+        "orig-Longitude": "3.1",
+        "orig-Latitude": "10",
+        "Glottolog_Name": "Batanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.51011,
+          1.397041
+        ]
+      },
+      "properties": {
+        "Name": "A_Tan",
+        "Glottocode": "bata1285",
+        "xd_ids": [
+          "xd168"
+        ],
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A32c",
+        "L-code": "A-Tan",
+        "Language": "Tanga",
+        "missing": "0",
+        "orig-Longitude": "3.3",
+        "orig-Latitude": "10",
+        "Glottolog_Name": "Batanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.600739,
+          1.075766
+        ]
+      },
+      "properties": {
+        "Name": "A_Be1",
+        "Glottocode": "beng1282",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A34",
+        "L-code": "A-Be1",
+        "Language": "Benga",
+        "missing": "0",
+        "orig-Longitude": "0.5",
+        "orig-Latitude": "9.7",
+        "Glottolog_Name": "Benga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4213,
+          3.80765
+        ]
+      },
+      "properties": {
+        "Name": "A_Bas",
+        "Glottocode": "basa1284",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A43a",
+        "L-code": "A-Bas",
+        "Language": "Basaa",
+        "missing": "0",
+        "orig-Longitude": "3.6",
+        "orig-Latitude": "11",
+        "Glottolog_Name": "Basa (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99905,
+          3.56518
+        ]
+      },
+      "properties": {
+        "Name": "A_Kok",
+        "Glottocode": "bako1249",
+        "xd_ids": [
+          "xd175"
+        ],
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A43b",
+        "L-code": "A-Kok",
+        "Language": "Koko",
+        "missing": "0",
+        "orig-Longitude": "3.5",
+        "orig-Latitude": "10",
+        "Glottolog_Name": "Bakoko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67,
+          4.75
+        ]
+      },
+      "properties": {
+        "Name": "A_Nen",
+        "Glottocode": "tune1261",
+        "xd_ids": [
+          "xd173"
+        ],
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A44",
+        "L-code": "A-Nen",
+        "Language": "Nen",
+        "missing": "0",
+        "orig-Longitude": "4.7",
+        "orig-Latitude": "10.9",
+        "Glottolog_Name": "Tunen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.114,
+          5.05845
+        ]
+      },
+      "properties": {
+        "Name": "A_Lef",
+        "Glottocode": "lefa1242",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A51",
+        "L-code": "A-Lef",
+        "Language": "Lefa",
+        "missing": "17",
+        "orig-Longitude": "5",
+        "orig-Latitude": "11.2",
+        "Glottolog_Name": "Lefa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.114,
+          5.05845
+        ]
+      },
+      "properties": {
+        "Name": "A_Maj",
+        "Glottocode": "lefa1242",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A51",
+        "L-code": "A-Maj",
+        "Language": "Maja",
+        "missing": "6",
+        "orig-Longitude": "4.8",
+        "orig-Latitude": "11.2",
+        "Glottolog_Name": "Lefa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.114,
+          5.05845
+        ]
+      },
+      "properties": {
+        "Name": "A_Tum",
+        "Glottocode": "lefa1242",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A51",
+        "L-code": "A-Tum",
+        "Language": "Tumi",
+        "missing": "4",
+        "orig-Longitude": "4.9",
+        "orig-Latitude": "11.1",
+        "Glottolog_Name": "Lefa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3103,
+          5.30535
+        ]
+      },
+      "properties": {
+        "Name": "A_Nja",
+        "Glottocode": "tibe1274",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A54",
+        "L-code": "A-Nja",
+        "Language": "Njanti",
+        "missing": "6",
+        "orig-Longitude": "5",
+        "orig-Latitude": "11.3",
+        "Glottolog_Name": "Tibea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5353,
+          4.64348
+        ]
+      },
+      "properties": {
+        "Name": "A_Tuk",
+        "Glottocode": "tuki1240",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A61a",
+        "L-code": "A-Tuk",
+        "Language": "Tuki",
+        "missing": "3",
+        "orig-Longitude": "4.5",
+        "orig-Latitude": "11.4",
+        "Glottolog_Name": "Tuki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1837,
+          4.63103
+        ]
+      },
+      "properties": {
+        "Name": "A_Gun",
+        "Glottocode": "nugu1242",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A62a",
+        "L-code": "A-Gun",
+        "Language": "Gunu",
+        "missing": "11",
+        "orig-Longitude": "4.6",
+        "orig-Latitude": "11.3",
+        "Glottolog_Name": "Nugunu (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0599,
+          4.52188
+        ]
+      },
+      "properties": {
+        "Name": "A_Mma",
+        "Glottocode": "mmaa1238",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A62b",
+        "L-code": "A-Mma",
+        "Language": "Mmala",
+        "missing": "7",
+        "orig-Longitude": "4.5",
+        "orig-Latitude": "11.2",
+        "Glottolog_Name": "Mmaala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0277,
+          4.41971
+        ]
+      },
+      "properties": {
+        "Name": "A_Kal",
+        "Glottocode": "yang1293",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A62d",
+        "L-code": "A-Kal",
+        "Language": "Kalonge",
+        "missing": "0",
+        "orig-Longitude": "4.3",
+        "orig-Latitude": "11.1",
+        "Glottolog_Name": "Nuasue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3935,
+          4.21045
+        ]
+      },
+      "properties": {
+        "Name": "A_Eto",
+        "Glottocode": "eton1253",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A71",
+        "L-code": "A-Eto",
+        "Language": "Eton",
+        "missing": "0",
+        "orig-Longitude": "4",
+        "orig-Latitude": "11.2",
+        "Glottolog_Name": "Eton-Mengisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93646,
+          4.21141
+        ]
+      },
+      "properties": {
+        "Name": "A_Ewo",
+        "Glottocode": "ewon1239",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A72a",
+        "L-code": "A-Ewo",
+        "Language": "Ewondo",
+        "missing": "0",
+        "orig-Longitude": "3.9",
+        "orig-Latitude": "11.5",
+        "Glottolog_Name": "Ewondo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93646,
+          4.21141
+        ]
+      },
+      "properties": {
+        "Name": "A_Yao",
+        "Glottocode": "ewon1239",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A72a",
+        "L-code": "A-Yao",
+        "Language": "Yaounde",
+        "missing": "0",
+        "orig-Longitude": "3.6",
+        "orig-Latitude": "11.2",
+        "Glottolog_Name": "Ewondo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6365,
+          3.16141
+        ]
+      },
+      "properties": {
+        "Name": "A_Bul",
+        "Glottocode": "bulu1251",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A74a",
+        "L-code": "A-Bul",
+        "Language": "Bulu",
+        "missing": "1",
+        "orig-Longitude": "3",
+        "orig-Latitude": "11.5",
+        "Glottolog_Name": "Bulu (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61454,
+          1.723965
+        ]
+      },
+      "properties": {
+        "Name": "A_Fan",
+        "Glottocode": "fang1246",
+        "xd_ids": [
+          "xd149"
+        ],
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A75",
+        "L-code": "A-Fan",
+        "Language": "Fang",
+        "missing": "2",
+        "orig-Longitude": "2.1",
+        "orig-Latitude": "14.1",
+        "Glottolog_Name": "Fang (Equatorial Guinea)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.267,
+          2.9095
+        ]
+      },
+      "properties": {
+        "Name": "A_Kw1",
+        "Glottocode": "ukhw1241",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A80",
+        "L-code": "A-Kw1",
+        "Language": "Kwejo",
+        "missing": "0",
+        "orig-Longitude": "3.5",
+        "orig-Latitude": "16.2",
+        "Glottolog_Name": "Ukhwejo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54152,
+          3.25933
+        ]
+      },
+      "properties": {
+        "Name": "A_Koo",
+        "Glottocode": "koon1245",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A84",
+        "L-code": "A-Koo",
+        "Language": "Koozime",
+        "missing": "0",
+        "orig-Longitude": "3.4",
+        "orig-Latitude": "13",
+        "Glottolog_Name": "Koonzime"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6527,
+          1.71801
+        ]
+      },
+      "properties": {
+        "Name": "A_Bek",
+        "Glottocode": "bekw1242",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A85b",
+        "L-code": "A-Bek",
+        "Language": "Bekwil",
+        "missing": "0",
+        "orig-Longitude": "1.8",
+        "orig-Latitude": "14.2",
+        "Glottolog_Name": "Bekwil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5246,
+          3.45776
+        ]
+      },
+      "properties": {
+        "Name": "A_Mpy",
+        "Glottocode": "mpie1238",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A86c",
+        "L-code": "A-Mpy",
+        "Language": "Mpyemo",
+        "missing": "0",
+        "orig-Longitude": "3.5",
+        "orig-Latitude": "15",
+        "Glottolog_Name": "Mpiemo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9546,
+          1.71005
+        ]
+      },
+      "properties": {
+        "Name": "A_Bom",
+        "Glottocode": "bomw1238",
+        "xd_ids": [
+          "xd164"
+        ],
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A87",
+        "L-code": "A-Bom",
+        "Language": "Bomwali",
+        "missing": "3",
+        "orig-Longitude": "1.55",
+        "orig-Latitude": "15.7",
+        "Glottolog_Name": "Bomwali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.446,
+          4.243
+        ]
+      },
+      "properties": {
+        "Name": "A_Pom",
+        "Glottocode": "pomo1271",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A92",
+        "L-code": "A-Pom",
+        "Language": "Pomo",
+        "missing": "2",
+        "orig-Longitude": "1.7",
+        "orig-Latitude": "16.2",
+        "Glottolog_Name": "Pol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6282,
+          3.79989
+        ]
+      },
+      "properties": {
+        "Name": "A_Ka2",
+        "Glottocode": "kako1242",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A93a",
+        "L-code": "A-Ka2",
+        "Language": "Kako",
+        "missing": "0",
+        "orig-Longitude": "4.1",
+        "orig-Latitude": "15.2",
+        "Glottolog_Name": "Kako"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1783,
+          -1.28107
+        ]
+      },
+      "properties": {
+        "Name": "B_Him",
+        "Glottocode": "simb1254",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B11d",
+        "L-code": "B-Him",
+        "Language": "Himba",
+        "missing": "6",
+        "orig-Longitude": "-1.48",
+        "orig-Latitude": "11.54",
+        "Glottolog_Name": "Simba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61,
+          -0.012
+        ]
+      },
+      "properties": {
+        "Name": "B_Sha",
+        "Glottocode": "osam1235",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B20",
+        "L-code": "B-Sha",
+        "Language": "Shama",
+        "missing": "0",
+        "orig-Longitude": "0.55",
+        "orig-Latitude": "12.85",
+        "Glottolog_Name": "Osamayi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.79206,
+          1.52302
+        ]
+      },
+      "properties": {
+        "Name": "B_Sek",
+        "Glottocode": "seki1238",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B21",
+        "L-code": "B-Sek",
+        "Language": "Seki",
+        "missing": "0",
+        "orig-Longitude": "0.5",
+        "orig-Latitude": "9.5",
+        "Glottolog_Name": "Seki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1345,
+          0.882925
+        ]
+      },
+      "properties": {
+        "Name": "B_Ung",
+        "Glottocode": "ngom1270",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B22b",
+        "L-code": "B-Ung",
+        "Language": "Ungom",
+        "missing": "0",
+        "orig-Longitude": "-0.5",
+        "orig-Latitude": "10.5",
+        "Glottolog_Name": "Ngom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32251,
+          -1.16762
+        ]
+      },
+      "properties": {
+        "Name": "B_Pov",
+        "Glottocode": "bubi1250",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B22c",
+        "L-code": "B-Pov",
+        "Language": "Pove",
+        "missing": "2",
+        "orig-Longitude": "-1.2",
+        "orig-Latitude": "12.2",
+        "Glottolog_Name": "Bubi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5956,
+          -2.28729
+        ]
+      },
+      "properties": {
+        "Name": "B_Mbh",
+        "Glottocode": "mban1268",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B23",
+        "L-code": "B-Mbh",
+        "Language": "Mbahouin",
+        "missing": "16",
+        "orig-Longitude": "-1.7",
+        "orig-Latitude": "13.4",
+        "Glottolog_Name": "Mbangwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.264,
+          -2.39234
+        ]
+      },
+      "properties": {
+        "Name": "B_Wu1",
+        "Glottocode": "wumb1242",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B24",
+        "L-code": "B-Wu1",
+        "Language": "Wumbu",
+        "missing": "0",
+        "orig-Longitude": "-2",
+        "orig-Latitude": "12",
+        "Glottolog_Name": "Wumbvu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0472,
+          0.64356
+        ]
+      },
+      "properties": {
+        "Name": "B_Mah",
+        "Glottocode": "maho1248",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B25",
+        "L-code": "B-Mah",
+        "Language": "Mahongwe",
+        "missing": "0",
+        "orig-Longitude": "1",
+        "orig-Latitude": "14.3",
+        "Glottolog_Name": "Mahongwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.787,
+          0.25188
+        ]
+      },
+      "properties": {
+        "Name": "B_Sa1",
+        "Glottocode": "sake1247",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B25",
+        "L-code": "B-Sa1",
+        "Language": "Sake",
+        "missing": "7",
+        "orig-Longitude": "-0.1",
+        "orig-Latitude": "11.9",
+        "Glottolog_Name": "Sake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.97,
+          1.016
+        ]
+      },
+      "properties": {
+        "Name": "B_Ko3",
+        "Glottocode": "kota1274",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B25b",
+        "L-code": "B-Ko3",
+        "Language": "Kota",
+        "missing": "0",
+        "orig-Longitude": "1.1",
+        "orig-Latitude": "13.9",
+        "Glottolog_Name": "Kota (Gabon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.369465,
+          -2.449015
+        ]
+      },
+      "properties": {
+        "Name": "B_Nd1",
+        "Glottocode": "ndas1238",
+        "xd_ids": [
+          "xd162"
+        ],
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B26",
+        "L-code": "B-Nd1",
+        "Language": "Ndasa",
+        "missing": "2",
+        "orig-Longitude": "-3.3",
+        "orig-Latitude": "13.2",
+        "Glottolog_Name": "Ndasa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1359,
+          -1.55469
+        ]
+      },
+      "properties": {
+        "Name": "B_Tsg",
+        "Glottocode": "tsog1243",
+        "xd_ids": [
+          "xd40"
+        ],
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B31",
+        "L-code": "B-Tsg",
+        "Language": "Tsogo",
+        "missing": "4",
+        "orig-Longitude": "-1.75",
+        "orig-Latitude": "11.5",
+        "Glottolog_Name": "Tsogo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.223,
+          -1.90305
+        ]
+      },
+      "properties": {
+        "Name": "B_Pin",
+        "Glottocode": "pinj1243",
+        "Guthrie": "B",
+        "Hist-Groups": "North-West",
+        "G-code": "B33",
+        "L-code": "B-Pin",
+        "Language": "Pinji",
+        "missing": "1",
+        "orig-Longitude": "-1.8",
+        "orig-Latitude": "11",
+        "Glottolog_Name": "Pinji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6498,
+          -2.17673
+        ]
+      },
+      "properties": {
+        "Name": "B_Vu2",
+        "Glottocode": "vumb1238",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B40a",
+        "L-code": "B-Vu2",
+        "Language": "Vungu",
+        "missing": "1",
+        "orig-Longitude": "-2.1",
+        "orig-Latitude": "10.7",
+        "Glottolog_Name": "Vumbu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4635,
+          -1.78084
+        ]
+      },
+      "properties": {
+        "Name": "B_Shi",
+        "Glottocode": "sira1266",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B41",
+        "L-code": "B-Shi",
+        "Language": "Shira",
+        "missing": "0",
+        "orig-Longitude": "-1.5",
+        "orig-Latitude": "10.5",
+        "Glottolog_Name": "Sira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9098,
+          -1.52694
+        ]
+      },
+      "properties": {
+        "Name": "B_Sg2",
+        "Glottocode": "sang1333",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B42a",
+        "L-code": "B-Sg2",
+        "Language": "Sango",
+        "missing": "1",
+        "orig-Longitude": "-1.2",
+        "orig-Latitude": "12.5",
+        "Glottolog_Name": "Sangu (Gabon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6714,
+          -2.67362
+        ]
+      },
+      "properties": {
+        "Name": "B_Pu1",
+        "Glottocode": "punu1239",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B43",
+        "L-code": "B-Pu1",
+        "Language": "Punu",
+        "missing": "1",
+        "orig-Longitude": "-2.5",
+        "orig-Latitude": "11",
+        "Glottolog_Name": "Punu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.124,
+          -3.37917
+        ]
+      },
+      "properties": {
+        "Name": "B_Lu1",
+        "Glottocode": "lumb1249",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B44",
+        "L-code": "B-Lu1",
+        "Language": "Lumbu",
+        "missing": "0",
+        "orig-Longitude": "-2.8",
+        "orig-Latitude": "10",
+        "Glottolog_Name": "Lumbu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9595,
+          -3.23686
+        ]
+      },
+      "properties": {
+        "Name": "B_Bwi",
+        "Glottocode": "bwis1242",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B45",
+        "L-code": "B-Bwi",
+        "Language": "Bwisi",
+        "missing": "1",
+        "orig-Longitude": "-3.25",
+        "orig-Latitude": "13.1",
+        "Glottolog_Name": "Bwisi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6777,
+          -2.49659
+        ]
+      },
+      "properties": {
+        "Name": "B_Bar",
+        "Glottocode": "bara1362",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B46",
+        "L-code": "B-Bar",
+        "Language": "Barama",
+        "missing": "1",
+        "orig-Longitude": "-2.6",
+        "orig-Latitude": "9.8",
+        "Glottolog_Name": "Barama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0046,
+          -0.91927
+        ]
+      },
+      "properties": {
+        "Name": "B_Dum",
+        "Glottocode": "duma1253",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B51",
+        "L-code": "B-Dum",
+        "Language": "Duma",
+        "missing": "5",
+        "orig-Longitude": "-0.8",
+        "orig-Latitude": "12.6",
+        "Glottolog_Name": "Duma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8951,
+          -1.51945
+        ]
+      },
+      "properties": {
+        "Name": "B_Wan",
+        "Glottocode": "wand1266",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B51",
+        "L-code": "B-Wan",
+        "Language": "Wanji",
+        "missing": "2",
+        "orig-Longitude": "-0.9",
+        "orig-Latitude": "12.8",
+        "Glottolog_Name": "Wandji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7063,
+          -2.18115
+        ]
+      },
+      "properties": {
+        "Name": "B_Nze",
+        "Glottocode": "njeb1242",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B52",
+        "L-code": "B-Nze",
+        "Language": "Nzebi",
+        "missing": "1",
+        "orig-Longitude": "-1.9",
+        "orig-Latitude": "11.9",
+        "Glottolog_Name": "Njebi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7581,
+          -2.29245
+        ]
+      },
+      "properties": {
+        "Name": "B_Tsa",
+        "Glottocode": "tsaa1242",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B53",
+        "L-code": "B-Tsa",
+        "Language": "Tsangi",
+        "missing": "2",
+        "orig-Longitude": "-2.9",
+        "orig-Latitude": "13.7",
+        "Glottolog_Name": "Tsaangi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2877,
+          -0.477445
+        ]
+      },
+      "properties": {
+        "Name": "B_Mbe",
+        "Glottocode": "mber1257",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B61",
+        "L-code": "B-Mbe",
+        "Language": "Mbede",
+        "missing": "1",
+        "orig-Longitude": "-0.4",
+        "orig-Latitude": "14",
+        "Glottolog_Name": "Mbere-Mbamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.617,
+          -2.75341
+        ]
+      },
+      "properties": {
+        "Name": "B_Bam",
+        "Glottocode": "omba1241",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B62",
+        "L-code": "B-Bam",
+        "Language": "Bamba",
+        "missing": "0",
+        "orig-Longitude": "-1.2",
+        "orig-Latitude": "13.9",
+        "Glottolog_Name": "Ombamba-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7279,
+          -1.67033
+        ]
+      },
+      "properties": {
+        "Name": "B_Ndu",
+        "Glottocode": "ndum1239",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B63",
+        "L-code": "B-Ndu",
+        "Language": "Ndumu",
+        "missing": "11",
+        "orig-Longitude": "-1.6",
+        "orig-Latitude": "13.5",
+        "Glottolog_Name": "Ndumu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5129,
+          -4.09816
+        ]
+      },
+      "properties": {
+        "Name": "B_Ngw",
+        "Glottocode": "ngul1247",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B64",
+        "L-code": "B-Ngw",
+        "Language": "Ngwi",
+        "missing": "2",
+        "orig-Longitude": "-4.3",
+        "orig-Latitude": "19.4",
+        "Glottolog_Name": "Ngwii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5129,
+          -4.09816
+        ]
+      },
+      "properties": {
+        "Name": "B_Ng2",
+        "Glottocode": "ngul1247",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B65a",
+        "L-code": "B-Ng2",
+        "Language": "Ngoli",
+        "missing": "1",
+        "orig-Longitude": "-4.15",
+        "orig-Latitude": "19.1",
+        "Glottolog_Name": "Ngwii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6111,
+          -1.71316
+        ]
+      },
+      "properties": {
+        "Name": "B_Kan",
+        "Glottocode": "kani1279",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B66",
+        "L-code": "B-Kan",
+        "Language": "Kaningi",
+        "missing": "5",
+        "orig-Longitude": "-1.75",
+        "orig-Latitude": "13.6",
+        "Glottolog_Name": "Kaningi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8664,
+          -1.61688
+        ]
+      },
+      "properties": {
+        "Name": "B_Tgu",
+        "Glottocode": "teke1275",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B70",
+        "L-code": "B-Tgu",
+        "Language": "Tegue",
+        "missing": "3",
+        "orig-Longitude": "-1.1",
+        "orig-Latitude": "15.2",
+        "Glottolog_Name": "Latege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8664,
+          -1.61688
+        ]
+      },
+      "properties": {
+        "Name": "B_Tek",
+        "Glottocode": "teke1275",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B70",
+        "L-code": "B-Tek",
+        "Language": "Teke",
+        "missing": "7",
+        "orig-Longitude": "-4.1",
+        "orig-Latitude": "17.2",
+        "Glottolog_Name": "Latege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8664,
+          -1.61688
+        ]
+      },
+      "properties": {
+        "Name": "B_Tkk",
+        "Glottocode": "teke1275",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B71a",
+        "L-code": "B-Tkk",
+        "Language": "Teke-Kale",
+        "missing": "2",
+        "orig-Longitude": "-1.3",
+        "orig-Latitude": "15.4",
+        "Glottolog_Name": "Latege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6218,
+          -1.82055
+        ]
+      },
+      "properties": {
+        "Name": "B_Gun",
+        "Glottocode": "ngun1272",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B72a",
+        "L-code": "B-Gun",
+        "Language": "Gungwel",
+        "missing": "4",
+        "orig-Longitude": "-1.9",
+        "orig-Latitude": "15.8",
+        "Glottolog_Name": "Ngungwel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8603,
+          -2.98028
+        ]
+      },
+      "properties": {
+        "Name": "B_Ts2",
+        "Glottocode": "teke1281",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B73A",
+        "L-code": "B-Ts2",
+        "Language": "Tsayi",
+        "missing": "2",
+        "orig-Longitude": "-2.8",
+        "orig-Latitude": "12.6",
+        "Glottolog_Name": "Teke-Tsaayi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2703,
+          -3.34458
+        ]
+      },
+      "properties": {
+        "Name": "B_Lal",
+        "Glottocode": "teke1277",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B73B",
+        "L-code": "B-Lal",
+        "Language": "Lali",
+        "missing": "2",
+        "orig-Longitude": "-3.7",
+        "orig-Latitude": "13.3",
+        "Glottolog_Name": "Teke-Laali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3637,
+          -3.73301
+        ]
+      },
+      "properties": {
+        "Name": "B_Iya",
+        "Glottocode": "yaka1274",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B73c",
+        "L-code": "B-Iya",
+        "Language": "Iyaa",
+        "missing": "3",
+        "orig-Longitude": "-3.8",
+        "orig-Latitude": "13.3",
+        "Glottolog_Name": "Yaka (Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.623277,
+          -2.384219
+        ]
+      },
+      "properties": {
+        "Name": "B_Bo",
+        "Glottocode": "teke1278",
+        "xd_ids": [
+          "xd43"
+        ],
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B74b",
+        "L-code": "B-Bo",
+        "Language": "Bo",
+        "missing": "0",
+        "orig-Longitude": "-2.5",
+        "orig-Latitude": "15.6",
+        "Glottolog_Name": "Teke-Eboo-Nzikou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4407,
+          -2.27122
+        ]
+      },
+      "properties": {
+        "Name": "B_Ku2",
+        "Glottocode": "teke1280",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B77A",
+        "L-code": "B-Ku2",
+        "Language": "Kukuya",
+        "missing": "0",
+        "orig-Longitude": "-2.3",
+        "orig-Latitude": "14.5",
+        "Glottolog_Name": "Teke-Kukuya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0,
+          -2.3
+        ]
+      },
+      "properties": {
+        "Name": "B_Kem",
+        "Glottocode": "kemp1234",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B80",
+        "L-code": "B-Kem",
+        "Language": "Kempee",
+        "missing": "2",
+        "orig-Longitude": "-2.3",
+        "orig-Latitude": "18",
+        "Glottolog_Name": "Kempee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4765,
+          -2.84694
+        ]
+      },
+      "properties": {
+        "Name": "B_Te2",
+        "Glottocode": "tien1242",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B81a",
+        "L-code": "B-Te2",
+        "Language": "Tiene",
+        "missing": "1",
+        "orig-Longitude": "-2.7",
+        "orig-Latitude": "17.7",
+        "Glottolog_Name": "Tiene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2559,
+          -4.26573
+        ]
+      },
+      "properties": {
+        "Name": "B_Fin",
+        "Glottocode": "mfin1238",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B83a",
+        "L-code": "B-Fin",
+        "Language": "Finu",
+        "missing": "4",
+        "orig-Longitude": "-5.2",
+        "orig-Latitude": "14.8",
+        "Glottolog_Name": "Mfinu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2341,
+          -3.8231
+        ]
+      },
+      "properties": {
+        "Name": "B_Iyn",
+        "Glottocode": "yans1239",
+        "xd_ids": [
+          "xd51"
+        ],
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B85b",
+        "L-code": "B-Iyn",
+        "Language": "Iyanz",
+        "missing": "2",
+        "orig-Longitude": "-4.7",
+        "orig-Latitude": "18.7",
+        "Glottolog_Name": "Yansi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4978,
+          -4.55057
+        ]
+      },
+      "properties": {
+        "Name": "B_Nso",
+        "Glottocode": "song1299",
+        "xd_ids": [
+          "xd50"
+        ],
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B85d",
+        "L-code": "B-Nso",
+        "Language": "Nsongo",
+        "missing": "0",
+        "orig-Longitude": "-4.9",
+        "orig-Latitude": "19.85",
+        "Glottolog_Name": "Nsong-Mpiin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1658,
+          -6.21344
+        ]
+      },
+      "properties": {
+        "Name": "B_Tm2",
+        "Glottocode": "samb1309",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B85f",
+        "L-code": "B-Tm2",
+        "Language": "Tsambaan",
+        "missing": "3",
+        "orig-Longitude": "-4.5",
+        "orig-Latitude": "18.9",
+        "Glottolog_Name": "Samba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3881,
+          -4.44304
+        ]
+      },
+      "properties": {
+        "Name": "B_Dzi",
+        "Glottocode": "ding1239",
+        "xd_ids": [
+          "xd47"
+        ],
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B86",
+        "L-code": "B-Dzi",
+        "Language": "Dzing",
+        "missing": "2",
+        "orig-Longitude": "-4.3",
+        "orig-Latitude": "19.3",
+        "Glottolog_Name": "Ding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4269,
+          -5.21134
+        ]
+      },
+      "properties": {
+        "Name": "B_Mb1",
+        "Glottocode": "mpuo1241",
+        "xd_ids": [
+          "xd46"
+        ],
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B87",
+        "L-code": "B-Mb1",
+        "Language": "Mbuun",
+        "missing": "1",
+        "orig-Longitude": "-4.9",
+        "orig-Latitude": "19.8",
+        "Glottolog_Name": "Mbuun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3733,
+          1.70044
+        ]
+      },
+      "properties": {
+        "Name": "C_Bam",
+        "Glottocode": "bomi1238",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C00",
+        "L-code": "C-Bam",
+        "Language": "Bambomba",
+        "missing": "8",
+        "orig-Longitude": "1.3",
+        "orig-Latitude": "17.3",
+        "Glottolog_Name": "Bomitaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2305,
+          1.07773
+        ]
+      },
+      "properties": {
+        "Name": "C_Ba2",
+        "Glottocode": "dibo1245",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C00a",
+        "L-code": "C-Ba2",
+        "Language": "Babole",
+        "missing": "3",
+        "orig-Longitude": "1.4",
+        "orig-Latitude": "18",
+        "Glottolog_Name": "Dibole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6499,
+          3.71666
+        ]
+      },
+      "properties": {
+        "Name": "C_Gan",
+        "Glottocode": "ngan1304",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C01",
+        "L-code": "C-Gan",
+        "Language": "Gando",
+        "missing": "7",
+        "orig-Longitude": "3.6",
+        "orig-Latitude": "17.5",
+        "Glottolog_Name": "Ngando (Central African Republic)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.97,
+          1.016
+        ]
+      },
+      "properties": {
+        "Name": "C_Kot",
+        "Glottocode": "kota1274",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C02",
+        "L-code": "C-Kot",
+        "Language": "Kota",
+        "missing": "1",
+        "orig-Longitude": "-0.7",
+        "orig-Latitude": "12",
+        "Glottolog_Name": "Kota (Gabon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.21457,
+          3.02108
+        ]
+      },
+      "properties": {
+        "Name": "C_Kod",
+        "Glottocode": "ngun1270",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C11",
+        "L-code": "C-Kod",
+        "Language": "Kondi",
+        "missing": "12",
+        "orig-Longitude": "3.9",
+        "orig-Latitude": "16.2",
+        "Glottolog_Name": "Ngundi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.22754,
+          3.57935
+        ]
+      },
+      "properties": {
+        "Name": "C_Pan",
+        "Glottocode": "pand1264",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C12",
+        "L-code": "C-Pan",
+        "Language": "Pande",
+        "missing": "7",
+        "orig-Longitude": "3.5",
+        "orig-Latitude": "16.2",
+        "Glottolog_Name": "Pande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6079,
+          0.37063
+        ]
+      },
+      "properties": {
+        "Name": "C_Bon",
+        "Glottocode": "bong1284",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C15",
+        "L-code": "C-Bon",
+        "Language": "Bongili",
+        "missing": "0",
+        "orig-Longitude": "0.3",
+        "orig-Latitude": "15.5",
+        "Glottolog_Name": "Bongili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3667,
+          2.04881
+        ]
+      },
+      "properties": {
+        "Name": "C_Lob",
+        "Glottocode": "loba1239",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C16",
+        "L-code": "C-Lob",
+        "Language": "Lobala",
+        "missing": "4",
+        "orig-Longitude": "2.7",
+        "orig-Latitude": "18.5",
+        "Glottolog_Name": "Lobala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4623,
+          -0.39897
+        ]
+      },
+      "properties": {
+        "Name": "C_Aka",
+        "Glottocode": "akwa1248",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C22",
+        "L-code": "C-Aka",
+        "Language": "Aka",
+        "missing": "7",
+        "orig-Longitude": "4.3",
+        "orig-Latitude": "18.5",
+        "Glottolog_Name": "Akwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7508,
+          -0.69688
+        ]
+      },
+      "properties": {
+        "Name": "C_Koy",
+        "Glottocode": "koyo1242",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C24",
+        "L-code": "C-Koy",
+        "Language": "Koyo",
+        "missing": "0",
+        "orig-Longitude": "-0.5",
+        "orig-Latitude": "15.9",
+        "Glottolog_Name": "Koyo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5322,
+          -1.23019
+        ]
+      },
+      "properties": {
+        "Name": "C_Bo1",
+        "Glottocode": "mbos1242",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C25",
+        "L-code": "C-Bo1",
+        "Language": "Bosi",
+        "missing": "0",
+        "orig-Longitude": "-1.1",
+        "orig-Latitude": "15.4",
+        "Glottolog_Name": "Mbosi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4702,
+          -1.27931
+        ]
+      },
+      "properties": {
+        "Name": "C_Lkb",
+        "Glottocode": "liku1242",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C27",
+        "L-code": "C-Lkb",
+        "Language": "Likuba",
+        "missing": "2",
+        "orig-Longitude": "-1.7",
+        "orig-Latitude": "16.4",
+        "Glottolog_Name": "Likuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4555,
+          0.83463
+        ]
+      },
+      "properties": {
+        "Name": "C_Blk",
+        "Glottocode": "bolo1262",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C30",
+        "L-code": "C-Blk",
+        "Language": "Boloki",
+        "missing": "1",
+        "orig-Longitude": "0.9",
+        "orig-Latitude": "18.7",
+        "Glottolog_Name": "Boloki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3667,
+          2.04881
+        ]
+      },
+      "properties": {
+        "Name": "C_Lkk",
+        "Glottocode": "loba1239",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C30",
+        "L-code": "C-Lkk",
+        "Language": "Likoka",
+        "missing": "2",
+        "orig-Longitude": "2.7",
+        "orig-Latitude": "18.7",
+        "Glottolog_Name": "Lobala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.36849,
+          2.0246
+        ]
+      },
+      "properties": {
+        "Name": "C_Mot",
+        "Glottocode": "temb1272",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C30",
+        "L-code": "C-Mot",
+        "Language": "Motembo",
+        "missing": "1",
+        "orig-Longitude": "2.1",
+        "orig-Latitude": "21.1",
+        "Glottolog_Name": "Motembo-Kunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6151,
+          1.32539
+        ]
+      },
+      "properties": {
+        "Name": "C_Ndo",
+        "Glottocode": "ndob1238",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C30",
+        "L-code": "C-Ndo",
+        "Language": "Ndobo",
+        "missing": "0",
+        "orig-Longitude": "1",
+        "orig-Latitude": "18.7",
+        "Glottolog_Name": "Ndobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685662,
+          -0.739203
+        ]
+      },
+      "properties": {
+        "Name": "C_Pam",
+        "Glottocode": "mpam1239",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C30",
+        "L-code": "C-Pam",
+        "Language": "Pama",
+        "missing": "2",
+        "orig-Longitude": "-1.05",
+        "orig-Latitude": "17.2",
+        "Glottolog_Name": "Mpama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3,
+          1.25
+        ]
+      },
+      "properties": {
+        "Name": "C_Zam",
+        "Glottocode": "zamb1245",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C31e",
+        "L-code": "C-Zam",
+        "Language": "Zamba",
+        "missing": "2",
+        "orig-Longitude": "1.4",
+        "orig-Latitude": "18.2",
+        "Glottolog_Name": "Zamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8886,
+          1.97729
+        ]
+      },
+      "properties": {
+        "Name": "C_Lib",
+        "Glottocode": "libi1244",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C31r",
+        "L-code": "C-Lib",
+        "Language": "Libinza",
+        "missing": "0",
+        "orig-Longitude": "1.5",
+        "orig-Latitude": "18.5",
+        "Glottolog_Name": "Libinza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0222,
+          1.75106
+        ]
+      },
+      "properties": {
+        "Name": "C_Bal",
+        "Glottocode": "liki1240",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C31s",
+        "L-code": "C-Bal",
+        "Language": "Balobo",
+        "missing": "1",
+        "orig-Longitude": "1.9",
+        "orig-Latitude": "19.4",
+        "Glottolog_Name": "Balobo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1644,
+          2.16773
+        ]
+      },
+      "properties": {
+        "Name": "C_Mwe",
+        "Glottocode": "bamw1238",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C31y",
+        "L-code": "C-Mwe",
+        "Language": "Mwe",
+        "missing": "8",
+        "orig-Longitude": "2.1",
+        "orig-Latitude": "19.2",
+        "Glottolog_Name": "Bamwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.227,
+          -0.87437
+        ]
+      },
+      "properties": {
+        "Name": "C_Bob",
+        "Glottocode": "bang1354",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C32",
+        "L-code": "C-Bob",
+        "Language": "Bobangi",
+        "missing": "0",
+        "orig-Longitude": "-1.4",
+        "orig-Latitude": "17.7",
+        "Glottolog_Name": "Bobangi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2965,
+          -1.92256
+        ]
+      },
+      "properties": {
+        "Name": "C_Sen",
+        "Glottocode": "seng1278",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C33",
+        "L-code": "C-Sen",
+        "Language": "Sengele",
+        "missing": "1",
+        "orig-Longitude": "-1.8",
+        "orig-Latitude": "18.7",
+        "Glottolog_Name": "Sengele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9669,
+          -2.85653
+        ]
+      },
+      "properties": {
+        "Name": "C_Sak",
+        "Glottocode": "saka1287",
+        "xd_ids": [
+          "xd49"
+        ],
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C34",
+        "L-code": "C-Sak",
+        "Language": "Sakata",
+        "missing": "3",
+        "orig-Longitude": "-2.7",
+        "orig-Latitude": "18.1",
+        "Glottolog_Name": "Sakata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.09748,
+          -1.38362
+        ]
+      },
+      "properties": {
+        "Name": "C_Bol",
+        "Glottocode": "boli1255",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C35",
+        "L-code": "C-Bol",
+        "Language": "Bolia",
+        "missing": "1",
+        "orig-Longitude": "-1.5",
+        "orig-Latitude": "18.4",
+        "Glottolog_Name": "Bolia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.09748,
+          -1.38362
+        ]
+      },
+      "properties": {
+        "Name": "C_Lol",
+        "Glottocode": "boli1255",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C36",
+        "L-code": "C-Lol",
+        "Language": "Lolia",
+        "missing": "1",
+        "orig-Longitude": "-1.3",
+        "orig-Latitude": "18.2",
+        "Glottolog_Name": "Bolia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6107,
+          2.19951
+        ]
+      },
+      "properties": {
+        "Name": "C_Bdz",
+        "Glottocode": "budz1238",
+        "xd_ids": [
+          "xd157"
+        ],
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C36c",
+        "L-code": "C-Bdz",
+        "Language": "Budza",
+        "missing": "1",
+        "orig-Longitude": "2.2",
+        "orig-Latitude": "22.5",
+        "Glottolog_Name": "Budza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.28532,
+          -4.409174
+        ]
+      },
+      "properties": {
+        "Name": "C_Lin",
+        "Glottocode": "ling1263",
+        "xd_ids": [
+          "xd147"
+        ],
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C36d",
+        "L-code": "C-Lin",
+        "Language": "Lingala",
+        "missing": "1",
+        "orig-Longitude": "1.5",
+        "orig-Latitude": "17.5",
+        "Glottolog_Name": "Kinshasa Lingala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14148,
+          1.45357
+        ]
+      },
+      "properties": {
+        "Name": "C_Ngo",
+        "Glottocode": "ngom1268",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C41",
+        "L-code": "C-Ngo",
+        "Language": "Ngombe",
+        "missing": "3",
+        "orig-Longitude": "1.2",
+        "orig-Latitude": "19.8",
+        "Glottolog_Name": "Ngombe (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2514,
+          2.5957
+        ]
+      },
+      "properties": {
+        "Name": "C_Boa",
+        "Glottocode": "bwaa1238",
+        "xd_ids": [
+          "xd183"
+        ],
+        "Guthrie": "C",
+        "Hist-Groups": "Boan-Lebonya",
+        "G-code": "C44a",
+        "L-code": "C-Boa",
+        "Language": "Boa",
+        "missing": "3",
+        "orig-Longitude": "2.7",
+        "orig-Latitude": "23.8",
+        "Glottolog_Name": "Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8754,
+          1.81314
+        ]
+      },
+      "properties": {
+        "Name": "C_Nge",
+        "Glottocode": "ngel1238",
+        "Guthrie": "C",
+        "Hist-Groups": "Boan-Lebonya",
+        "G-code": "C45",
+        "L-code": "C-Nge",
+        "Language": "Ngelema",
+        "missing": "1",
+        "orig-Longitude": "1.5",
+        "orig-Latitude": "25",
+        "Glottolog_Name": "Ngelima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8389,
+          1.6207
+        ]
+      },
+      "properties": {
+        "Name": "C_Mbe",
+        "Glottocode": "mbes1238",
+        "xd_ids": [
+          "xd156"
+        ],
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C51",
+        "L-code": "C-Mbe",
+        "Language": "Mbesa",
+        "missing": "3",
+        "orig-Longitude": "1.1",
+        "orig-Latitude": "23.15",
+        "Glottolog_Name": "Mbesa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6907,
+          1.25037
+        ]
+      },
+      "properties": {
+        "Name": "C_Hes",
+        "Glottocode": "sode1235",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C52",
+        "L-code": "C-Hes",
+        "Language": "Heso",
+        "missing": "3",
+        "orig-Longitude": "0.7",
+        "orig-Latitude": "24.2",
+        "Glottolog_Name": "So (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3098,
+          0.36906
+        ]
+      },
+      "properties": {
+        "Name": "C_Kle",
+        "Glottocode": "kele1255",
+        "xd_ids": [
+          "xd146"
+        ],
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C55",
+        "L-code": "C-Kle",
+        "Language": "Kele",
+        "missing": "1",
+        "orig-Longitude": "0.8",
+        "orig-Latitude": "24.2",
+        "Glottolog_Name": "Kele-Foma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4259,
+          -1.54228
+        ]
+      },
+      "properties": {
+        "Name": "C_Mng",
+        "Glottocode": "mong1338",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C61",
+        "L-code": "C-Mng",
+        "Language": "Mongo",
+        "missing": "1",
+        "orig-Longitude": "-0.6",
+        "orig-Latitude": "24.3",
+        "Glottolog_Name": "Mongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0443,
+          -0.57181
+        ]
+      },
+      "properties": {
+        "Name": "C_Ml2",
+        "Glottocode": "mbol1247",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C68a",
+        "L-code": "C-Ml2",
+        "Language": "Mbole-K",
+        "missing": "0",
+        "orig-Longitude": "-0.1",
+        "orig-Latitude": "24.5",
+        "Glottolog_Name": "Mbole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1748,
+          -2.32162
+        ]
+      },
+      "properties": {
+        "Name": "C_Omb",
+        "Glottocode": "ombo1238",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C69",
+        "L-code": "C-Omb",
+        "Language": "Ombo",
+        "missing": "0",
+        "orig-Longitude": "-2.2",
+        "orig-Latitude": "25.8",
+        "Glottolog_Name": "Ombo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.546,
+          -4.29314
+        ]
+      },
+      "properties": {
+        "Name": "C_Tet",
+        "Glottocode": "tete1250",
+        "xd_ids": [
+          "xd144"
+        ],
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C71",
+        "L-code": "C-Tet",
+        "Language": "Tetela",
+        "missing": "0",
+        "orig-Longitude": "-5",
+        "orig-Latitude": "25",
+        "Glottolog_Name": "Tetela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2923,
+          -3.61459
+        ]
+      },
+      "properties": {
+        "Name": "C_Ku2",
+        "Glottocode": "kusu1252",
+        "xd_ids": [
+          "xd141"
+        ],
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C72a",
+        "L-code": "C-Ku2",
+        "Language": "Kushu",
+        "missing": "0",
+        "orig-Longitude": "-4",
+        "orig-Latitude": "25.1",
+        "Glottolog_Name": "Kusu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0051,
+          -1.39085
+        ]
+      },
+      "properties": {
+        "Name": "C_Kla",
+        "Glottocode": "kela1254",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C75",
+        "L-code": "C-Kla",
+        "Language": "Kela",
+        "missing": "4",
+        "orig-Longitude": "-2.5",
+        "orig-Latitude": "23.2",
+        "Glottolog_Name": "Kela (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4556,
+          -4.69463
+        ]
+      },
+      "properties": {
+        "Name": "C_Mbi",
+        "Glottocode": "bush1247",
+        "xd_ids": [
+          "xd66"
+        ],
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C80",
+        "L-code": "C-Mbi",
+        "Language": "Mbingi",
+        "missing": "6",
+        "orig-Longitude": "-4.05",
+        "orig-Latitude": "22.2",
+        "Glottolog_Name": "Bushoong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4194,
+          -3.26337
+        ]
+      },
+      "properties": {
+        "Name": "C_Nde",
+        "Glottocode": "deng1250",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C81",
+        "L-code": "C-Nde",
+        "Language": "Ndengese",
+        "missing": "6",
+        "orig-Longitude": "-3.5",
+        "orig-Latitude": "21.4",
+        "Glottolog_Name": "Dengese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5054,
+          -5.73837
+        ]
+      },
+      "properties": {
+        "Name": "C_Won",
+        "Glottocode": "wong1247",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C83",
+        "L-code": "C-Won",
+        "Language": "Wongo",
+        "missing": "0",
+        "orig-Longitude": "-4.9",
+        "orig-Latitude": "19.9",
+        "Glottolog_Name": "Wongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2765,
+          -5.71993
+        ]
+      },
+      "properties": {
+        "Name": "D_Son",
+        "Glottocode": "song1303",
+        "xd_ids": [
+          "xd136"
+        ],
+        "Guthrie": "D",
+        "Hist-Groups": "Boan-Lebonya",
+        "G-code": "D00",
+        "L-code": "D-Son",
+        "Language": "Songe",
+        "missing": "0",
+        "orig-Longitude": "-4.5",
+        "orig-Latitude": "26.3",
+        "Glottolog_Name": "Songe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3343,
+          -1.95874
+        ]
+      },
+      "properties": {
+        "Name": "D_Len",
+        "Glottocode": "leng1258",
+        "Guthrie": "D",
+        "Hist-Groups": "Boan-Lebonya",
+        "G-code": "D12",
+        "L-code": "D-Len",
+        "Language": "Lengola",
+        "missing": "0",
+        "orig-Longitude": "-0.5",
+        "orig-Latitude": "25.5",
+        "Glottolog_Name": "Lengola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.104,
+          -1.57031
+        ]
+      },
+      "properties": {
+        "Name": "D_Mit",
+        "Glottocode": "mitu1240",
+        "Guthrie": "D",
+        "Hist-Groups": "East-Central",
+        "G-code": "D13",
+        "L-code": "D-Mit",
+        "Language": "Mituku",
+        "missing": "18",
+        "orig-Longitude": "-0.2",
+        "orig-Latitude": "24.8",
+        "Glottolog_Name": "Mituku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.15,
+          0.56
+        ]
+      },
+      "properties": {
+        "Name": "D_Eny",
+        "Glottocode": "enya1247",
+        "Guthrie": "D",
+        "Hist-Groups": "East-Central",
+        "G-code": "D14",
+        "L-code": "D-Eny",
+        "Language": "Enya",
+        "missing": "6",
+        "orig-Longitude": "0.5",
+        "orig-Latitude": "25.5",
+        "Glottolog_Name": "Enya-Kisangani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3477,
+          -2.21871
+        ]
+      },
+      "properties": {
+        "Name": "D_Sng",
+        "Glottocode": "song1300",
+        "xd_ids": [
+          "xd129"
+        ],
+        "Guthrie": "D",
+        "Hist-Groups": "East-Central",
+        "G-code": "D24",
+        "L-code": "D-Sng",
+        "Language": "Songola",
+        "missing": "1",
+        "orig-Longitude": "-2.3",
+        "orig-Latitude": "26.5",
+        "Glottolog_Name": "Songoora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2621,
+          -3.39007
+        ]
+      },
+      "properties": {
+        "Name": "D_Le1",
+        "Glottocode": "lega1250",
+        "Guthrie": "D",
+        "Hist-Groups": "East-Central",
+        "G-code": "D25",
+        "L-code": "D-Le1",
+        "Language": "Lega",
+        "missing": "0",
+        "orig-Longitude": "-2.7",
+        "orig-Latitude": "27.3",
+        "Glottolog_Name": "Lega-Mwenga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6083,
+          -4.013
+        ]
+      },
+      "properties": {
+        "Name": "D_Zim",
+        "Glottocode": "zimb1251",
+        "Guthrie": "D",
+        "Hist-Groups": "East-Central",
+        "G-code": "D26",
+        "L-code": "D-Zim",
+        "Language": "Zimba",
+        "missing": "0",
+        "orig-Longitude": "-4.3",
+        "orig-Latitude": "26.6",
+        "Glottolog_Name": "Zimba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3274,
+          -5.37545
+        ]
+      },
+      "properties": {
+        "Name": "D_Hol",
+        "Glottocode": "holo1240",
+        "xd_ids": [
+          "xd925"
+        ],
+        "Guthrie": "D",
+        "Hist-Groups": "East-Central",
+        "G-code": "D28",
+        "L-code": "D-Hol",
+        "Language": "Holoholo",
+        "missing": "1",
+        "orig-Longitude": "-5.9",
+        "orig-Latitude": "29.2",
+        "Glottolog_Name": "Holoholo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0293,
+          1.50054
+        ]
+      },
+      "properties": {
+        "Name": "D_Bi1",
+        "Glottocode": "bera1259",
+        "xd_ids": [
+          "xd154"
+        ],
+        "Guthrie": "D",
+        "Hist-Groups": "Boan-Lebonya",
+        "G-code": "D32",
+        "L-code": "D-Bi1",
+        "Language": "Bira",
+        "missing": "0",
+        "orig-Longitude": "1.6",
+        "orig-Latitude": "30.2",
+        "Glottolog_Name": "Bera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0201,
+          1.92098
+        ]
+      },
+      "properties": {
+        "Name": "D_Ny1",
+        "Glottocode": "nyal1250",
+        "Guthrie": "D",
+        "Hist-Groups": "Boan-Lebonya",
+        "G-code": "D33",
+        "L-code": "D-Ny1",
+        "Language": "Nyali",
+        "missing": "0",
+        "orig-Longitude": "2",
+        "orig-Latitude": "27.9",
+        "Glottolog_Name": "Nyali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "Name": "D_Bod",
+        "Glottocode": "bodo1272",
+        "Guthrie": "D",
+        "Hist-Groups": "Boan-Lebonya",
+        "G-code": "D35",
+        "L-code": "D-Bod",
+        "Language": "Bodo",
+        "missing": "0",
+        "orig-Longitude": "2.2",
+        "orig-Latitude": "27.9",
+        "Glottolog_Name": "Bodo (Central African Republic)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7144,
+          -0.76333
+        ]
+      },
+      "properties": {
+        "Name": "D_Kum",
+        "Glottocode": "komo1260",
+        "xd_ids": [
+          "xd152"
+        ],
+        "Guthrie": "D",
+        "Hist-Groups": "Boan-Lebonya",
+        "G-code": "D37",
+        "L-code": "D-Kum",
+        "Language": "Kumu",
+        "missing": "0",
+        "orig-Longitude": "-0.5",
+        "orig-Latitude": "27",
+        "Glottolog_Name": "Komo (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.31546,
+          -1.29357
+        ]
+      },
+      "properties": {
+        "Name": "D_Nyg",
+        "Glottocode": "nyan1304",
+        "Guthrie": "D",
+        "Hist-Groups": "Boan-Lebonya",
+        "G-code": "D43",
+        "L-code": "D-Nyg",
+        "Language": "Nyanga",
+        "missing": "0",
+        "orig-Longitude": "-1.4",
+        "orig-Latitude": "28",
+        "Glottolog_Name": "Nyanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5545,
+          -5.41806
+        ]
+      },
+      "properties": {
+        "Name": "D_Buy",
+        "Glottocode": "buyu1239",
+        "xd_ids": [
+          "xd57"
+        ],
+        "Guthrie": "D",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "D55",
+        "L-code": "D-Buy",
+        "Language": "Buyu",
+        "missing": "17",
+        "orig-Longitude": "-4.5",
+        "orig-Latitude": "28.3",
+        "Glottolog_Name": "Buyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.729,
+          0.09487
+        ]
+      },
+      "properties": {
+        "Name": "E_Log",
+        "Glottocode": "logo1258",
+        "Guthrie": "E",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "E41",
+        "L-code": "E-Log",
+        "Language": "Logoli",
+        "missing": "3",
+        "orig-Longitude": "0.1",
+        "orig-Latitude": "34.9",
+        "Glottolog_Name": "Logooli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.719,
+          -0.29005
+        ]
+      },
+      "properties": {
+        "Name": "E_Gik",
+        "Glottocode": "kiku1240",
+        "xd_ids": [
+          "xd109"
+        ],
+        "Guthrie": "E",
+        "Hist-Groups": "East-Kilimanjaro",
+        "G-code": "E51",
+        "L-code": "E-Gik",
+        "Language": "Gikuyu",
+        "missing": "0",
+        "orig-Longitude": "-0.5",
+        "orig-Latitude": "36.7",
+        "Glottolog_Name": "Kikuyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.073,
+          -0.13221
+        ]
+      },
+      "properties": {
+        "Name": "E_Tha",
+        "Glottocode": "thar1283",
+        "Guthrie": "E",
+        "Hist-Groups": "East-Kilimanjaro",
+        "G-code": "E54",
+        "L-code": "E-Tha",
+        "Language": "Tharaka",
+        "missing": "0",
+        "orig-Longitude": "-0.2",
+        "orig-Latitude": "38.2",
+        "Glottolog_Name": "Tharaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9532,
+          -1.60827
+        ]
+      },
+      "properties": {
+        "Name": "E_Kam",
+        "Glottocode": "kamb1297",
+        "xd_ids": [
+          "xd103"
+        ],
+        "Guthrie": "E",
+        "Hist-Groups": "East-Kilimanjaro",
+        "G-code": "E55",
+        "L-code": "E-Kam",
+        "Language": "Kamba",
+        "missing": "6",
+        "orig-Longitude": "-1.4",
+        "orig-Latitude": "38",
+        "Glottolog_Name": "Kamba (Kenya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2897,
+          -2.31587
+        ]
+      },
+      "properties": {
+        "Name": "E_Po1",
+        "Glottocode": "poko1261",
+        "xd_ids": [
+          "xd102"
+        ],
+        "Guthrie": "E",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "E71",
+        "L-code": "E-Po1",
+        "Language": "Pokomo",
+        "missing": "10",
+        "orig-Longitude": "-1.4",
+        "orig-Latitude": "39.9",
+        "Glottolog_Name": "Pokomo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6648,
+          -3.30638
+        ]
+      },
+      "properties": {
+        "Name": "E_Gi1",
+        "Glottocode": "giry1241",
+        "xd_ids": [
+          "xd101"
+        ],
+        "Guthrie": "E",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "E72a",
+        "L-code": "E-Gi1",
+        "Language": "Giryama",
+        "missing": "0",
+        "orig-Longitude": "-3.2",
+        "orig-Latitude": "39.4",
+        "Glottolog_Name": "Giryama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.672,
+          -6.518
+        ]
+      },
+      "properties": {
+        "Name": "E_Cho",
+        "Glottocode": "chon1287",
+        "Guthrie": "E",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "E72c",
+        "L-code": "E-Cho",
+        "Language": "Choni",
+        "missing": "9",
+        "orig-Longitude": "-3.8",
+        "orig-Latitude": "39.8",
+        "Glottolog_Name": "Chonyi-Dzihana-Kauma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1752,
+          -4.62101
+        ]
+      },
+      "properties": {
+        "Name": "E_Di1",
+        "Glottocode": "digo1243",
+        "xd_ids": [
+          "xd99"
+        ],
+        "Guthrie": "E",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "E73",
+        "L-code": "E-Di1",
+        "Language": "Digo",
+        "missing": "9",
+        "orig-Longitude": "-4.3",
+        "orig-Latitude": "39.2",
+        "Glottolog_Name": "Digo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.12249,
+          -5.00659
+        ]
+      },
+      "properties": {
+        "Name": "E_Seg",
+        "Glottocode": "sege1246",
+        "Guthrie": "E",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "E73",
+        "L-code": "E-Seg",
+        "Language": "Segeju",
+        "missing": "11",
+        "orig-Longitude": "-4.8",
+        "orig-Latitude": "39.2",
+        "Glottolog_Name": "Segeju"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.57254,
+          -3.79347
+        ]
+      },
+      "properties": {
+        "Name": "E_Daw",
+        "Glottocode": "tait1250",
+        "xd_ids": [
+          "xd106"
+        ],
+        "Guthrie": "E",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "E74a",
+        "L-code": "E-Daw",
+        "Language": "Dawida",
+        "missing": "10",
+        "orig-Longitude": "-3.1",
+        "orig-Latitude": "38",
+        "Glottolog_Name": "Taita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9153,
+          -6.98537
+        ]
+      },
+      "properties": {
+        "Name": "E_Sag",
+        "Glottocode": "saga1256",
+        "Guthrie": "E",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "E74b",
+        "L-code": "E-Sag",
+        "Language": "Sagala",
+        "missing": "11",
+        "orig-Longitude": "-6.9",
+        "orig-Latitude": "36.3",
+        "Glottolog_Name": "Sagala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8765,
+          -3.16082
+        ]
+      },
+      "properties": {
+        "Name": "F_Suk",
+        "Glottocode": "suku1261",
+        "xd_ids": [
+          "xd90"
+        ],
+        "Guthrie": "F",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "F21",
+        "L-code": "F-Suk",
+        "Language": "Sukuma",
+        "missing": "18",
+        "orig-Longitude": "-3",
+        "orig-Latitude": "33",
+        "Glottolog_Name": "Sukuma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.94452,
+          -5.08559
+        ]
+      },
+      "properties": {
+        "Name": "F_Nya",
+        "Glottocode": "nyam1276",
+        "xd_ids": [
+          "xd88"
+        ],
+        "Guthrie": "F",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "F22",
+        "L-code": "F-Nya",
+        "Language": "Nyamwezi",
+        "missing": "0",
+        "orig-Longitude": "-4.3",
+        "orig-Latitude": "33.2",
+        "Glottolog_Name": "Nyamwezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9457,
+          -3.47335
+        ]
+      },
+      "properties": {
+        "Name": "F_Sum",
+        "Glottocode": "sumb1240",
+        "xd_ids": [
+          "xd117"
+        ],
+        "Guthrie": "F",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "F23",
+        "L-code": "F-Sum",
+        "Language": "Sumbwa",
+        "missing": "0",
+        "orig-Longitude": "-3.9",
+        "orig-Latitude": "32.8",
+        "Glottolog_Name": "Sumbwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3068,
+          -4.50002
+        ]
+      },
+      "properties": {
+        "Name": "F_Nyi",
+        "Glottocode": "nila1242",
+        "Guthrie": "F",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "F31",
+        "L-code": "F-Nyi",
+        "Language": "Nyiramba",
+        "missing": "10",
+        "orig-Longitude": "-5",
+        "orig-Latitude": "34.7",
+        "Glottolog_Name": "Nilamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4807,
+          -6.35951
+        ]
+      },
+      "properties": {
+        "Name": "G_Gog",
+        "Glottocode": "gogo1263",
+        "xd_ids": [
+          "xd92"
+        ],
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G11",
+        "L-code": "G-Gog",
+        "Language": "Gogo",
+        "missing": "10",
+        "orig-Longitude": "-6.3",
+        "orig-Latitude": "35.7",
+        "Glottolog_Name": "Gogo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0534,
+          -6.38204
+        ]
+      },
+      "properties": {
+        "Name": "G_Kag",
+        "Glottocode": "kagu1239",
+        "xd_ids": [
+          "xd121"
+        ],
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G12",
+        "L-code": "G-Kag",
+        "Language": "Kaguru",
+        "missing": "10",
+        "orig-Longitude": "-6.3",
+        "orig-Latitude": "37",
+        "Glottolog_Name": "Kagulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7061,
+          -3.41822
+        ]
+      },
+      "properties": {
+        "Name": "G_Tav",
+        "Glottocode": "tave1240",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G21",
+        "L-code": "G-Tav",
+        "Language": "Taveta",
+        "missing": "12",
+        "orig-Longitude": "-3.4",
+        "orig-Latitude": "37.8",
+        "Glottolog_Name": "Taveta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8323,
+          -4.17978
+        ]
+      },
+      "properties": {
+        "Name": "G_Cas",
+        "Glottocode": "asut1235",
+        "xd_ids": [
+          "xd105"
+        ],
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G22",
+        "L-code": "G-Cas",
+        "Language": "Casu",
+        "missing": "6",
+        "orig-Longitude": "-4.2",
+        "orig-Latitude": "37.8",
+        "Glottolog_Name": "Asu (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.29,
+          -4.8
+        ]
+      },
+      "properties": {
+        "Name": "G_Sha",
+        "Glottocode": "sham1280",
+        "xd_ids": [
+          "xd77"
+        ],
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G23",
+        "L-code": "G-Sha",
+        "Language": "Shambala",
+        "missing": "9",
+        "orig-Longitude": "-4.9",
+        "orig-Latitude": "38.3",
+        "Glottolog_Name": "Shambala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5079,
+          -5.10749
+        ]
+      },
+      "properties": {
+        "Name": "G_Bon",
+        "Glottocode": "bond1247",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G24",
+        "L-code": "G-Bon",
+        "Language": "Bondei",
+        "missing": "9",
+        "orig-Longitude": "-5.3",
+        "orig-Latitude": "38.8",
+        "Glottolog_Name": "Bondei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.41138,
+          -5.61864
+        ]
+      },
+      "properties": {
+        "Name": "G_Zig",
+        "Glottocode": "zigu1244",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G31",
+        "L-code": "G-Zig",
+        "Language": "Zigula",
+        "missing": "9",
+        "orig-Longitude": "-5.4",
+        "orig-Latitude": "38",
+        "Glottolog_Name": "Zigula-Mushungulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4449,
+          -6.50666
+        ]
+      },
+      "properties": {
+        "Name": "G_Ngw",
+        "Glottocode": "kwer1261",
+        "xd_ids": [
+          "xd95"
+        ],
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G32",
+        "L-code": "G-Ngw",
+        "Language": "Ngwele",
+        "missing": "10",
+        "orig-Longitude": "-6.4",
+        "orig-Latitude": "38.3",
+        "Glottolog_Name": "Kwere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4902,
+          -6.25844
+        ]
+      },
+      "properties": {
+        "Name": "G_Doe",
+        "Glottocode": "doee1238",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G33",
+        "L-code": "G-Doe",
+        "Language": "Doe",
+        "missing": "9",
+        "orig-Longitude": "-6.3",
+        "orig-Latitude": "38.6",
+        "Glottolog_Name": "Doe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9258,
+          -6.87705
+        ]
+      },
+      "properties": {
+        "Name": "G_Zar",
+        "Glottocode": "zara1247",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G33",
+        "L-code": "G-Zar",
+        "Language": "Zaramo",
+        "missing": "10",
+        "orig-Longitude": "-7",
+        "orig-Latitude": "39",
+        "Glottolog_Name": "Zaramo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6823,
+          -5.79734
+        ]
+      },
+      "properties": {
+        "Name": "G_Ngu",
+        "Glottocode": "ngul1246",
+        "xd_ids": [
+          "xd122"
+        ],
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G34",
+        "L-code": "G-Ngu",
+        "Language": "Ngulu",
+        "missing": "9",
+        "orig-Longitude": "-6.2",
+        "orig-Latitude": "37.5",
+        "Glottolog_Name": "Ngulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5557,
+          -6.86828
+        ]
+      },
+      "properties": {
+        "Name": "G_Lug",
+        "Glottocode": "lugu1238",
+        "xd_ids": [
+          "xd81"
+        ],
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G35",
+        "L-code": "G-Lug",
+        "Language": "Luguru",
+        "missing": "10",
+        "orig-Longitude": "-6.9",
+        "orig-Latitude": "37.7",
+        "Glottolog_Name": "Luguru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.98,
+          -6.71075
+        ]
+      },
+      "properties": {
+        "Name": "G_Kam",
+        "Glottocode": "kami1256",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G36",
+        "L-code": "G-Kam",
+        "Language": "Kami",
+        "missing": "11",
+        "orig-Longitude": "-7.4",
+        "orig-Latitude": "39.1",
+        "Glottolog_Name": "Kami (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8623,
+          -7.23789
+        ]
+      },
+      "properties": {
+        "Name": "G_Kut",
+        "Glottocode": "kutu1263",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G37",
+        "L-code": "G-Kut",
+        "Language": "Kutu",
+        "missing": "10",
+        "orig-Longitude": "-7.5",
+        "orig-Latitude": "37.5",
+        "Glottolog_Name": "Kutu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.793,
+          -0.66322
+        ]
+      },
+      "properties": {
+        "Name": "G_Elw",
+        "Glottocode": "ilwa1237",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G40",
+        "L-code": "G-Elw",
+        "Language": "Elwana",
+        "missing": "10",
+        "orig-Longitude": "-1.1",
+        "orig-Latitude": "40.1",
+        "Glottolog_Name": "Ilwana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.026991,
+          1.111787
+        ]
+      },
+      "properties": {
+        "Name": "G_Mii",
+        "Glottocode": "chim1312",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G40",
+        "L-code": "G-Mii",
+        "Language": "Miini",
+        "missing": "0",
+        "orig-Longitude": "1.2",
+        "orig-Latitude": "44",
+        "Glottolog_Name": "Chimwiini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624,
+          -8.25605
+        ]
+      },
+      "properties": {
+        "Name": "G_Sw1",
+        "Glottocode": "swah1253",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G42",
+        "L-code": "G-Sw1",
+        "Language": "Swahili",
+        "missing": "0",
+        "orig-Longitude": "-6.8",
+        "orig-Latitude": "39.3",
+        "Glottolog_Name": "Swahili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.36,
+          -11.6129
+        ]
+      },
+      "properties": {
+        "Name": "G_Nga",
+        "Glottocode": "ngaz1238",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G44a",
+        "L-code": "G-Nga",
+        "Language": "Ngazija",
+        "missing": "4",
+        "orig-Longitude": "-11.5",
+        "orig-Latitude": "43.5",
+        "Glottolog_Name": "Ngazidja Comorian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.154942,
+          -12.830306
+        ]
+      },
+      "properties": {
+        "Name": "G_Mao",
+        "Glottocode": "maor1244",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G44b",
+        "L-code": "G-Mao",
+        "Language": "Maore",
+        "missing": "1",
+        "orig-Longitude": "-12.8",
+        "orig-Latitude": "44.2",
+        "Glottolog_Name": "Maore Comorian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3709,
+          -12.2123
+        ]
+      },
+      "properties": {
+        "Name": "G_Nju",
+        "Glottocode": "ndzw1235",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G44b",
+        "L-code": "G-Nju",
+        "Language": "Njuani",
+        "missing": "10",
+        "orig-Longitude": "-12.1",
+        "orig-Latitude": "44.3",
+        "Glottolog_Name": "Ndzwani Comorian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.741,
+          -12.3164
+        ]
+      },
+      "properties": {
+        "Name": "G_Mwl",
+        "Glottocode": "mwal1237",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G44c",
+        "L-code": "G-Mwl",
+        "Language": "Mwali",
+        "missing": "0",
+        "orig-Longitude": "-12.2",
+        "orig-Latitude": "40.5",
+        "Glottolog_Name": "Mwali Comorian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2321,
+          -9.35868
+        ]
+      },
+      "properties": {
+        "Name": "G_Kin",
+        "Glottocode": "nucl1379",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G65",
+        "L-code": "G-Kin",
+        "Language": "Kinga",
+        "missing": "1",
+        "orig-Longitude": "-9",
+        "orig-Latitude": "34",
+        "Glottolog_Name": "Kinga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1,
+          -3.95895
+        ]
+      },
+      "properties": {
+        "Name": "H_Be2",
+        "Glottocode": "beem1239",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H11a",
+        "L-code": "H-Be2",
+        "Language": "Bembe",
+        "missing": "0",
+        "orig-Longitude": "-3.9",
+        "orig-Latitude": "13.55",
+        "Glottolog_Name": "Beembe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3804,
+          -4.06716
+        ]
+      },
+      "properties": {
+        "Name": "H_Vi1",
+        "Glottocode": "vili1238",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H12",
+        "L-code": "H-Vi1",
+        "Language": "Vili",
+        "missing": "3",
+        "orig-Longitude": "-4.6",
+        "orig-Latitude": "12.7",
+        "Glottolog_Name": "Vili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3212,
+          -4.58488
+        ]
+      },
+      "properties": {
+        "Name": "H_Su3",
+        "Glottocode": "suun1239",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H12b",
+        "L-code": "H-Su3",
+        "Language": "Suundi",
+        "missing": "1",
+        "orig-Longitude": "-6.3",
+        "orig-Latitude": "18.1",
+        "Glottolog_Name": "Suundi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9657,
+          -5.1263
+        ]
+      },
+      "properties": {
+        "Name": "H_Yo1",
+        "Glottocode": "yomb1244",
+        "xd_ids": [
+          "xd74"
+        ],
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H12b",
+        "L-code": "H-Yo1",
+        "Language": "Yombe",
+        "missing": "0",
+        "orig-Longitude": "-5",
+        "orig-Latitude": "13",
+        "Glottolog_Name": "Yombe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9657,
+          -5.1263
+        ]
+      },
+      "properties": {
+        "Name": "H_Yo2",
+        "Glottocode": "yomb1244",
+        "xd_ids": [
+          "xd74"
+        ],
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H12B",
+        "L-code": "H-Yo2",
+        "Language": "Yombe",
+        "missing": "1",
+        "orig-Longitude": "-4.1",
+        "orig-Latitude": "12.9",
+        "Glottolog_Name": "Yombe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5197,
+          -3.69702
+        ]
+      },
+      "properties": {
+        "Name": "H_Kun",
+        "Glottocode": "kuny1238",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H13a",
+        "L-code": "H-Kun",
+        "Language": "Kunyi",
+        "missing": "0",
+        "orig-Longitude": "-4.1",
+        "orig-Latitude": "13.05",
+        "Glottolog_Name": "Kunyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3212,
+          -4.58488
+        ]
+      },
+      "properties": {
+        "Name": "H_Su4",
+        "Glottocode": "suun1239",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H13b",
+        "L-code": "H-Su4",
+        "Language": "Suundi",
+        "missing": "0",
+        "orig-Longitude": "-4.3",
+        "orig-Latitude": "12.9",
+        "Glottolog_Name": "Suundi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3555,
+          -6.32223
+        ]
+      },
+      "properties": {
+        "Name": "H_Snd",
+        "Glottocode": "sond1250",
+        "xd_ids": [
+          "xd54"
+        ],
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H16",
+        "L-code": "H-Snd",
+        "Language": "Sonde",
+        "missing": "8",
+        "orig-Longitude": "-6.1",
+        "orig-Latitude": "18.2",
+        "Glottolog_Name": "Sonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9,
+          -4.25
+        ]
+      },
+      "properties": {
+        "Name": "H_Laa",
+        "Glottocode": "laar1238",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H16f",
+        "L-code": "H-Laa",
+        "Language": "Laadi",
+        "missing": "4",
+        "orig-Longitude": "-4.3",
+        "orig-Latitude": "15",
+        "Glottolog_Name": "Laari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9,
+          -4.25
+        ]
+      },
+      "properties": {
+        "Name": "H_Lar",
+        "Glottocode": "laar1238",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H16f",
+        "L-code": "H-Lar",
+        "Language": "Lari",
+        "missing": "2",
+        "orig-Longitude": "-4.2",
+        "orig-Latitude": "14.8",
+        "Glottolog_Name": "Laari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4771,
+          -5.57722
+        ]
+      },
+      "properties": {
+        "Name": "H_Nta",
+        "Glottocode": "koon1244",
+        "xd_ids": [
+          "xd42"
+        ],
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H16g",
+        "L-code": "H-Nta",
+        "Language": "Ntandu",
+        "missing": "0",
+        "orig-Longitude": "-5",
+        "orig-Latitude": "15.2",
+        "Glottolog_Name": "South-Central Koongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5372,
+          -5.7114
+        ]
+      },
+      "properties": {
+        "Name": "H_Sik",
+        "Glottocode": "sans1272",
+        "xd_ids": [
+          "xd38"
+        ],
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H16h",
+        "L-code": "H-Sik",
+        "Language": "Sikongo",
+        "missing": "0",
+        "orig-Longitude": "-6.2",
+        "orig-Latitude": "14.2",
+        "Glottolog_Name": "San Salvador Kongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3212,
+          -4.58488
+        ]
+      },
+      "properties": {
+        "Name": "H_Su5",
+        "Glottocode": "suun1239",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H16i",
+        "L-code": "H-Su5",
+        "Language": "Suundi",
+        "missing": "1",
+        "orig-Longitude": "-4.8",
+        "orig-Latitude": "14.7",
+        "Glottolog_Name": "Suundi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4771,
+          -5.57722
+        ]
+      },
+      "properties": {
+        "Name": "H_Zoo",
+        "Glottocode": "koon1244",
+        "xd_ids": [
+          "xd42"
+        ],
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H16k",
+        "L-code": "H-Zoo",
+        "Language": "Zoombo",
+        "missing": "1",
+        "orig-Longitude": "-6.7",
+        "orig-Latitude": "15.1",
+        "Glottolog_Name": "South-Central Koongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.284,
+          -4.0409
+        ]
+      },
+      "properties": {
+        "Name": "H_Kam",
+        "Glottocode": "kaam1238",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H17b",
+        "L-code": "H-Kam",
+        "Language": "Kamba",
+        "missing": "4",
+        "orig-Longitude": "-4.15",
+        "orig-Latitude": "13.5",
+        "Glottolog_Name": "Kaamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8893,
+          -8.97835
+        ]
+      },
+      "properties": {
+        "Name": "H_Kim",
+        "Glottocode": "kimb1241",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H21",
+        "L-code": "H-Kim",
+        "Language": "Kimbundu",
+        "missing": "0",
+        "orig-Longitude": "-8.75",
+        "orig-Latitude": "15.51",
+        "Glottolog_Name": "Kimbundu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7348,
+          -10.5166
+        ]
+      },
+      "properties": {
+        "Name": "H_Sng",
+        "Glottocode": "nson1238",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H24",
+        "L-code": "H-Sng",
+        "Language": "Songo",
+        "missing": "6",
+        "orig-Longitude": "-4.5",
+        "orig-Latitude": "18.2",
+        "Glottolog_Name": "Nsongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.775,
+          -5.984
+        ]
+      },
+      "properties": {
+        "Name": "H_Ya1",
+        "Glottocode": "yaka1269",
+        "xd_ids": [
+          "xd45"
+        ],
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H31",
+        "L-code": "H-Ya1",
+        "Language": "Yaka",
+        "missing": "0",
+        "orig-Longitude": "-4.9",
+        "orig-Latitude": "17.15",
+        "Glottolog_Name": "Yaka-Pelende-Lonzo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7736,
+          -5.76495
+        ]
+      },
+      "properties": {
+        "Name": "H_Suk",
+        "Glottocode": "suku1259",
+        "xd_ids": [
+          "xd41"
+        ],
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H32",
+        "L-code": "H-Suk",
+        "Language": "Suku",
+        "missing": "1",
+        "orig-Longitude": "-5.3",
+        "orig-Latitude": "17.6",
+        "Glottolog_Name": "Suku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4312,
+          -3.69695
+        ]
+      },
+      "properties": {
+        "Name": "H_Hu1",
+        "Glottocode": "hung1278",
+        "Guthrie": "H",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "H33",
+        "L-code": "H-Hu1",
+        "Language": "Hungana",
+        "missing": "1",
+        "orig-Longitude": "-4.5",
+        "orig-Latitude": "18.5",
+        "Glottolog_Name": "Hungan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0488,
+          -1.83511
+        ]
+      },
+      "properties": {
+        "Name": "J_Reg",
+        "Glottocode": "kara1481",
+        "xd_ids": [
+          "xd107"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J00",
+        "L-code": "J-Reg",
+        "Language": "Regi",
+        "missing": "4",
+        "orig-Longitude": "-1.9",
+        "orig-Latitude": "33.1",
+        "Glottolog_Name": "Kara (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.775,
+          -5.984
+        ]
+      },
+      "properties": {
+        "Name": "J_Yaa",
+        "Glottocode": "yaka1269",
+        "xd_ids": [
+          "xd45"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J00",
+        "L-code": "J-Yaa",
+        "Language": "Yaaka",
+        "missing": "0",
+        "orig-Longitude": "-1.8",
+        "orig-Latitude": "29.3",
+        "Glottolog_Name": "Yaka-Pelende-Lonzo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3493,
+          0.95294
+        ]
+      },
+      "properties": {
+        "Name": "J_Nyo",
+        "Glottocode": "nyor1246",
+        "xd_ids": [
+          "xd87"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J11",
+        "L-code": "J-Nyo",
+        "Language": "Nyoro",
+        "missing": "0",
+        "orig-Longitude": "1.1",
+        "orig-Latitude": "30",
+        "Glottolog_Name": "Nyoro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.15153,
+          0.66884
+        ]
+      },
+      "properties": {
+        "Name": "J_Gan",
+        "Glottocode": "gand1255",
+        "xd_ids": [
+          "xd124"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J15",
+        "L-code": "J-Gan",
+        "Language": "Ganda",
+        "missing": "1",
+        "orig-Longitude": "0.5",
+        "orig-Latitude": "33.7",
+        "Glottolog_Name": "Ganda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3942,
+          0.40456
+        ]
+      },
+      "properties": {
+        "Name": "J_Sog",
+        "Glottocode": "soga1242",
+        "xd_ids": [
+          "xd116"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J16",
+        "L-code": "J-Sog",
+        "Language": "Soga",
+        "missing": "3",
+        "orig-Longitude": "0.6",
+        "orig-Latitude": "33.9",
+        "Glottolog_Name": "Soga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8227,
+          1.11392
+        ]
+      },
+      "properties": {
+        "Name": "J_Gwe",
+        "Glottocode": "gwer1238",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J17",
+        "L-code": "J-Gwe",
+        "Language": "Gwere",
+        "missing": "6",
+        "orig-Longitude": "1.2",
+        "orig-Latitude": "34",
+        "Glottolog_Name": "Gwere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9494,
+          0.676185
+        ]
+      },
+      "properties": {
+        "Name": "J_Tal",
+        "Glottocode": "tali1258",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J21",
+        "L-code": "J-Tal",
+        "Language": "Talinga",
+        "missing": "4",
+        "orig-Longitude": "0.7",
+        "orig-Latitude": "29.8",
+        "Glottolog_Name": "Talinga-Bwisi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4846,
+          -1.70878
+        ]
+      },
+      "properties": {
+        "Name": "J_Hay",
+        "Glottocode": "haya1250",
+        "xd_ids": [
+          "xd112"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J22",
+        "L-code": "J-Hay",
+        "Language": "Haya",
+        "missing": "6",
+        "orig-Longitude": "-1.8",
+        "orig-Latitude": "31.4",
+        "Glottolog_Name": "Haya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1755,
+          -2.64132
+        ]
+      },
+      "properties": {
+        "Name": "J_Zin",
+        "Glottocode": "zinz1238",
+        "xd_ids": [
+          "xd119"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J23",
+        "L-code": "J-Zin",
+        "Language": "Zinza",
+        "missing": "3",
+        "orig-Longitude": "-2.7",
+        "orig-Latitude": "31.4",
+        "Glottolog_Name": "Zinza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5326,
+          -2.09315
+        ]
+      },
+      "properties": {
+        "Name": "J_Ker",
+        "Glottocode": "kere1283",
+        "xd_ids": [
+          "xd113"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J24",
+        "L-code": "J-Ker",
+        "Language": "Kerebe",
+        "missing": "5",
+        "orig-Longitude": "-2.1",
+        "orig-Latitude": "33.5",
+        "Glottolog_Name": "Kerewe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9141,
+          -1.62681
+        ]
+      },
+      "properties": {
+        "Name": "J_Jit",
+        "Glottocode": "jita1239",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J25",
+        "L-code": "J-Jit",
+        "Language": "Jita",
+        "missing": "4",
+        "orig-Longitude": "-1.8",
+        "orig-Latitude": "33",
+        "Glottolog_Name": "Jita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.71,
+          -1.80737
+        ]
+      },
+      "properties": {
+        "Name": "J_Kwa",
+        "Glottocode": "kway1241",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J25",
+        "L-code": "J-Kwa",
+        "Language": "Kwaya",
+        "missing": "4",
+        "orig-Longitude": "-1.8",
+        "orig-Latitude": "33.5",
+        "Glottolog_Name": "Kwaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5708,
+          0.1529
+        ]
+      },
+      "properties": {
+        "Name": "J_Kis",
+        "Glottocode": "kisa1263",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J30",
+        "L-code": "J-Kis",
+        "Language": "Kisa",
+        "missing": "17",
+        "orig-Longitude": "0.3",
+        "orig-Latitude": "34.8",
+        "Glottolog_Name": "Kisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7719,
+          0.68043
+        ]
+      },
+      "properties": {
+        "Name": "J_Buk",
+        "Glottocode": "buku1249",
+        "xd_ids": [
+          "xd111"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J31c",
+        "L-code": "J-Buk",
+        "Language": "Bukusu",
+        "missing": "5",
+        "orig-Longitude": "0.6",
+        "orig-Latitude": "34.7",
+        "Glottolog_Name": "Bukusu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.817,
+          0.21557
+        ]
+      },
+      "properties": {
+        "Name": "J_Isu",
+        "Glottocode": "idak1243",
+        "xd_ids": [
+          "xd110"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J32",
+        "L-code": "J-Isu",
+        "Language": "Isuka",
+        "missing": "6",
+        "orig-Longitude": "0.3",
+        "orig-Latitude": "34.8",
+        "Glottolog_Name": "Idakho-Isukha-Tiriki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0335,
+          0.3652
+        ]
+      },
+      "properties": {
+        "Name": "J_Sam",
+        "Glottocode": "saam1283",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J34",
+        "L-code": "J-Sam",
+        "Language": "Samia",
+        "missing": "6",
+        "orig-Longitude": "0.3",
+        "orig-Latitude": "34.1",
+        "Glottolog_Name": "Saamia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0243,
+          -0.24904
+        ]
+      },
+      "properties": {
+        "Name": "J_Nan",
+        "Glottocode": "nand1264",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J42",
+        "L-code": "J-Nan",
+        "Language": "Nande",
+        "missing": "0",
+        "orig-Longitude": "0.2",
+        "orig-Latitude": "29.2",
+        "Glottolog_Name": "Nande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9308,
+          -1.46762
+        ]
+      },
+      "properties": {
+        "Name": "J_Hun",
+        "Glottocode": "hund1239",
+        "xd_ids": [
+          "xd133"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J51",
+        "L-code": "J-Hun",
+        "Language": "Hunde",
+        "missing": "12",
+        "orig-Longitude": "-1.5",
+        "orig-Latitude": "28.5",
+        "Glottolog_Name": "Hunde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8624,
+          -1.99975
+        ]
+      },
+      "properties": {
+        "Name": "J_Hav",
+        "Glottocode": "havu1238",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J52",
+        "L-code": "J-Hav",
+        "Language": "Havu",
+        "missing": "1",
+        "orig-Longitude": "-2.1",
+        "orig-Latitude": "29.1",
+        "Glottolog_Name": "Havu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6122,
+          -2.55777
+        ]
+      },
+      "properties": {
+        "Name": "J_Shi",
+        "Glottocode": "shii1238",
+        "xd_ids": [
+          "xd131"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J53",
+        "L-code": "J-Shi",
+        "Language": "Shi",
+        "missing": "1",
+        "orig-Longitude": "-2.5",
+        "orig-Latitude": "28.8",
+        "Glottolog_Name": "Shi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9865,
+          -3.04022
+        ]
+      },
+      "properties": {
+        "Name": "J_Ful",
+        "Glottocode": "fuli1240",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J54",
+        "L-code": "J-Ful",
+        "Language": "Fuliru",
+        "missing": "1",
+        "orig-Longitude": "-3.1",
+        "orig-Latitude": "29",
+        "Glottolog_Name": "Fuliiru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5778,
+          -1.91863
+        ]
+      },
+      "properties": {
+        "Name": "J_Tem",
+        "Glottocode": "temb1270",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J57",
+        "L-code": "J-Tem",
+        "Language": "Tembo",
+        "missing": "0",
+        "orig-Longitude": "-1.7",
+        "orig-Latitude": "28",
+        "Glottolog_Name": "Tembo (Kitembo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.97,
+          -2.94
+        ]
+      },
+      "properties": {
+        "Name": "J_Run",
+        "Glottocode": "rund1242",
+        "xd_ids": [
+          "xd184"
+        ],
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J62",
+        "L-code": "J-Run",
+        "Language": "Rundi",
+        "missing": "0",
+        "orig-Longitude": "-3",
+        "orig-Latitude": "30",
+        "Glottolog_Name": "Rundi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5699,
+          -4.99312
+        ]
+      },
+      "properties": {
+        "Name": "J_Vin",
+        "Glottocode": "vinz1238",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J67",
+        "L-code": "J-Vin",
+        "Language": "Vinza",
+        "missing": "4",
+        "orig-Longitude": "-5.2",
+        "orig-Latitude": "31",
+        "Glottolog_Name": "Vinza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.572,
+          -8.14754
+        ]
+      },
+      "properties": {
+        "Name": "K_Hol",
+        "Glottocode": "holu1245",
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K01",
+        "L-code": "K-Hol",
+        "Language": "Holu",
+        "missing": "5",
+        "orig-Longitude": "-7.7",
+        "orig-Latitude": "17.5",
+        "Glottolog_Name": "Holu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3992,
+          -9.66082
+        ]
+      },
+      "properties": {
+        "Name": "K_Cio",
+        "Glottocode": "chok1245",
+        "xd_ids": [
+          "xd36"
+        ],
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K11",
+        "L-code": "K-Cio",
+        "Language": "Ciokwe",
+        "missing": "0",
+        "orig-Longitude": "-9",
+        "orig-Latitude": "20",
+        "Glottolog_Name": "Chokwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2924,
+          -13.5382
+        ]
+      },
+      "properties": {
+        "Name": "K_Luv",
+        "Glottocode": "luva1239",
+        "xd_ids": [
+          "xd35"
+        ],
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K14",
+        "L-code": "K-Luv",
+        "Language": "Luvale",
+        "missing": "0",
+        "orig-Longitude": "-13.1",
+        "orig-Latitude": "22.1",
+        "Glottolog_Name": "Luvale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2924,
+          -13.5382
+        ]
+      },
+      "properties": {
+        "Name": "K_Lwe",
+        "Glottocode": "luva1239",
+        "xd_ids": [
+          "xd35"
+        ],
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K14",
+        "L-code": "K-Lwe",
+        "Language": "Lwena",
+        "missing": "0",
+        "orig-Longitude": "-12.4",
+        "orig-Latitude": "22.4",
+        "Glottolog_Name": "Luvale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9768,
+          -14.603
+        ]
+      },
+      "properties": {
+        "Name": "K_Mbu",
+        "Glottocode": "mbun1249",
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K15",
+        "L-code": "K-Mbu",
+        "Language": "Mbunda",
+        "missing": "0",
+        "orig-Longitude": "-11.8",
+        "orig-Latitude": "19.9",
+        "Glottolog_Name": "Mbunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1502,
+          -5.44937
+        ]
+      },
+      "properties": {
+        "Name": "K_Sal",
+        "Glottocode": "sala1268",
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K21",
+        "L-code": "K-Sal",
+        "Language": "Salampasu",
+        "missing": "2",
+        "orig-Longitude": "-7.5",
+        "orig-Latitude": "22.5",
+        "Glottolog_Name": "Salampasu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8662,
+          -11.1793
+        ]
+      },
+      "properties": {
+        "Name": "K_Lun",
+        "Glottocode": "lund1266",
+        "xd_ids": [
+          "xd72"
+        ],
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K23",
+        "L-code": "K-Lun",
+        "Language": "Lunda",
+        "missing": "1",
+        "orig-Longitude": "-12",
+        "orig-Latitude": "24.2",
+        "Glottolog_Name": "Lunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4164,
+          -8.86971
+        ]
+      },
+      "properties": {
+        "Name": "K_Ruu",
+        "Glottocode": "ruun1238",
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K23",
+        "L-code": "K-Ruu",
+        "Language": "Ruund",
+        "missing": "9",
+        "orig-Longitude": "-8.6",
+        "orig-Latitude": "23",
+        "Glottolog_Name": "Ruund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.67,
+          -15.01
+        ]
+      },
+      "properties": {
+        "Name": "K_Luy",
+        "Glottocode": "luya1241",
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K31",
+        "L-code": "K-Luy",
+        "Language": "Luyi",
+        "missing": "1",
+        "orig-Longitude": "-16.2",
+        "orig-Latitude": "22",
+        "Glottolog_Name": "Luyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.256,
+          -17.9026
+        ]
+      },
+      "properties": {
+        "Name": "K_Kwa",
+        "Glottocode": "kwan1273",
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K33",
+        "L-code": "K-Kwa",
+        "Language": "Kwangali",
+        "missing": "0",
+        "orig-Longitude": "-17.9",
+        "orig-Latitude": "19.7",
+        "Glottolog_Name": "Kwangali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6678,
+          -18.1681
+        ]
+      },
+      "properties": {
+        "Name": "K_Dci",
+        "Glottocode": "diri1252",
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K39",
+        "L-code": "K-Dci",
+        "Language": "Dciriku",
+        "missing": "0",
+        "orig-Longitude": "-17.9",
+        "orig-Latitude": "20.8",
+        "Glottolog_Name": "Diriku-Shambyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.041,
+          -5.11888
+        ]
+      },
+      "properties": {
+        "Name": "K_Mb4",
+        "Glottocode": "mbal1257",
+        "xd_ids": [
+          "xd39"
+        ],
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K51B",
+        "L-code": "K-Mb4",
+        "Language": "Mbala",
+        "missing": "0",
+        "orig-Longitude": "-4.5",
+        "orig-Latitude": "17.9",
+        "Glottolog_Name": "Mbala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8275,
+          -5.64735
+        ]
+      },
+      "properties": {
+        "Name": "K_Phe",
+        "Glottocode": "phen1239",
+        "xd_ids": [
+          "xd44"
+        ],
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K52",
+        "L-code": "K-Phe",
+        "Language": "Pheende",
+        "missing": "0",
+        "orig-Longitude": "-6",
+        "orig-Latitude": "19",
+        "Glottolog_Name": "Phende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5759,
+          -5.60445
+        ]
+      },
+      "properties": {
+        "Name": "K_Kwe",
+        "Glottocode": "kwes1244",
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K53",
+        "L-code": "K-Kwe",
+        "Language": "Kwezo",
+        "missing": "1",
+        "orig-Longitude": "-5.6",
+        "orig-Latitude": "18.4",
+        "Glottolog_Name": "Kwese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4071,
+          -8.3041
+        ]
+      },
+      "properties": {
+        "Name": "L_Bwi",
+        "Glottocode": "bwil1245",
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L00",
+        "L-code": "L-Bwi",
+        "Language": "Bwile",
+        "missing": "7",
+        "orig-Longitude": "-8",
+        "orig-Latitude": "29",
+        "Glottolog_Name": "Bwile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5913,
+          -7.77459
+        ]
+      },
+      "properties": {
+        "Name": "L_Yaz",
+        "Glottocode": "hemb1242",
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L00",
+        "L-code": "L-Yaz",
+        "Language": "Yazi",
+        "missing": "5",
+        "orig-Longitude": "-5.3",
+        "orig-Latitude": "26.8",
+        "Glottolog_Name": "Hemba-Yazi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9027,
+          -7.15104
+        ]
+      },
+      "properties": {
+        "Name": "L_Kei",
+        "Glottocode": "kete1252",
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L21",
+        "L-code": "L-Kei",
+        "Language": "Kete-I",
+        "missing": "3",
+        "orig-Longitude": "-7.6",
+        "orig-Latitude": "23.1",
+        "Glottolog_Name": "Kete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1097,
+          -7.16388
+        ]
+      },
+      "properties": {
+        "Name": "L_Lw1",
+        "Glottocode": "lwal1238",
+        "Guthrie": "L",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "L22b",
+        "L-code": "L-Lw1",
+        "Language": "Lwalwa",
+        "missing": "2",
+        "orig-Longitude": "-7.2",
+        "orig-Latitude": "21.8",
+        "Glottolog_Name": "Lwalu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2765,
+          -5.71993
+        ]
+      },
+      "properties": {
+        "Name": "L_Son",
+        "Glottocode": "song1303",
+        "xd_ids": [
+          "xd136"
+        ],
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L23",
+        "L-code": "L-Son",
+        "Language": "Songye",
+        "missing": "1",
+        "orig-Longitude": "-6.15",
+        "orig-Latitude": "24.4",
+        "Glottolog_Name": "Songe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2438,
+          -4.31464
+        ]
+      },
+      "properties": {
+        "Name": "L_Ba2",
+        "Glottocode": "bang1350",
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L27a",
+        "L-code": "L-Ba2",
+        "Language": "Bangubangu",
+        "missing": "4",
+        "orig-Longitude": "-4.6",
+        "orig-Latitude": "26.8",
+        "Glottolog_Name": "Bangubangu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4422,
+          -5.72717
+        ]
+      },
+      "properties": {
+        "Name": "L_LuK",
+        "Glottocode": "luba1249",
+        "xd_ids": [
+          "xd134"
+        ],
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L31",
+        "L-code": "L-LuK",
+        "Language": "Luba-Ks",
+        "missing": "2",
+        "orig-Longitude": "-6.5",
+        "orig-Latitude": "23.5",
+        "Glottolog_Name": "Luba-Lulua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.613,
+          -7.31878
+        ]
+      },
+      "properties": {
+        "Name": "L_Kan",
+        "Glottocode": "kany1247",
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L32",
+        "L-code": "L-Kan",
+        "Language": "Kanyok",
+        "missing": "2",
+        "orig-Longitude": "-7.1",
+        "orig-Latitude": "23.4",
+        "Glottolog_Name": "Kanyok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8918,
+          -8.2816
+        ]
+      },
+      "properties": {
+        "Name": "L_LuS",
+        "Glottocode": "luba1250",
+        "xd_ids": [
+          "xd182",
+          "xd61"
+        ],
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L33",
+        "L-code": "L-LuS",
+        "Language": "Luba-Sh",
+        "missing": "1",
+        "orig-Longitude": "-7.8",
+        "orig-Latitude": "27",
+        "Glottolog_Name": "Luba-Katanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5913,
+          -7.77459
+        ]
+      },
+      "properties": {
+        "Name": "L_He1",
+        "Glottocode": "hemb1242",
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L34",
+        "L-code": "L-He1",
+        "Language": "Hemba",
+        "missing": "0",
+        "orig-Longitude": "-5.7",
+        "orig-Latitude": "26.7",
+        "Glottolog_Name": "Hemba-Yazi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5913,
+          -7.77459
+        ]
+      },
+      "properties": {
+        "Name": "L_He2",
+        "Glottocode": "hemb1242",
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L34",
+        "L-code": "L-He2",
+        "Language": "Hemba-m",
+        "missing": "1",
+        "orig-Longitude": "-5.5",
+        "orig-Latitude": "26.8",
+        "Glottolog_Name": "Hemba-Yazi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8462,
+          -10.0236
+        ]
+      },
+      "properties": {
+        "Name": "L_San",
+        "Glottocode": "sang1331",
+        "xd_ids": [
+          "xd137"
+        ],
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L35",
+        "L-code": "L-San",
+        "Language": "Sanga",
+        "missing": "0",
+        "orig-Longitude": "-9.6",
+        "orig-Latitude": "26.8",
+        "Glottolog_Name": "Sanga (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7646,
+          -12.4129
+        ]
+      },
+      "properties": {
+        "Name": "L_Kao",
+        "Glottocode": "kaon1241",
+        "xd_ids": [
+          "xd58"
+        ],
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L41",
+        "L-code": "L-Kao",
+        "Language": "Kaonde",
+        "missing": "1",
+        "orig-Longitude": "-12.2",
+        "orig-Latitude": "26.8",
+        "Glottolog_Name": "Kaonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7649,
+          -14.8513
+        ]
+      },
+      "properties": {
+        "Name": "L_Nko",
+        "Glottocode": "nkoy1244",
+        "Guthrie": "L",
+        "Hist-Groups": "East-Central",
+        "G-code": "L62",
+        "L-code": "L-Nko",
+        "Language": "Nkoya",
+        "missing": "1",
+        "orig-Longitude": "-14.8",
+        "orig-Latitude": "24.8",
+        "Glottolog_Name": "Nkoya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2269,
+          -8.86817
+        ]
+      },
+      "properties": {
+        "Name": "M_Mam",
+        "Glottocode": "mamb1296",
+        "xd_ids": [
+          "xd70"
+        ],
+        "Guthrie": "M",
+        "Hist-Groups": "East-Central",
+        "G-code": "M15",
+        "L-code": "M-Mam",
+        "Language": "Mambwe",
+        "missing": "2",
+        "orig-Longitude": "-9.2",
+        "orig-Latitude": "31.8",
+        "Glottolog_Name": "Mambwe-Lungu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5133,
+          -10.9906
+        ]
+      },
+      "properties": {
+        "Name": "M_Kon",
+        "Glottocode": "mako1251",
+        "xd_ids": [
+          "xd68"
+        ],
+        "Guthrie": "M",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "M31",
+        "L-code": "M-Kon",
+        "Language": "Konde",
+        "missing": "0",
+        "orig-Longitude": "-8.95",
+        "orig-Latitude": "33.55",
+        "Glottolog_Name": "Makonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7763,
+          -9.71018
+        ]
+      },
+      "properties": {
+        "Name": "M_Ny1",
+        "Glottocode": "nyak1260",
+        "Guthrie": "M",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "M31",
+        "L-code": "M-Ny1",
+        "Language": "Nyakyusa",
+        "missing": "0",
+        "orig-Longitude": "-9.7",
+        "orig-Latitude": "33.9",
+        "Glottolog_Name": "Nyakyusa-Ngonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2993,
+          -10.6122
+        ]
+      },
+      "properties": {
+        "Name": "M_Bem",
+        "Glottocode": "bemb1257",
+        "Guthrie": "M",
+        "Hist-Groups": "East-Central",
+        "G-code": "M42",
+        "L-code": "M-Bem",
+        "Language": "Bemba",
+        "missing": "1",
+        "orig-Longitude": "-12.6",
+        "orig-Latitude": "28.2",
+        "Glottolog_Name": "Bemba (Zambia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0168,
+          -11.6295
+        ]
+      },
+      "properties": {
+        "Name": "M_Aus",
+        "Glottocode": "aush1241",
+        "Guthrie": "M",
+        "Hist-Groups": "East-Central",
+        "G-code": "M43",
+        "L-code": "M-Aus",
+        "Language": "Aushi",
+        "missing": "1",
+        "orig-Longitude": "-11.2",
+        "orig-Latitude": "26.8",
+        "Glottolog_Name": "Aushi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2297,
+          -12.945
+        ]
+      },
+      "properties": {
+        "Name": "M_Lal",
+        "Glottocode": "lala1264",
+        "xd_ids": [
+          "xd59"
+        ],
+        "Guthrie": "M",
+        "Hist-Groups": "East-Central",
+        "G-code": "M52",
+        "L-code": "M-Lal",
+        "Language": "Lala",
+        "missing": "0",
+        "orig-Longitude": "-13.3",
+        "orig-Latitude": "30.2",
+        "Glottolog_Name": "Lala-Bisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9026,
+          -12.3366
+        ]
+      },
+      "properties": {
+        "Name": "M_Lam",
+        "Glottocode": "lamb1271",
+        "xd_ids": [
+          "xd71"
+        ],
+        "Guthrie": "M",
+        "Hist-Groups": "East-Central",
+        "G-code": "M54",
+        "L-code": "M-Lam",
+        "Language": "Lamba",
+        "missing": "0",
+        "orig-Longitude": "-12.9",
+        "orig-Latitude": "28.6",
+        "Glottolog_Name": "Lamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2581,
+          -14.7192
+        ]
+      },
+      "properties": {
+        "Name": "M_Len",
+        "Glottocode": "lenj1248",
+        "Guthrie": "M",
+        "Hist-Groups": "East-Central",
+        "G-code": "M61",
+        "L-code": "M-Len",
+        "Language": "Lenje",
+        "missing": "0",
+        "orig-Longitude": "-15",
+        "orig-Latitude": "27.5",
+        "Glottolog_Name": "Lenje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7934,
+          -15.5213
+        ]
+      },
+      "properties": {
+        "Name": "M_Sol",
+        "Glottocode": "soli1239",
+        "Guthrie": "M",
+        "Hist-Groups": "East-Central",
+        "G-code": "M62",
+        "L-code": "M-Sol",
+        "Language": "Soli",
+        "missing": "1",
+        "orig-Longitude": "-15.4",
+        "orig-Latitude": "28.3",
+        "Glottolog_Name": "Soli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.103495,
+          -17.422325
+        ]
+      },
+      "properties": {
+        "Name": "M_To2",
+        "Glottocode": "tong1318",
+        "xd_ids": [
+          "xd56"
+        ],
+        "Guthrie": "M",
+        "Hist-Groups": "East-Central",
+        "G-code": "M64a",
+        "L-code": "M-To2",
+        "Language": "Tonga",
+        "missing": "0",
+        "orig-Longitude": "-16.8",
+        "orig-Latitude": "27.2",
+        "Glottolog_Name": "Tonga (Zambia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.71269,
+          -11.13767
+        ]
+      },
+      "properties": {
+        "Name": "N_Mpo",
+        "Glottocode": "mpot1240",
+        "Guthrie": "N",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "N14",
+        "L-code": "N-Mpo",
+        "Language": "Mpoto",
+        "missing": "2",
+        "orig-Longitude": "-10.7",
+        "orig-Latitude": "35.6",
+        "Glottolog_Name": "Mpoto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3738,
+          -11.3297
+        ]
+      },
+      "properties": {
+        "Name": "N_Tu2",
+        "Glottocode": "tumb1250",
+        "xd_ids": [
+          "xd62"
+        ],
+        "Guthrie": "N",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "N21a",
+        "L-code": "N-Tu2",
+        "Language": "Tumbuka",
+        "missing": "1",
+        "orig-Longitude": "-11.6",
+        "orig-Latitude": "33.6",
+        "Glottolog_Name": "Tumbuka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.15852,
+          -9.49372
+        ]
+      },
+      "properties": {
+        "Name": "N_Lam",
+        "Glottocode": "lamb1272",
+        "Guthrie": "N",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "N26",
+        "L-code": "N-Lam",
+        "Language": "Lambya",
+        "missing": "0",
+        "orig-Longitude": "-9.7",
+        "orig-Latitude": "33.6",
+        "Glottolog_Name": "Lambya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8959,
+          -11.3304
+        ]
+      },
+      "properties": {
+        "Name": "N_Nys",
+        "Glottocode": "mwer1247",
+        "xd_ids": [
+          "xd65"
+        ],
+        "Guthrie": "N",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "N31",
+        "L-code": "N-Nys",
+        "Language": "Nyasa",
+        "missing": "7",
+        "orig-Longitude": "-11.2",
+        "orig-Latitude": "35.8",
+        "Glottolog_Name": "Mwera (Nyasa)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8108,
+          -14.8047
+        ]
+      },
+      "properties": {
+        "Name": "N_Nyj",
+        "Glottocode": "nyan1308",
+        "Guthrie": "N",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "N31a",
+        "L-code": "N-Nyj",
+        "Language": "Nyanja",
+        "missing": "0",
+        "orig-Longitude": "-12",
+        "orig-Latitude": "33.5",
+        "Glottolog_Name": "Nyanja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3544,
+          -15.3946
+        ]
+      },
+      "properties": {
+        "Name": "N_Sng",
+        "Glottocode": "nsen1242",
+        "Guthrie": "N",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "N41",
+        "L-code": "N-Sng",
+        "Language": "Senga",
+        "missing": "0",
+        "orig-Longitude": "-11.3",
+        "orig-Latitude": "32.9",
+        "Glottolog_Name": "Nsenga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2804,
+          -15.7337
+        ]
+      },
+      "properties": {
+        "Name": "N_Kun",
+        "Glottocode": "kund1255",
+        "xd_ids": [
+          "xd63"
+        ],
+        "Guthrie": "N",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "N42",
+        "L-code": "N-Kun",
+        "Language": "Kunda",
+        "missing": "0",
+        "orig-Longitude": "-15.5",
+        "orig-Latitude": "30",
+        "Glottolog_Name": "Chikunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9829,
+          -19.7933
+        ]
+      },
+      "properties": {
+        "Name": "N_Sen",
+        "Glottocode": "nucl1396",
+        "xd_ids": [
+          "xd67"
+        ],
+        "Guthrie": "N",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "N44",
+        "L-code": "N-Sen",
+        "Language": "Sena",
+        "missing": "2",
+        "orig-Longitude": "-17",
+        "orig-Latitude": "35.2",
+        "Glottolog_Name": "Sena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2387,
+          -13.6119
+        ]
+      },
+      "properties": {
+        "Name": "P_Ya1",
+        "Glottocode": "yaoo1241",
+        "xd_ids": [
+          "xd73"
+        ],
+        "Guthrie": "P",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "P21",
+        "L-code": "P-Ya1",
+        "Language": "Yao",
+        "missing": "0",
+        "orig-Longitude": "-15.7",
+        "orig-Latitude": "35.5",
+        "Glottolog_Name": "Yao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8052,
+          -14.8509
+        ]
+      },
+      "properties": {
+        "Name": "P_Ma4",
+        "Glottocode": "makh1264",
+        "xd_ids": [
+          "xd69"
+        ],
+        "Guthrie": "P",
+        "Hist-Groups": "East-Southeast",
+        "G-code": "P31c",
+        "L-code": "P-Ma4",
+        "Language": "Makua",
+        "missing": "0",
+        "orig-Longitude": "-14",
+        "orig-Latitude": "39.5",
+        "Glottolog_Name": "Makhuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2437,
+          -16.0381
+        ]
+      },
+      "properties": {
+        "Name": "P_Lom",
+        "Glottocode": "lomw1241",
+        "Guthrie": "P",
+        "Hist-Groups": "East-Southeast",
+        "G-code": "P32",
+        "L-code": "P-Lom",
+        "Language": "Lomwe",
+        "missing": "0",
+        "orig-Longitude": "-16.5",
+        "orig-Latitude": "36.5",
+        "Glottolog_Name": "Mozambique Lomwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4148,
+          -12.4763
+        ]
+      },
+      "properties": {
+        "Name": "R_Um1",
+        "Glottocode": "umbu1257",
+        "xd_ids": [
+          "xd28"
+        ],
+        "Guthrie": "R",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "R11",
+        "L-code": "R-Um1",
+        "Language": "Umbundu",
+        "missing": "0",
+        "orig-Longitude": "-11.3",
+        "orig-Latitude": "16.2",
+        "Glottolog_Name": "Umbundu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.58,
+          -17.7176
+        ]
+      },
+      "properties": {
+        "Name": "R_Kwa",
+        "Glottocode": "kuan1247",
+        "Guthrie": "R",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "R21",
+        "L-code": "R-Kwa",
+        "Language": "Kwanyama",
+        "missing": "0",
+        "orig-Longitude": "-17",
+        "orig-Latitude": "16.8",
+        "Glottolog_Name": "Kuanyama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35,
+          -17.22
+        ]
+      },
+      "properties": {
+        "Name": "R_Ndo",
+        "Glottocode": "ndon1254",
+        "xd_ids": [
+          "xd20"
+        ],
+        "Guthrie": "R",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "R22",
+        "L-code": "R-Ndo",
+        "Language": "Ndonga",
+        "missing": "0",
+        "orig-Longitude": "-18",
+        "orig-Latitude": "16.8",
+        "Glottolog_Name": "Ndonga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5655,
+          -21.0231
+        ]
+      },
+      "properties": {
+        "Name": "R_Her",
+        "Glottocode": "here1253",
+        "xd_ids": [
+          "xd10"
+        ],
+        "Guthrie": "R",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "R31",
+        "L-code": "R-Her",
+        "Language": "Herero",
+        "missing": "0",
+        "orig-Longitude": "-17",
+        "orig-Latitude": "12",
+        "Glottolog_Name": "Herero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.75725,
+          -17.20849
+        ]
+      },
+      "properties": {
+        "Name": "S_Sho",
+        "Glottocode": "shon1251",
+        "xd_ids": [
+          "xd19"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S10",
+        "L-code": "S-Sho",
+        "Language": "Shona",
+        "missing": "0",
+        "orig-Longitude": "-19",
+        "orig-Latitude": "30",
+        "Glottolog_Name": "Shona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8052,
+          -18.1927
+        ]
+      },
+      "properties": {
+        "Name": "S_Man",
+        "Glottocode": "many1258",
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S13",
+        "L-code": "S-Man",
+        "Language": "Manyika",
+        "missing": "0",
+        "orig-Longitude": "-18.5",
+        "orig-Latitude": "31.1",
+        "Glottolog_Name": "Manyika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1739,
+          -20.1239
+        ]
+      },
+      "properties": {
+        "Name": "S_Nda",
+        "Glottocode": "ndau1241",
+        "xd_ids": [
+          "xd18"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S15",
+        "L-code": "S-Nda",
+        "Language": "Ndau",
+        "missing": "0",
+        "orig-Longitude": "-19.8",
+        "orig-Latitude": "34.8",
+        "Glottolog_Name": "Ndau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.401,
+          -21.2887
+        ]
+      },
+      "properties": {
+        "Name": "S_Kal",
+        "Glottocode": "kala1384",
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S16",
+        "L-code": "S-Kal",
+        "Language": "Kalanga",
+        "missing": "1",
+        "orig-Longitude": "-20.45",
+        "orig-Latitude": "27.8",
+        "Glottolog_Name": "Kalanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9523,
+          -22.188
+        ]
+      },
+      "properties": {
+        "Name": "S_Ven",
+        "Glottocode": "vend1245",
+        "xd_ids": [
+          "xd29"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S21",
+        "L-code": "S-Ven",
+        "Language": "Venda",
+        "missing": "1",
+        "orig-Longitude": "-22.2",
+        "orig-Latitude": "30",
+        "Glottolog_Name": "Venda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7587,
+          -24.368
+        ]
+      },
+      "properties": {
+        "Name": "S_Twn",
+        "Glottocode": "tswa1253",
+        "xd_ids": [
+          "xd14"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S31",
+        "L-code": "S-Twn",
+        "Language": "Tswana",
+        "missing": "0",
+        "orig-Longitude": "-25.5",
+        "orig-Latitude": "25.9",
+        "Glottolog_Name": "Tswana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.72016,
+          -24.9208
+        ]
+      },
+      "properties": {
+        "Name": "S_Kha",
+        "Glottocode": "kgal1244",
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S31d",
+        "L-code": "S-Kha",
+        "Language": "Khalaxadi",
+        "missing": "4",
+        "orig-Longitude": "-13.7",
+        "orig-Latitude": "22",
+        "Glottolog_Name": "Kgalagadi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.89,
+          -28.78
+        ]
+      },
+      "properties": {
+        "Name": "S_Sot",
+        "Glottocode": "sout2807",
+        "xd_ids": [
+          "xd31"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S32",
+        "L-code": "S-Sot",
+        "Language": "Sotho-N",
+        "missing": "0",
+        "orig-Longitude": "-30",
+        "orig-Latitude": "28",
+        "Glottolog_Name": "Southern Sotho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7398,
+          -17.7052
+        ]
+      },
+      "properties": {
+        "Name": "S_Loz",
+        "Glottocode": "lozi1239",
+        "xd_ids": [
+          "xd26"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S34",
+        "L-code": "S-Loz",
+        "Language": "Lozi",
+        "missing": "0",
+        "orig-Longitude": "-17.9",
+        "orig-Latitude": "26",
+        "Glottolog_Name": "Lozi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0769,
+          -31.0389
+        ]
+      },
+      "properties": {
+        "Name": "S_Xho",
+        "Glottocode": "xhos1239",
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S41",
+        "L-code": "S-Xho",
+        "Language": "Xhosa",
+        "missing": "0",
+        "orig-Longitude": "-32",
+        "orig-Latitude": "27",
+        "Glottolog_Name": "Xhosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2,
+          -28.9
+        ]
+      },
+      "properties": {
+        "Name": "S_Zul",
+        "Glottocode": "zulu1248",
+        "xd_ids": [
+          "xd13"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S42",
+        "L-code": "S-Zul",
+        "Language": "Zulu",
+        "missing": "0",
+        "orig-Longitude": "-28",
+        "orig-Latitude": "32",
+        "Glottolog_Name": "Zulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -26.0
+        ]
+      },
+      "properties": {
+        "Name": "S_Swa",
+        "Glottocode": "swat1243",
+        "xd_ids": [
+          "xd21"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S43",
+        "L-code": "S-Swa",
+        "Language": "Swati",
+        "missing": "0",
+        "orig-Longitude": "-26.5",
+        "orig-Latitude": "31.5",
+        "Glottolog_Name": "Swati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4096,
+          -20.2513
+        ]
+      },
+      "properties": {
+        "Name": "S_Nde",
+        "Glottocode": "nort2795",
+        "xd_ids": [
+          "xd32"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S44",
+        "L-code": "S-Nde",
+        "Language": "Ndebele",
+        "missing": "0",
+        "orig-Longitude": "-19.5",
+        "orig-Latitude": "29",
+        "Glottolog_Name": "Zimbabwean Ndebele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459,
+          -11.779
+        ]
+      },
+      "properties": {
+        "Name": "S_Ngo",
+        "Glottocode": "tanz1241",
+        "xd_ids": [
+          "xd75"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S45",
+        "L-code": "S-Ngo",
+        "Language": "Ngoni",
+        "missing": "3",
+        "orig-Longitude": "-11.65",
+        "orig-Latitude": "33.65",
+        "Glottolog_Name": "Tanzanian Ngoni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4287,
+          -22.9891
+        ]
+      },
+      "properties": {
+        "Name": "S_Tsw",
+        "Glottocode": "tswa1255",
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S51",
+        "L-code": "S-Tsw",
+        "Language": "Tswa",
+        "missing": "6",
+        "orig-Longitude": "-23.8",
+        "orig-Latitude": "35",
+        "Glottolog_Name": "Tswa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8105,
+          -23.5754
+        ]
+      },
+      "properties": {
+        "Name": "S_Tso",
+        "Glottocode": "tson1249",
+        "xd_ids": [
+          "xd27"
+        ],
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S53",
+        "L-code": "S-Tso",
+        "Language": "Tsonga",
+        "missing": "0",
+        "orig-Longitude": "-23",
+        "orig-Latitude": "33.5",
+        "Glottolog_Name": "Tsonga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6167,
+          -26.7329
+        ]
+      },
+      "properties": {
+        "Name": "S_Ron",
+        "Glottocode": "rong1268",
+        "Guthrie": "S",
+        "Hist-Groups": "East-South",
+        "G-code": "S54",
+        "L-code": "S-Ron",
+        "Language": "Ronga",
+        "missing": "6",
+        "orig-Longitude": "-26",
+        "orig-Latitude": "33",
+        "Glottolog_Name": "Ronga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.90959,
+          5.54442
+        ]
+      },
+      "properties": {
+        "Name": "Eja",
+        "Glottocode": "ejag1239",
+        "xd_ids": [
+          "xd195"
+        ],
+        "Guthrie": "0",
+        "Hist-Groups": "Bantoid",
+        "G-code": "800",
+        "L-code": "Eja",
+        "Language": "Ejagham",
+        "missing": "0",
+        "orig-Longitude": "5.5",
+        "orig-Latitude": "9.2",
+        "Glottolog_Name": "Ejagham"
+      }
+    }
+  ]
+}
