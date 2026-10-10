@@ -22,8 +22,8 @@
         "L-code": "Tiv",
         "Language": "Tiv",
         "missing": "0",
-        "orig-Longitude": "5",
-        "orig-Latitude": "7.5",
+        "orig-Longitude": "7.5",
+        "orig-Latitude": "5",
         "Glottolog_Name": "Tiv"
       }
     },
@@ -45,8 +45,8 @@
         "L-code": "Amb",
         "Language": "Ambele",
         "missing": "9",
-        "orig-Longitude": "6.95",
-        "orig-Latitude": "9.55",
+        "orig-Longitude": "9.55",
+        "orig-Latitude": "6.95",
         "Glottolog_Name": "Ambele"
       }
     },
@@ -68,8 +68,8 @@
         "L-code": "Asu",
         "Language": "Asumbo",
         "missing": "14",
-        "orig-Longitude": "6.3",
-        "orig-Latitude": "9.5",
+        "orig-Longitude": "9.5",
+        "orig-Latitude": "6.3",
         "Glottolog_Name": "Iyive"
       }
     },
@@ -91,8 +91,8 @@
         "L-code": "Band",
         "Language": "Bandjoun",
         "missing": "0",
-        "orig-Longitude": "5.3",
-        "orig-Latitude": "10.3",
+        "orig-Longitude": "10.3",
+        "orig-Latitude": "5.3",
         "Glottolog_Name": "Ghom\u00e1l\u00e1'"
       }
     },
@@ -114,8 +114,8 @@
         "L-code": "Dsc",
         "Language": "Dschang",
         "missing": "0",
-        "orig-Longitude": "5.4",
-        "orig-Latitude": "10.1",
+        "orig-Longitude": "10.1",
+        "orig-Latitude": "5.4",
         "Glottolog_Name": "Yemba"
       }
     },
@@ -140,8 +140,8 @@
         "L-code": "Fef1",
         "Language": "Fefe",
         "missing": "0",
-        "orig-Longitude": "5.3",
-        "orig-Latitude": "10.2",
+        "orig-Longitude": "10.2",
+        "orig-Latitude": "5.3",
         "Glottolog_Name": "Fe'fe'"
       }
     },
@@ -166,8 +166,8 @@
         "L-code": "Baf",
         "Language": "Bafang",
         "missing": "1",
-        "orig-Longitude": "5.1",
-        "orig-Latitude": "10.2",
+        "orig-Longitude": "10.2",
+        "orig-Latitude": "5.1",
         "Glottolog_Name": "Fe'fe'"
       }
     },
@@ -189,8 +189,8 @@
         "L-code": "A-Mbo",
         "Language": "Mbo",
         "missing": "0",
-        "orig-Longitude": "4.8",
-        "orig-Latitude": "10",
+        "orig-Longitude": "10",
+        "orig-Latitude": "4.8",
         "Glottolog_Name": "Mbo (Cameroon)"
       }
     },
@@ -215,8 +215,8 @@
         "L-code": "A-Dua",
         "Language": "Duala",
         "missing": "0",
-        "orig-Longitude": "3.8",
-        "orig-Latitude": "9.7",
+        "orig-Longitude": "9.7",
+        "orig-Latitude": "3.8",
         "Glottolog_Name": "Duala"
       }
     },
@@ -238,8 +238,8 @@
         "L-code": "A-Lim",
         "Language": "Limba",
         "missing": "0",
-        "orig-Longitude": "3.9",
-        "orig-Latitude": "9.5",
+        "orig-Longitude": "9.5",
+        "orig-Latitude": "3.9",
         "Glottolog_Name": "Malimba"
       }
     },
@@ -264,8 +264,8 @@
         "L-code": "A-Bub",
         "Language": "Bubi",
         "missing": "4",
-        "orig-Longitude": "3.5",
-        "orig-Latitude": "8.8",
+        "orig-Longitude": "8.8",
+        "orig-Latitude": "3.5",
         "Glottolog_Name": "Bube"
       }
     },
@@ -290,8 +290,8 @@
         "L-code": "A-Noh",
         "Language": "Noho",
         "missing": "9",
-        "orig-Longitude": "3.1",
-        "orig-Latitude": "10",
+        "orig-Longitude": "10",
+        "orig-Latitude": "3.1",
         "Glottolog_Name": "Batanga"
       }
     },
@@ -316,8 +316,8 @@
         "L-code": "A-Tan",
         "Language": "Tanga",
         "missing": "0",
-        "orig-Longitude": "3.3",
-        "orig-Latitude": "10",
+        "orig-Longitude": "10",
+        "orig-Latitude": "3.3",
         "Glottolog_Name": "Batanga"
       }
     },
@@ -339,8 +339,8 @@
         "L-code": "A-Be1",
         "Language": "Benga",
         "missing": "0",
-        "orig-Longitude": "0.5",
-        "orig-Latitude": "9.7",
+        "orig-Longitude": "9.7",
+        "orig-Latitude": "0.5",
         "Glottolog_Name": "Benga"
       }
     },
@@ -362,8 +362,8 @@
         "L-code": "A-Bas",
         "Language": "Basaa",
         "missing": "0",
-        "orig-Longitude": "3.6",
-        "orig-Latitude": "11",
+        "orig-Longitude": "11",
+        "orig-Latitude": "3.6",
         "Glottolog_Name": "Basa (Cameroon)"
       }
     },
@@ -388,8 +388,8 @@
         "L-code": "A-Kok",
         "Language": "Koko",
         "missing": "0",
-        "orig-Longitude": "3.5",
-        "orig-Latitude": "10",
+        "orig-Longitude": "10",
+        "orig-Latitude": "3.5",
         "Glottolog_Name": "Bakoko"
       }
     },
@@ -414,8 +414,8 @@
         "L-code": "A-Nen",
         "Language": "Nen",
         "missing": "0",
-        "orig-Longitude": "4.7",
-        "orig-Latitude": "10.9",
+        "orig-Longitude": "10.9",
+        "orig-Latitude": "4.7",
         "Glottolog_Name": "Tunen"
       }
     },
@@ -437,8 +437,8 @@
         "L-code": "A-Lef",
         "Language": "Lefa",
         "missing": "17",
-        "orig-Longitude": "5",
-        "orig-Latitude": "11.2",
+        "orig-Longitude": "11.2",
+        "orig-Latitude": "5",
         "Glottolog_Name": "Lefa"
       }
     },
@@ -460,8 +460,8 @@
         "L-code": "A-Maj",
         "Language": "Maja",
         "missing": "6",
-        "orig-Longitude": "4.8",
-        "orig-Latitude": "11.2",
+        "orig-Longitude": "11.2",
+        "orig-Latitude": "4.8",
         "Glottolog_Name": "Lefa"
       }
     },
@@ -483,9 +483,32 @@
         "L-code": "A-Tum",
         "Language": "Tumi",
         "missing": "4",
-        "orig-Longitude": "4.9",
-        "orig-Latitude": "11.1",
+        "orig-Longitude": "11.1",
+        "orig-Latitude": "4.9",
         "Glottolog_Name": "Lefa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0982,
+          4.72603
+        ]
+      },
+      "properties": {
+        "Name": "A_Rop",
+        "Glottocode": "bafi1243",
+        "Guthrie": "A",
+        "Hist-Groups": "Buneya",
+        "G-code": "A53",
+        "L-code": "A-Rop",
+        "Language": "Rope",
+        "missing": "2",
+        "orig-Longitude": "11.1",
+        "orig-Latitude": "4.6",
+        "Glottolog_Name": "Bafia"
       }
     },
     {
@@ -506,8 +529,8 @@
         "L-code": "A-Nja",
         "Language": "Njanti",
         "missing": "6",
-        "orig-Longitude": "5",
-        "orig-Latitude": "11.3",
+        "orig-Longitude": "11.3",
+        "orig-Latitude": "5",
         "Glottolog_Name": "Tibea"
       }
     },
@@ -529,8 +552,8 @@
         "L-code": "A-Tuk",
         "Language": "Tuki",
         "missing": "3",
-        "orig-Longitude": "4.5",
-        "orig-Latitude": "11.4",
+        "orig-Longitude": "11.4",
+        "orig-Latitude": "4.5",
         "Glottolog_Name": "Tuki"
       }
     },
@@ -552,8 +575,8 @@
         "L-code": "A-Gun",
         "Language": "Gunu",
         "missing": "11",
-        "orig-Longitude": "4.6",
-        "orig-Latitude": "11.3",
+        "orig-Longitude": "11.3",
+        "orig-Latitude": "4.6",
         "Glottolog_Name": "Nugunu (Cameroon)"
       }
     },
@@ -575,8 +598,8 @@
         "L-code": "A-Mma",
         "Language": "Mmala",
         "missing": "7",
-        "orig-Longitude": "4.5",
-        "orig-Latitude": "11.2",
+        "orig-Longitude": "11.2",
+        "orig-Latitude": "4.5",
         "Glottolog_Name": "Mmaala"
       }
     },
@@ -598,8 +621,8 @@
         "L-code": "A-Kal",
         "Language": "Kalonge",
         "missing": "0",
-        "orig-Longitude": "4.3",
-        "orig-Latitude": "11.1",
+        "orig-Longitude": "11.1",
+        "orig-Latitude": "4.3",
         "Glottolog_Name": "Nuasue"
       }
     },
@@ -621,8 +644,8 @@
         "L-code": "A-Eto",
         "Language": "Eton",
         "missing": "0",
-        "orig-Longitude": "4",
-        "orig-Latitude": "11.2",
+        "orig-Longitude": "11.2",
+        "orig-Latitude": "4",
         "Glottolog_Name": "Eton-Mengisa"
       }
     },
@@ -644,8 +667,8 @@
         "L-code": "A-Ewo",
         "Language": "Ewondo",
         "missing": "0",
-        "orig-Longitude": "3.9",
-        "orig-Latitude": "11.5",
+        "orig-Longitude": "11.5",
+        "orig-Latitude": "3.9",
         "Glottolog_Name": "Ewondo"
       }
     },
@@ -667,8 +690,8 @@
         "L-code": "A-Yao",
         "Language": "Yaounde",
         "missing": "0",
-        "orig-Longitude": "3.6",
-        "orig-Latitude": "11.2",
+        "orig-Longitude": "11.2",
+        "orig-Latitude": "3.6",
         "Glottolog_Name": "Ewondo"
       }
     },
@@ -690,8 +713,8 @@
         "L-code": "A-Bul",
         "Language": "Bulu",
         "missing": "1",
-        "orig-Longitude": "3",
-        "orig-Latitude": "11.5",
+        "orig-Longitude": "11.5",
+        "orig-Latitude": "3",
         "Glottolog_Name": "Bulu (Cameroon)"
       }
     },
@@ -716,8 +739,8 @@
         "L-code": "A-Fan",
         "Language": "Fang",
         "missing": "2",
-        "orig-Longitude": "2.1",
-        "orig-Latitude": "14.1",
+        "orig-Longitude": "14.1",
+        "orig-Latitude": "2.1",
         "Glottolog_Name": "Fang (Equatorial Guinea)"
       }
     },
@@ -739,8 +762,8 @@
         "L-code": "A-Kw1",
         "Language": "Kwejo",
         "missing": "0",
-        "orig-Longitude": "3.5",
-        "orig-Latitude": "16.2",
+        "orig-Longitude": "16.2",
+        "orig-Latitude": "3.5",
         "Glottolog_Name": "Ukhwejo"
       }
     },
@@ -762,8 +785,8 @@
         "L-code": "A-Koo",
         "Language": "Koozime",
         "missing": "0",
-        "orig-Longitude": "3.4",
-        "orig-Latitude": "13",
+        "orig-Longitude": "13",
+        "orig-Latitude": "3.4",
         "Glottolog_Name": "Koonzime"
       }
     },
@@ -785,8 +808,8 @@
         "L-code": "A-Bek",
         "Language": "Bekwil",
         "missing": "0",
-        "orig-Longitude": "1.8",
-        "orig-Latitude": "14.2",
+        "orig-Longitude": "14.2",
+        "orig-Latitude": "1.8",
         "Glottolog_Name": "Bekwil"
       }
     },
@@ -808,8 +831,8 @@
         "L-code": "A-Mpy",
         "Language": "Mpyemo",
         "missing": "0",
-        "orig-Longitude": "3.5",
-        "orig-Latitude": "15",
+        "orig-Longitude": "15",
+        "orig-Latitude": "3.5",
         "Glottolog_Name": "Mpiemo"
       }
     },
@@ -834,8 +857,31 @@
         "L-code": "A-Bom",
         "Language": "Bomwali",
         "missing": "3",
-        "orig-Longitude": "1.55",
-        "orig-Latitude": "15.7",
+        "orig-Longitude": "15.7",
+        "orig-Latitude": "1.55",
+        "Glottolog_Name": "Bomwali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9546,
+          1.71005
+        ]
+      },
+      "properties": {
+        "Name": "A_San",
+        "Glottocode": "bomw1238",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A87",
+        "L-code": "A-San",
+        "Language": "Sangasanga",
+        "missing": "5",
+        "orig-Longitude": "15.15",
+        "orig-Latitude": "2.2",
         "Glottolog_Name": "Bomwali"
       }
     },
@@ -857,8 +903,8 @@
         "L-code": "A-Pom",
         "Language": "Pomo",
         "missing": "2",
-        "orig-Longitude": "1.7",
-        "orig-Latitude": "16.2",
+        "orig-Longitude": "16.2",
+        "orig-Latitude": "1.7",
         "Glottolog_Name": "Pol"
       }
     },
@@ -880,8 +926,8 @@
         "L-code": "A-Ka2",
         "Language": "Kako",
         "missing": "0",
-        "orig-Longitude": "4.1",
-        "orig-Latitude": "15.2",
+        "orig-Longitude": "15.2",
+        "orig-Latitude": "4.1",
         "Glottolog_Name": "Kako"
       }
     },
@@ -903,8 +949,8 @@
         "L-code": "B-Him",
         "Language": "Himba",
         "missing": "6",
-        "orig-Longitude": "-1.48",
-        "orig-Latitude": "11.54",
+        "orig-Longitude": "11.54",
+        "orig-Latitude": "-1.48",
         "Glottolog_Name": "Simba"
       }
     },
@@ -926,8 +972,8 @@
         "L-code": "B-Sha",
         "Language": "Shama",
         "missing": "0",
-        "orig-Longitude": "0.55",
-        "orig-Latitude": "12.85",
+        "orig-Longitude": "12.85",
+        "orig-Latitude": "0.55",
         "Glottolog_Name": "Osamayi"
       }
     },
@@ -949,8 +995,8 @@
         "L-code": "B-Sek",
         "Language": "Seki",
         "missing": "0",
-        "orig-Longitude": "0.5",
-        "orig-Latitude": "9.5",
+        "orig-Longitude": "9.5",
+        "orig-Latitude": "0.5",
         "Glottolog_Name": "Seki"
       }
     },
@@ -972,8 +1018,8 @@
         "L-code": "B-Ung",
         "Language": "Ungom",
         "missing": "0",
-        "orig-Longitude": "-0.5",
-        "orig-Latitude": "10.5",
+        "orig-Longitude": "10.5",
+        "orig-Latitude": "-0.5",
         "Glottolog_Name": "Ngom"
       }
     },
@@ -995,8 +1041,8 @@
         "L-code": "B-Pov",
         "Language": "Pove",
         "missing": "2",
-        "orig-Longitude": "-1.2",
-        "orig-Latitude": "12.2",
+        "orig-Longitude": "12.2",
+        "orig-Latitude": "-1.2",
         "Glottolog_Name": "Bubi"
       }
     },
@@ -1018,8 +1064,8 @@
         "L-code": "B-Mbh",
         "Language": "Mbahouin",
         "missing": "16",
-        "orig-Longitude": "-1.7",
-        "orig-Latitude": "13.4",
+        "orig-Longitude": "13.4",
+        "orig-Latitude": "-1.7",
         "Glottolog_Name": "Mbangwe"
       }
     },
@@ -1041,8 +1087,8 @@
         "L-code": "B-Wu1",
         "Language": "Wumbu",
         "missing": "0",
-        "orig-Longitude": "-2",
-        "orig-Latitude": "12",
+        "orig-Longitude": "12",
+        "orig-Latitude": "-2",
         "Glottolog_Name": "Wumbvu"
       }
     },
@@ -1064,8 +1110,8 @@
         "L-code": "B-Mah",
         "Language": "Mahongwe",
         "missing": "0",
-        "orig-Longitude": "1",
-        "orig-Latitude": "14.3",
+        "orig-Longitude": "14.3",
+        "orig-Latitude": "1",
         "Glottolog_Name": "Mahongwe"
       }
     },
@@ -1087,8 +1133,8 @@
         "L-code": "B-Sa1",
         "Language": "Sake",
         "missing": "7",
-        "orig-Longitude": "-0.1",
-        "orig-Latitude": "11.9",
+        "orig-Longitude": "11.9",
+        "orig-Latitude": "-0.1",
         "Glottolog_Name": "Sake"
       }
     },
@@ -1110,8 +1156,8 @@
         "L-code": "B-Ko3",
         "Language": "Kota",
         "missing": "0",
-        "orig-Longitude": "1.1",
-        "orig-Latitude": "13.9",
+        "orig-Longitude": "13.9",
+        "orig-Latitude": "1.1",
         "Glottolog_Name": "Kota (Gabon)"
       }
     },
@@ -1136,8 +1182,8 @@
         "L-code": "B-Nd1",
         "Language": "Ndasa",
         "missing": "2",
-        "orig-Longitude": "-3.3",
-        "orig-Latitude": "13.2",
+        "orig-Longitude": "13.2",
+        "orig-Latitude": "-3.3",
         "Glottolog_Name": "Ndasa"
       }
     },
@@ -1162,8 +1208,8 @@
         "L-code": "B-Tsg",
         "Language": "Tsogo",
         "missing": "4",
-        "orig-Longitude": "-1.75",
-        "orig-Latitude": "11.5",
+        "orig-Longitude": "11.5",
+        "orig-Latitude": "-1.75",
         "Glottolog_Name": "Tsogo"
       }
     },
@@ -1185,8 +1231,8 @@
         "L-code": "B-Pin",
         "Language": "Pinji",
         "missing": "1",
-        "orig-Longitude": "-1.8",
-        "orig-Latitude": "11",
+        "orig-Longitude": "11",
+        "orig-Latitude": "-1.8",
         "Glottolog_Name": "Pinji"
       }
     },
@@ -1208,8 +1254,8 @@
         "L-code": "B-Vu2",
         "Language": "Vungu",
         "missing": "1",
-        "orig-Longitude": "-2.1",
-        "orig-Latitude": "10.7",
+        "orig-Longitude": "10.7",
+        "orig-Latitude": "-2.1",
         "Glottolog_Name": "Vumbu"
       }
     },
@@ -1231,8 +1277,8 @@
         "L-code": "B-Shi",
         "Language": "Shira",
         "missing": "0",
-        "orig-Longitude": "-1.5",
-        "orig-Latitude": "10.5",
+        "orig-Longitude": "10.5",
+        "orig-Latitude": "-1.5",
         "Glottolog_Name": "Sira"
       }
     },
@@ -1254,8 +1300,8 @@
         "L-code": "B-Sg2",
         "Language": "Sango",
         "missing": "1",
-        "orig-Longitude": "-1.2",
-        "orig-Latitude": "12.5",
+        "orig-Longitude": "12.5",
+        "orig-Latitude": "-1.2",
         "Glottolog_Name": "Sangu (Gabon)"
       }
     },
@@ -1277,8 +1323,8 @@
         "L-code": "B-Pu1",
         "Language": "Punu",
         "missing": "1",
-        "orig-Longitude": "-2.5",
-        "orig-Latitude": "11",
+        "orig-Longitude": "11",
+        "orig-Latitude": "-2.5",
         "Glottolog_Name": "Punu"
       }
     },
@@ -1300,8 +1346,8 @@
         "L-code": "B-Lu1",
         "Language": "Lumbu",
         "missing": "0",
-        "orig-Longitude": "-2.8",
-        "orig-Latitude": "10",
+        "orig-Longitude": "10",
+        "orig-Latitude": "-2.8",
         "Glottolog_Name": "Lumbu"
       }
     },
@@ -1323,8 +1369,8 @@
         "L-code": "B-Bwi",
         "Language": "Bwisi",
         "missing": "1",
-        "orig-Longitude": "-3.25",
-        "orig-Latitude": "13.1",
+        "orig-Longitude": "13.1",
+        "orig-Latitude": "-3.25",
         "Glottolog_Name": "Bwisi"
       }
     },
@@ -1346,8 +1392,8 @@
         "L-code": "B-Bar",
         "Language": "Barama",
         "missing": "1",
-        "orig-Longitude": "-2.6",
-        "orig-Latitude": "9.8",
+        "orig-Longitude": "9.8",
+        "orig-Latitude": "-2.6",
         "Glottolog_Name": "Barama"
       }
     },
@@ -1369,8 +1415,8 @@
         "L-code": "B-Dum",
         "Language": "Duma",
         "missing": "5",
-        "orig-Longitude": "-0.8",
-        "orig-Latitude": "12.6",
+        "orig-Longitude": "12.6",
+        "orig-Latitude": "-0.8",
         "Glottolog_Name": "Duma"
       }
     },
@@ -1392,8 +1438,8 @@
         "L-code": "B-Wan",
         "Language": "Wanji",
         "missing": "2",
-        "orig-Longitude": "-0.9",
-        "orig-Latitude": "12.8",
+        "orig-Longitude": "12.8",
+        "orig-Latitude": "-0.9",
         "Glottolog_Name": "Wandji"
       }
     },
@@ -1415,8 +1461,8 @@
         "L-code": "B-Nze",
         "Language": "Nzebi",
         "missing": "1",
-        "orig-Longitude": "-1.9",
-        "orig-Latitude": "11.9",
+        "orig-Longitude": "11.9",
+        "orig-Latitude": "-1.9",
         "Glottolog_Name": "Njebi"
       }
     },
@@ -1438,8 +1484,8 @@
         "L-code": "B-Tsa",
         "Language": "Tsangi",
         "missing": "2",
-        "orig-Longitude": "-2.9",
-        "orig-Latitude": "13.7",
+        "orig-Longitude": "13.7",
+        "orig-Latitude": "-2.9",
         "Glottolog_Name": "Tsaangi"
       }
     },
@@ -1461,8 +1507,8 @@
         "L-code": "B-Mbe",
         "Language": "Mbede",
         "missing": "1",
-        "orig-Longitude": "-0.4",
-        "orig-Latitude": "14",
+        "orig-Longitude": "14",
+        "orig-Latitude": "-0.4",
         "Glottolog_Name": "Mbere-Mbamba"
       }
     },
@@ -1484,8 +1530,8 @@
         "L-code": "B-Bam",
         "Language": "Bamba",
         "missing": "0",
-        "orig-Longitude": "-1.2",
-        "orig-Latitude": "13.9",
+        "orig-Longitude": "13.9",
+        "orig-Latitude": "-1.2",
         "Glottolog_Name": "Ombamba-Congo"
       }
     },
@@ -1507,8 +1553,8 @@
         "L-code": "B-Ndu",
         "Language": "Ndumu",
         "missing": "11",
-        "orig-Longitude": "-1.6",
-        "orig-Latitude": "13.5",
+        "orig-Longitude": "13.5",
+        "orig-Latitude": "-1.6",
         "Glottolog_Name": "Ndumu"
       }
     },
@@ -1530,8 +1576,8 @@
         "L-code": "B-Ngw",
         "Language": "Ngwi",
         "missing": "2",
-        "orig-Longitude": "-4.3",
-        "orig-Latitude": "19.4",
+        "orig-Longitude": "19.4",
+        "orig-Latitude": "-4.3",
         "Glottolog_Name": "Ngwii"
       }
     },
@@ -1553,8 +1599,8 @@
         "L-code": "B-Ng2",
         "Language": "Ngoli",
         "missing": "1",
-        "orig-Longitude": "-4.15",
-        "orig-Latitude": "19.1",
+        "orig-Longitude": "19.1",
+        "orig-Latitude": "-4.15",
         "Glottolog_Name": "Ngwii"
       }
     },
@@ -1576,8 +1622,8 @@
         "L-code": "B-Kan",
         "Language": "Kaningi",
         "missing": "5",
-        "orig-Longitude": "-1.75",
-        "orig-Latitude": "13.6",
+        "orig-Longitude": "13.6",
+        "orig-Latitude": "-1.75",
         "Glottolog_Name": "Kaningi"
       }
     },
@@ -1599,8 +1645,8 @@
         "L-code": "B-Tgu",
         "Language": "Tegue",
         "missing": "3",
-        "orig-Longitude": "-1.1",
-        "orig-Latitude": "15.2",
+        "orig-Longitude": "15.2",
+        "orig-Latitude": "-1.1",
         "Glottolog_Name": "Latege"
       }
     },
@@ -1622,8 +1668,8 @@
         "L-code": "B-Tek",
         "Language": "Teke",
         "missing": "7",
-        "orig-Longitude": "-4.1",
-        "orig-Latitude": "17.2",
+        "orig-Longitude": "17.2",
+        "orig-Latitude": "-4.1",
         "Glottolog_Name": "Latege"
       }
     },
@@ -1645,8 +1691,8 @@
         "L-code": "B-Tkk",
         "Language": "Teke-Kale",
         "missing": "2",
-        "orig-Longitude": "-1.3",
-        "orig-Latitude": "15.4",
+        "orig-Longitude": "15.4",
+        "orig-Latitude": "-1.3",
         "Glottolog_Name": "Latege"
       }
     },
@@ -1668,8 +1714,8 @@
         "L-code": "B-Gun",
         "Language": "Gungwel",
         "missing": "4",
-        "orig-Longitude": "-1.9",
-        "orig-Latitude": "15.8",
+        "orig-Longitude": "15.8",
+        "orig-Latitude": "-1.9",
         "Glottolog_Name": "Ngungwel"
       }
     },
@@ -1691,8 +1737,8 @@
         "L-code": "B-Ts2",
         "Language": "Tsayi",
         "missing": "2",
-        "orig-Longitude": "-2.8",
-        "orig-Latitude": "12.6",
+        "orig-Longitude": "12.6",
+        "orig-Latitude": "-2.8",
         "Glottolog_Name": "Teke-Tsaayi"
       }
     },
@@ -1714,8 +1760,8 @@
         "L-code": "B-Lal",
         "Language": "Lali",
         "missing": "2",
-        "orig-Longitude": "-3.7",
-        "orig-Latitude": "13.3",
+        "orig-Longitude": "13.3",
+        "orig-Latitude": "-3.7",
         "Glottolog_Name": "Teke-Laali"
       }
     },
@@ -1737,8 +1783,8 @@
         "L-code": "B-Iya",
         "Language": "Iyaa",
         "missing": "3",
-        "orig-Longitude": "-3.8",
-        "orig-Latitude": "13.3",
+        "orig-Longitude": "13.3",
+        "orig-Latitude": "-3.8",
         "Glottolog_Name": "Yaka (Congo)"
       }
     },
@@ -1763,8 +1809,8 @@
         "L-code": "B-Bo",
         "Language": "Bo",
         "missing": "0",
-        "orig-Longitude": "-2.5",
-        "orig-Latitude": "15.6",
+        "orig-Longitude": "15.6",
+        "orig-Latitude": "-2.5",
         "Glottolog_Name": "Teke-Eboo-Nzikou"
       }
     },
@@ -1786,8 +1832,8 @@
         "L-code": "B-Ku2",
         "Language": "Kukuya",
         "missing": "0",
-        "orig-Longitude": "-2.3",
-        "orig-Latitude": "14.5",
+        "orig-Longitude": "14.5",
+        "orig-Latitude": "-2.3",
         "Glottolog_Name": "Teke-Kukuya"
       }
     },
@@ -1809,9 +1855,32 @@
         "L-code": "B-Kem",
         "Language": "Kempee",
         "missing": "2",
-        "orig-Longitude": "-2.3",
-        "orig-Latitude": "18",
+        "orig-Longitude": "18",
+        "orig-Latitude": "-2.3",
         "Glottolog_Name": "Kempee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.194462,
+          -4.102208
+        ]
+      },
+      "properties": {
+        "Name": "B_Zad",
+        "Glottocode": "nzad1234",
+        "Guthrie": "B",
+        "Hist-Groups": "West-Coastal",
+        "G-code": "B80a",
+        "L-code": "B-Zad",
+        "Language": "Zadi",
+        "missing": "2",
+        "orig-Longitude": "19.1",
+        "orig-Latitude": "-3.8",
+        "Glottolog_Name": "Nzadi"
       }
     },
     {
@@ -1832,8 +1901,8 @@
         "L-code": "B-Te2",
         "Language": "Tiene",
         "missing": "1",
-        "orig-Longitude": "-2.7",
-        "orig-Latitude": "17.7",
+        "orig-Longitude": "17.7",
+        "orig-Latitude": "-2.7",
         "Glottolog_Name": "Tiene"
       }
     },
@@ -1855,8 +1924,8 @@
         "L-code": "B-Fin",
         "Language": "Finu",
         "missing": "4",
-        "orig-Longitude": "-5.2",
-        "orig-Latitude": "14.8",
+        "orig-Longitude": "14.8",
+        "orig-Latitude": "-5.2",
         "Glottolog_Name": "Mfinu"
       }
     },
@@ -1881,8 +1950,8 @@
         "L-code": "B-Iyn",
         "Language": "Iyanz",
         "missing": "2",
-        "orig-Longitude": "-4.7",
-        "orig-Latitude": "18.7",
+        "orig-Longitude": "18.7",
+        "orig-Latitude": "-4.7",
         "Glottolog_Name": "Yansi"
       }
     },
@@ -1907,8 +1976,8 @@
         "L-code": "B-Nso",
         "Language": "Nsongo",
         "missing": "0",
-        "orig-Longitude": "-4.9",
-        "orig-Latitude": "19.85",
+        "orig-Longitude": "19.85",
+        "orig-Latitude": "-4.9",
         "Glottolog_Name": "Nsong-Mpiin"
       }
     },
@@ -1930,8 +1999,8 @@
         "L-code": "B-Tm2",
         "Language": "Tsambaan",
         "missing": "3",
-        "orig-Longitude": "-4.5",
-        "orig-Latitude": "18.9",
+        "orig-Longitude": "18.9",
+        "orig-Latitude": "-4.5",
         "Glottolog_Name": "Samba"
       }
     },
@@ -1956,8 +2025,8 @@
         "L-code": "B-Dzi",
         "Language": "Dzing",
         "missing": "2",
-        "orig-Longitude": "-4.3",
-        "orig-Latitude": "19.3",
+        "orig-Longitude": "19.3",
+        "orig-Latitude": "-4.3",
         "Glottolog_Name": "Ding"
       }
     },
@@ -1982,8 +2051,8 @@
         "L-code": "B-Mb1",
         "Language": "Mbuun",
         "missing": "1",
-        "orig-Longitude": "-4.9",
-        "orig-Latitude": "19.8",
+        "orig-Longitude": "19.8",
+        "orig-Latitude": "-4.9",
         "Glottolog_Name": "Mbuun"
       }
     },
@@ -2005,8 +2074,8 @@
         "L-code": "C-Bam",
         "Language": "Bambomba",
         "missing": "8",
-        "orig-Longitude": "1.3",
-        "orig-Latitude": "17.3",
+        "orig-Longitude": "17.3",
+        "orig-Latitude": "1.3",
         "Glottolog_Name": "Bomitaba"
       }
     },
@@ -2028,8 +2097,8 @@
         "L-code": "C-Ba2",
         "Language": "Babole",
         "missing": "3",
-        "orig-Longitude": "1.4",
-        "orig-Latitude": "18",
+        "orig-Longitude": "18",
+        "orig-Latitude": "1.4",
         "Glottolog_Name": "Dibole"
       }
     },
@@ -2051,8 +2120,8 @@
         "L-code": "C-Gan",
         "Language": "Gando",
         "missing": "7",
-        "orig-Longitude": "3.6",
-        "orig-Latitude": "17.5",
+        "orig-Longitude": "17.5",
+        "orig-Latitude": "3.6",
         "Glottolog_Name": "Ngando (Central African Republic)"
       }
     },
@@ -2074,9 +2143,32 @@
         "L-code": "C-Kot",
         "Language": "Kota",
         "missing": "1",
-        "orig-Longitude": "-0.7",
-        "orig-Latitude": "12",
+        "orig-Longitude": "12",
+        "orig-Latitude": "-0.7",
         "Glottolog_Name": "Kota (Gabon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7529,
+          3.94184
+        ]
+      },
+      "properties": {
+        "Name": "C_Iso",
+        "Glottocode": "mbat1248",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C10",
+        "L-code": "C-Iso",
+        "Language": "Isongo",
+        "missing": "7",
+        "orig-Longitude": "17.8",
+        "orig-Latitude": "4",
+        "Glottolog_Name": "Mbati"
       }
     },
     {
@@ -2097,8 +2189,8 @@
         "L-code": "C-Kod",
         "Language": "Kondi",
         "missing": "12",
-        "orig-Longitude": "3.9",
-        "orig-Latitude": "16.2",
+        "orig-Longitude": "16.2",
+        "orig-Latitude": "3.9",
         "Glottolog_Name": "Ngundi"
       }
     },
@@ -2120,8 +2212,8 @@
         "L-code": "C-Pan",
         "Language": "Pande",
         "missing": "7",
-        "orig-Longitude": "3.5",
-        "orig-Latitude": "16.2",
+        "orig-Longitude": "16.2",
+        "orig-Latitude": "3.5",
         "Glottolog_Name": "Pande"
       }
     },
@@ -2143,8 +2235,8 @@
         "L-code": "C-Bon",
         "Language": "Bongili",
         "missing": "0",
-        "orig-Longitude": "0.3",
-        "orig-Latitude": "15.5",
+        "orig-Longitude": "15.5",
+        "orig-Latitude": "0.3",
         "Glottolog_Name": "Bongili"
       }
     },
@@ -2166,8 +2258,8 @@
         "L-code": "C-Lob",
         "Language": "Lobala",
         "missing": "4",
-        "orig-Longitude": "2.7",
-        "orig-Latitude": "18.5",
+        "orig-Longitude": "18.5",
+        "orig-Latitude": "2.7",
         "Glottolog_Name": "Lobala"
       }
     },
@@ -2189,8 +2281,8 @@
         "L-code": "C-Aka",
         "Language": "Aka",
         "missing": "7",
-        "orig-Longitude": "4.3",
-        "orig-Latitude": "18.5",
+        "orig-Longitude": "18.5",
+        "orig-Latitude": "4.3",
         "Glottolog_Name": "Akwa"
       }
     },
@@ -2212,8 +2304,8 @@
         "L-code": "C-Koy",
         "Language": "Koyo",
         "missing": "0",
-        "orig-Longitude": "-0.5",
-        "orig-Latitude": "15.9",
+        "orig-Longitude": "15.9",
+        "orig-Latitude": "-0.5",
         "Glottolog_Name": "Koyo"
       }
     },
@@ -2235,8 +2327,8 @@
         "L-code": "C-Bo1",
         "Language": "Bosi",
         "missing": "0",
-        "orig-Longitude": "-1.1",
-        "orig-Latitude": "15.4",
+        "orig-Longitude": "15.4",
+        "orig-Latitude": "-1.1",
         "Glottolog_Name": "Mbosi"
       }
     },
@@ -2258,8 +2350,8 @@
         "L-code": "C-Lkb",
         "Language": "Likuba",
         "missing": "2",
-        "orig-Longitude": "-1.7",
-        "orig-Latitude": "16.4",
+        "orig-Longitude": "16.4",
+        "orig-Latitude": "-1.7",
         "Glottolog_Name": "Likuba"
       }
     },
@@ -2281,8 +2373,8 @@
         "L-code": "C-Blk",
         "Language": "Boloki",
         "missing": "1",
-        "orig-Longitude": "0.9",
-        "orig-Latitude": "18.7",
+        "orig-Longitude": "18.7",
+        "orig-Latitude": "0.9",
         "Glottolog_Name": "Boloki"
       }
     },
@@ -2304,8 +2396,8 @@
         "L-code": "C-Lkk",
         "Language": "Likoka",
         "missing": "2",
-        "orig-Longitude": "2.7",
-        "orig-Latitude": "18.7",
+        "orig-Longitude": "18.7",
+        "orig-Latitude": "2.7",
         "Glottolog_Name": "Lobala"
       }
     },
@@ -2327,8 +2419,8 @@
         "L-code": "C-Mot",
         "Language": "Motembo",
         "missing": "1",
-        "orig-Longitude": "2.1",
-        "orig-Latitude": "21.1",
+        "orig-Longitude": "21.1",
+        "orig-Latitude": "2.1",
         "Glottolog_Name": "Motembo-Kunda"
       }
     },
@@ -2350,8 +2442,8 @@
         "L-code": "C-Ndo",
         "Language": "Ndobo",
         "missing": "0",
-        "orig-Longitude": "1",
-        "orig-Latitude": "18.7",
+        "orig-Longitude": "18.7",
+        "orig-Latitude": "1",
         "Glottolog_Name": "Ndobo"
       }
     },
@@ -2373,8 +2465,8 @@
         "L-code": "C-Pam",
         "Language": "Pama",
         "missing": "2",
-        "orig-Longitude": "-1.05",
-        "orig-Latitude": "17.2",
+        "orig-Longitude": "17.2",
+        "orig-Latitude": "-1.05",
         "Glottolog_Name": "Mpama"
       }
     },
@@ -2396,8 +2488,8 @@
         "L-code": "C-Zam",
         "Language": "Zamba",
         "missing": "2",
-        "orig-Longitude": "1.4",
-        "orig-Latitude": "18.2",
+        "orig-Longitude": "18.2",
+        "orig-Latitude": "1.4",
         "Glottolog_Name": "Zamba"
       }
     },
@@ -2419,8 +2511,8 @@
         "L-code": "C-Lib",
         "Language": "Libinza",
         "missing": "0",
-        "orig-Longitude": "1.5",
-        "orig-Latitude": "18.5",
+        "orig-Longitude": "18.5",
+        "orig-Latitude": "1.5",
         "Glottolog_Name": "Libinza"
       }
     },
@@ -2442,8 +2534,8 @@
         "L-code": "C-Bal",
         "Language": "Balobo",
         "missing": "1",
-        "orig-Longitude": "1.9",
-        "orig-Latitude": "19.4",
+        "orig-Longitude": "19.4",
+        "orig-Latitude": "1.9",
         "Glottolog_Name": "Balobo"
       }
     },
@@ -2465,8 +2557,8 @@
         "L-code": "C-Mwe",
         "Language": "Mwe",
         "missing": "8",
-        "orig-Longitude": "2.1",
-        "orig-Latitude": "19.2",
+        "orig-Longitude": "19.2",
+        "orig-Latitude": "2.1",
         "Glottolog_Name": "Bamwe"
       }
     },
@@ -2488,8 +2580,8 @@
         "L-code": "C-Bob",
         "Language": "Bobangi",
         "missing": "0",
-        "orig-Longitude": "-1.4",
-        "orig-Latitude": "17.7",
+        "orig-Longitude": "17.7",
+        "orig-Latitude": "-1.4",
         "Glottolog_Name": "Bobangi"
       }
     },
@@ -2511,8 +2603,8 @@
         "L-code": "C-Sen",
         "Language": "Sengele",
         "missing": "1",
-        "orig-Longitude": "-1.8",
-        "orig-Latitude": "18.7",
+        "orig-Longitude": "18.7",
+        "orig-Latitude": "-1.8",
         "Glottolog_Name": "Sengele"
       }
     },
@@ -2537,8 +2629,8 @@
         "L-code": "C-Sak",
         "Language": "Sakata",
         "missing": "3",
-        "orig-Longitude": "-2.7",
-        "orig-Latitude": "18.1",
+        "orig-Longitude": "18.1",
+        "orig-Latitude": "-2.7",
         "Glottolog_Name": "Sakata"
       }
     },
@@ -2560,8 +2652,8 @@
         "L-code": "C-Bol",
         "Language": "Bolia",
         "missing": "1",
-        "orig-Longitude": "-1.5",
-        "orig-Latitude": "18.4",
+        "orig-Longitude": "18.4",
+        "orig-Latitude": "-1.5",
         "Glottolog_Name": "Bolia"
       }
     },
@@ -2583,8 +2675,8 @@
         "L-code": "C-Lol",
         "Language": "Lolia",
         "missing": "1",
-        "orig-Longitude": "-1.3",
-        "orig-Latitude": "18.2",
+        "orig-Longitude": "18.2",
+        "orig-Latitude": "-1.3",
         "Glottolog_Name": "Bolia"
       }
     },
@@ -2609,8 +2701,8 @@
         "L-code": "C-Bdz",
         "Language": "Budza",
         "missing": "1",
-        "orig-Longitude": "2.2",
-        "orig-Latitude": "22.5",
+        "orig-Longitude": "22.5",
+        "orig-Latitude": "2.2",
         "Glottolog_Name": "Budza"
       }
     },
@@ -2635,9 +2727,32 @@
         "L-code": "C-Lin",
         "Language": "Lingala",
         "missing": "1",
-        "orig-Longitude": "1.5",
-        "orig-Latitude": "17.5",
+        "orig-Longitude": "17.5",
+        "orig-Latitude": "1.5",
         "Glottolog_Name": "Kinshasa Lingala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6107,
+          2.19951
+        ]
+      },
+      "properties": {
+        "Name": "C_Bdj",
+        "Glottocode": "budz1238",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C37",
+        "L-code": "C-Bdj",
+        "Language": "Budja",
+        "missing": "4",
+        "orig-Longitude": "23.2",
+        "orig-Latitude": "2.2",
+        "Glottolog_Name": "Budza"
       }
     },
     {
@@ -2658,8 +2773,8 @@
         "L-code": "C-Ngo",
         "Language": "Ngombe",
         "missing": "3",
-        "orig-Longitude": "1.2",
-        "orig-Latitude": "19.8",
+        "orig-Longitude": "19.8",
+        "orig-Latitude": "1.2",
         "Glottolog_Name": "Ngombe (Democratic Republic of Congo)"
       }
     },
@@ -2684,8 +2799,8 @@
         "L-code": "C-Boa",
         "Language": "Boa",
         "missing": "3",
-        "orig-Longitude": "2.7",
-        "orig-Latitude": "23.8",
+        "orig-Longitude": "23.8",
+        "orig-Latitude": "2.7",
         "Glottolog_Name": "Bwa"
       }
     },
@@ -2707,8 +2822,8 @@
         "L-code": "C-Nge",
         "Language": "Ngelema",
         "missing": "1",
-        "orig-Longitude": "1.5",
-        "orig-Latitude": "25",
+        "orig-Longitude": "25",
+        "orig-Latitude": "1.5",
         "Glottolog_Name": "Ngelima"
       }
     },
@@ -2733,8 +2848,8 @@
         "L-code": "C-Mbe",
         "Language": "Mbesa",
         "missing": "3",
-        "orig-Longitude": "1.1",
-        "orig-Latitude": "23.15",
+        "orig-Longitude": "23.15",
+        "orig-Latitude": "1.1",
         "Glottolog_Name": "Mbesa"
       }
     },
@@ -2756,9 +2871,32 @@
         "L-code": "C-Hes",
         "Language": "Heso",
         "missing": "3",
-        "orig-Longitude": "0.7",
-        "orig-Latitude": "24.2",
+        "orig-Longitude": "24.2",
+        "orig-Latitude": "0.7",
         "Glottolog_Name": "So (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6862,
+          0.88267
+        ]
+      },
+      "properties": {
+        "Name": "C_Ilo",
+        "Glottocode": "lomb1260",
+        "Guthrie": "C",
+        "Hist-Groups": "West-Congo Basin",
+        "G-code": "C54",
+        "L-code": "C-Ilo",
+        "Language": "Ilombo",
+        "missing": "1",
+        "orig-Longitude": "24.3",
+        "orig-Latitude": "1",
+        "Glottolog_Name": "Lombo"
       }
     },
     {
@@ -2782,8 +2920,8 @@
         "L-code": "C-Kle",
         "Language": "Kele",
         "missing": "1",
-        "orig-Longitude": "0.8",
-        "orig-Latitude": "24.2",
+        "orig-Longitude": "24.2",
+        "orig-Latitude": "0.8",
         "Glottolog_Name": "Kele-Foma"
       }
     },
@@ -2805,8 +2943,8 @@
         "L-code": "C-Mng",
         "Language": "Mongo",
         "missing": "1",
-        "orig-Longitude": "-0.6",
-        "orig-Latitude": "24.3",
+        "orig-Longitude": "24.3",
+        "orig-Latitude": "-0.6",
         "Glottolog_Name": "Mongo"
       }
     },
@@ -2828,8 +2966,8 @@
         "L-code": "C-Ml2",
         "Language": "Mbole-K",
         "missing": "0",
-        "orig-Longitude": "-0.1",
-        "orig-Latitude": "24.5",
+        "orig-Longitude": "24.5",
+        "orig-Latitude": "-0.1",
         "Glottolog_Name": "Mbole"
       }
     },
@@ -2851,8 +2989,8 @@
         "L-code": "C-Omb",
         "Language": "Ombo",
         "missing": "0",
-        "orig-Longitude": "-2.2",
-        "orig-Latitude": "25.8",
+        "orig-Longitude": "25.8",
+        "orig-Latitude": "-2.2",
         "Glottolog_Name": "Ombo"
       }
     },
@@ -2877,8 +3015,8 @@
         "L-code": "C-Tet",
         "Language": "Tetela",
         "missing": "0",
-        "orig-Longitude": "-5",
-        "orig-Latitude": "25",
+        "orig-Longitude": "25",
+        "orig-Latitude": "-5",
         "Glottolog_Name": "Tetela"
       }
     },
@@ -2903,8 +3041,8 @@
         "L-code": "C-Ku2",
         "Language": "Kushu",
         "missing": "0",
-        "orig-Longitude": "-4",
-        "orig-Latitude": "25.1",
+        "orig-Longitude": "25.1",
+        "orig-Latitude": "-4",
         "Glottolog_Name": "Kusu"
       }
     },
@@ -2926,8 +3064,8 @@
         "L-code": "C-Kla",
         "Language": "Kela",
         "missing": "4",
-        "orig-Longitude": "-2.5",
-        "orig-Latitude": "23.2",
+        "orig-Longitude": "23.2",
+        "orig-Latitude": "-2.5",
         "Glottolog_Name": "Kela (Democratic Republic of Congo)"
       }
     },
@@ -2952,8 +3090,8 @@
         "L-code": "C-Mbi",
         "Language": "Mbingi",
         "missing": "6",
-        "orig-Longitude": "-4.05",
-        "orig-Latitude": "22.2",
+        "orig-Longitude": "22.2",
+        "orig-Latitude": "-4.05",
         "Glottolog_Name": "Bushoong"
       }
     },
@@ -2975,8 +3113,8 @@
         "L-code": "C-Nde",
         "Language": "Ndengese",
         "missing": "6",
-        "orig-Longitude": "-3.5",
-        "orig-Latitude": "21.4",
+        "orig-Longitude": "21.4",
+        "orig-Latitude": "-3.5",
         "Glottolog_Name": "Dengese"
       }
     },
@@ -2998,8 +3136,8 @@
         "L-code": "C-Won",
         "Language": "Wongo",
         "missing": "0",
-        "orig-Longitude": "-4.9",
-        "orig-Latitude": "19.9",
+        "orig-Longitude": "19.9",
+        "orig-Latitude": "-4.9",
         "Glottolog_Name": "Wongo"
       }
     },
@@ -3024,8 +3162,8 @@
         "L-code": "D-Son",
         "Language": "Songe",
         "missing": "0",
-        "orig-Longitude": "-4.5",
-        "orig-Latitude": "26.3",
+        "orig-Longitude": "26.3",
+        "orig-Latitude": "-4.5",
         "Glottolog_Name": "Songe"
       }
     },
@@ -3047,8 +3185,8 @@
         "L-code": "D-Len",
         "Language": "Lengola",
         "missing": "0",
-        "orig-Longitude": "-0.5",
-        "orig-Latitude": "25.5",
+        "orig-Longitude": "25.5",
+        "orig-Latitude": "-0.5",
         "Glottolog_Name": "Lengola"
       }
     },
@@ -3070,8 +3208,8 @@
         "L-code": "D-Mit",
         "Language": "Mituku",
         "missing": "18",
-        "orig-Longitude": "-0.2",
-        "orig-Latitude": "24.8",
+        "orig-Longitude": "24.8",
+        "orig-Latitude": "-0.2",
         "Glottolog_Name": "Mituku"
       }
     },
@@ -3093,9 +3231,32 @@
         "L-code": "D-Eny",
         "Language": "Enya",
         "missing": "6",
-        "orig-Longitude": "0.5",
-        "orig-Latitude": "25.5",
+        "orig-Longitude": "25.5",
+        "orig-Latitude": "0.5",
         "Glottolog_Name": "Enya-Kisangani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          -4.1
+        ]
+      },
+      "properties": {
+        "Name": "D_Ge1",
+        "Glottocode": "enya1249",
+        "Guthrie": "D",
+        "Hist-Groups": "East-Central",
+        "G-code": "D14",
+        "L-code": "D-Ge1",
+        "Language": "Genia",
+        "missing": "0",
+        "orig-Longitude": "26",
+        "orig-Latitude": "-4.1",
+        "Glottolog_Name": "Enya-Kindu"
       }
     },
     {
@@ -3119,8 +3280,8 @@
         "L-code": "D-Sng",
         "Language": "Songola",
         "missing": "1",
-        "orig-Longitude": "-2.3",
-        "orig-Latitude": "26.5",
+        "orig-Longitude": "26.5",
+        "orig-Latitude": "-2.3",
         "Glottolog_Name": "Songoora"
       }
     },
@@ -3142,9 +3303,32 @@
         "L-code": "D-Le1",
         "Language": "Lega",
         "missing": "0",
-        "orig-Longitude": "-2.7",
-        "orig-Latitude": "27.3",
+        "orig-Longitude": "27.3",
+        "orig-Latitude": "-2.7",
         "Glottolog_Name": "Lega-Mwenga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1424,
+          -3.83196
+        ]
+      },
+      "properties": {
+        "Name": "D_Reg",
+        "Glottocode": "lega1249",
+        "Guthrie": "D",
+        "Hist-Groups": "East-Central",
+        "G-code": "D25",
+        "L-code": "D-Reg",
+        "Language": "Rega",
+        "missing": "0",
+        "orig-Longitude": "27.35",
+        "orig-Latitude": "-2.6",
+        "Glottolog_Name": "Lega-Shabunda"
       }
     },
     {
@@ -3165,8 +3349,8 @@
         "L-code": "D-Zim",
         "Language": "Zimba",
         "missing": "0",
-        "orig-Longitude": "-4.3",
-        "orig-Latitude": "26.6",
+        "orig-Longitude": "26.6",
+        "orig-Latitude": "-4.3",
         "Glottolog_Name": "Zimba"
       }
     },
@@ -3191,8 +3375,8 @@
         "L-code": "D-Hol",
         "Language": "Holoholo",
         "missing": "1",
-        "orig-Longitude": "-5.9",
-        "orig-Latitude": "29.2",
+        "orig-Longitude": "29.2",
+        "orig-Latitude": "-5.9",
         "Glottolog_Name": "Holoholo"
       }
     },
@@ -3217,8 +3401,8 @@
         "L-code": "D-Bi1",
         "Language": "Bira",
         "missing": "0",
-        "orig-Longitude": "1.6",
-        "orig-Latitude": "30.2",
+        "orig-Longitude": "30.2",
+        "orig-Latitude": "1.6",
         "Glottolog_Name": "Bera"
       }
     },
@@ -3240,8 +3424,8 @@
         "L-code": "D-Ny1",
         "Language": "Nyali",
         "missing": "0",
-        "orig-Longitude": "2",
-        "orig-Latitude": "27.9",
+        "orig-Longitude": "27.9",
+        "orig-Latitude": "2",
         "Glottolog_Name": "Nyali"
       }
     },
@@ -3263,8 +3447,8 @@
         "L-code": "D-Bod",
         "Language": "Bodo",
         "missing": "0",
-        "orig-Longitude": "2.2",
-        "orig-Latitude": "27.9",
+        "orig-Longitude": "27.9",
+        "orig-Latitude": "2.2",
         "Glottolog_Name": "Bodo (Central African Republic)"
       }
     },
@@ -3289,8 +3473,8 @@
         "L-code": "D-Kum",
         "Language": "Kumu",
         "missing": "0",
-        "orig-Longitude": "-0.5",
-        "orig-Latitude": "27",
+        "orig-Longitude": "27",
+        "orig-Latitude": "-0.5",
         "Glottolog_Name": "Komo (Democratic Republic of Congo)"
       }
     },
@@ -3312,8 +3496,8 @@
         "L-code": "D-Nyg",
         "Language": "Nyanga",
         "missing": "0",
-        "orig-Longitude": "-1.4",
-        "orig-Latitude": "28",
+        "orig-Longitude": "28",
+        "orig-Latitude": "-1.4",
         "Glottolog_Name": "Nyanga"
       }
     },
@@ -3338,8 +3522,8 @@
         "L-code": "D-Buy",
         "Language": "Buyu",
         "missing": "17",
-        "orig-Longitude": "-4.5",
-        "orig-Latitude": "28.3",
+        "orig-Longitude": "28.3",
+        "orig-Latitude": "-4.5",
         "Glottolog_Name": "Buyu"
       }
     },
@@ -3361,8 +3545,8 @@
         "L-code": "E-Log",
         "Language": "Logoli",
         "missing": "3",
-        "orig-Longitude": "0.1",
-        "orig-Latitude": "34.9",
+        "orig-Longitude": "34.9",
+        "orig-Latitude": "0.1",
         "Glottolog_Name": "Logooli"
       }
     },
@@ -3387,8 +3571,8 @@
         "L-code": "E-Gik",
         "Language": "Gikuyu",
         "missing": "0",
-        "orig-Longitude": "-0.5",
-        "orig-Latitude": "36.7",
+        "orig-Longitude": "36.7",
+        "orig-Latitude": "-0.5",
         "Glottolog_Name": "Kikuyu"
       }
     },
@@ -3410,8 +3594,8 @@
         "L-code": "E-Tha",
         "Language": "Tharaka",
         "missing": "0",
-        "orig-Longitude": "-0.2",
-        "orig-Latitude": "38.2",
+        "orig-Longitude": "38.2",
+        "orig-Latitude": "-0.2",
         "Glottolog_Name": "Tharaka"
       }
     },
@@ -3436,9 +3620,32 @@
         "L-code": "E-Kam",
         "Language": "Kamba",
         "missing": "6",
-        "orig-Longitude": "-1.4",
-        "orig-Latitude": "38",
+        "orig-Longitude": "38",
+        "orig-Latitude": "-1.4",
         "Glottolog_Name": "Kamba (Kenya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3357,
+          -3.33743
+        ]
+      },
+      "properties": {
+        "Name": "E_Cha",
+        "Glottocode": "moch1256",
+        "Guthrie": "E",
+        "Hist-Groups": "East-Kilimanjaro",
+        "G-code": "E62b",
+        "L-code": "E-Cha",
+        "Language": "Chaga",
+        "missing": "2",
+        "orig-Longitude": "37.3",
+        "orig-Latitude": "-3.2",
+        "Glottolog_Name": "Mochi"
       }
     },
     {
@@ -3462,8 +3669,8 @@
         "L-code": "E-Po1",
         "Language": "Pokomo",
         "missing": "10",
-        "orig-Longitude": "-1.4",
-        "orig-Latitude": "39.9",
+        "orig-Longitude": "39.9",
+        "orig-Latitude": "-1.4",
         "Glottolog_Name": "Pokomo"
       }
     },
@@ -3488,8 +3695,8 @@
         "L-code": "E-Gi1",
         "Language": "Giryama",
         "missing": "0",
-        "orig-Longitude": "-3.2",
-        "orig-Latitude": "39.4",
+        "orig-Longitude": "39.4",
+        "orig-Latitude": "-3.2",
         "Glottolog_Name": "Giryama"
       }
     },
@@ -3511,8 +3718,8 @@
         "L-code": "E-Cho",
         "Language": "Choni",
         "missing": "9",
-        "orig-Longitude": "-3.8",
-        "orig-Latitude": "39.8",
+        "orig-Longitude": "39.8",
+        "orig-Latitude": "-3.8",
         "Glottolog_Name": "Chonyi-Dzihana-Kauma"
       }
     },
@@ -3537,8 +3744,8 @@
         "L-code": "E-Di1",
         "Language": "Digo",
         "missing": "9",
-        "orig-Longitude": "-4.3",
-        "orig-Latitude": "39.2",
+        "orig-Longitude": "39.2",
+        "orig-Latitude": "-4.3",
         "Glottolog_Name": "Digo"
       }
     },
@@ -3560,8 +3767,8 @@
         "L-code": "E-Seg",
         "Language": "Segeju",
         "missing": "11",
-        "orig-Longitude": "-4.8",
-        "orig-Latitude": "39.2",
+        "orig-Longitude": "39.2",
+        "orig-Latitude": "-4.8",
         "Glottolog_Name": "Segeju"
       }
     },
@@ -3586,8 +3793,8 @@
         "L-code": "E-Daw",
         "Language": "Dawida",
         "missing": "10",
-        "orig-Longitude": "-3.1",
-        "orig-Latitude": "38",
+        "orig-Longitude": "38",
+        "orig-Latitude": "-3.1",
         "Glottolog_Name": "Taita"
       }
     },
@@ -3609,8 +3816,8 @@
         "L-code": "E-Sag",
         "Language": "Sagala",
         "missing": "11",
-        "orig-Longitude": "-6.9",
-        "orig-Latitude": "36.3",
+        "orig-Longitude": "36.3",
+        "orig-Latitude": "-6.9",
         "Glottolog_Name": "Sagala"
       }
     },
@@ -3635,8 +3842,8 @@
         "L-code": "F-Suk",
         "Language": "Sukuma",
         "missing": "18",
-        "orig-Longitude": "-3",
-        "orig-Latitude": "33",
+        "orig-Longitude": "33",
+        "orig-Latitude": "-3",
         "Glottolog_Name": "Sukuma"
       }
     },
@@ -3661,8 +3868,8 @@
         "L-code": "F-Nya",
         "Language": "Nyamwezi",
         "missing": "0",
-        "orig-Longitude": "-4.3",
-        "orig-Latitude": "33.2",
+        "orig-Longitude": "33.2",
+        "orig-Latitude": "-4.3",
         "Glottolog_Name": "Nyamwezi"
       }
     },
@@ -3687,8 +3894,8 @@
         "L-code": "F-Sum",
         "Language": "Sumbwa",
         "missing": "0",
-        "orig-Longitude": "-3.9",
-        "orig-Latitude": "32.8",
+        "orig-Longitude": "32.8",
+        "orig-Latitude": "-3.9",
         "Glottolog_Name": "Sumbwa"
       }
     },
@@ -3710,8 +3917,8 @@
         "L-code": "F-Nyi",
         "Language": "Nyiramba",
         "missing": "10",
-        "orig-Longitude": "-5",
-        "orig-Latitude": "34.7",
+        "orig-Longitude": "34.7",
+        "orig-Latitude": "-5",
         "Glottolog_Name": "Nilamba"
       }
     },
@@ -3736,8 +3943,8 @@
         "L-code": "G-Gog",
         "Language": "Gogo",
         "missing": "10",
-        "orig-Longitude": "-6.3",
-        "orig-Latitude": "35.7",
+        "orig-Longitude": "35.7",
+        "orig-Latitude": "-6.3",
         "Glottolog_Name": "Gogo"
       }
     },
@@ -3762,8 +3969,8 @@
         "L-code": "G-Kag",
         "Language": "Kaguru",
         "missing": "10",
-        "orig-Longitude": "-6.3",
-        "orig-Latitude": "37",
+        "orig-Longitude": "37",
+        "orig-Latitude": "-6.3",
         "Glottolog_Name": "Kagulu"
       }
     },
@@ -3785,8 +3992,8 @@
         "L-code": "G-Tav",
         "Language": "Taveta",
         "missing": "12",
-        "orig-Longitude": "-3.4",
-        "orig-Latitude": "37.8",
+        "orig-Longitude": "37.8",
+        "orig-Latitude": "-3.4",
         "Glottolog_Name": "Taveta"
       }
     },
@@ -3811,8 +4018,31 @@
         "L-code": "G-Cas",
         "Language": "Casu",
         "missing": "6",
-        "orig-Longitude": "-4.2",
-        "orig-Latitude": "37.8",
+        "orig-Longitude": "37.8",
+        "orig-Latitude": "-4.2",
+        "Glottolog_Name": "Asu (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8323,
+          -4.17978
+        ]
+      },
+      "properties": {
+        "Name": "G_Par",
+        "Glottocode": "asut1235",
+        "Guthrie": "G",
+        "Hist-Groups": "East-Coastal",
+        "G-code": "G22",
+        "L-code": "G-Par",
+        "Language": "Pare",
+        "missing": "1",
+        "orig-Longitude": "38",
+        "orig-Latitude": "-4.5",
         "Glottolog_Name": "Asu (Tanzania)"
       }
     },
@@ -3837,8 +4067,8 @@
         "L-code": "G-Sha",
         "Language": "Shambala",
         "missing": "9",
-        "orig-Longitude": "-4.9",
-        "orig-Latitude": "38.3",
+        "orig-Longitude": "38.3",
+        "orig-Latitude": "-4.9",
         "Glottolog_Name": "Shambala"
       }
     },
@@ -3860,8 +4090,8 @@
         "L-code": "G-Bon",
         "Language": "Bondei",
         "missing": "9",
-        "orig-Longitude": "-5.3",
-        "orig-Latitude": "38.8",
+        "orig-Longitude": "38.8",
+        "orig-Latitude": "-5.3",
         "Glottolog_Name": "Bondei"
       }
     },
@@ -3883,8 +4113,8 @@
         "L-code": "G-Zig",
         "Language": "Zigula",
         "missing": "9",
-        "orig-Longitude": "-5.4",
-        "orig-Latitude": "38",
+        "orig-Longitude": "38",
+        "orig-Latitude": "-5.4",
         "Glottolog_Name": "Zigula-Mushungulu"
       }
     },
@@ -3909,8 +4139,8 @@
         "L-code": "G-Ngw",
         "Language": "Ngwele",
         "missing": "10",
-        "orig-Longitude": "-6.4",
-        "orig-Latitude": "38.3",
+        "orig-Longitude": "38.3",
+        "orig-Latitude": "-6.4",
         "Glottolog_Name": "Kwere"
       }
     },
@@ -3932,8 +4162,8 @@
         "L-code": "G-Doe",
         "Language": "Doe",
         "missing": "9",
-        "orig-Longitude": "-6.3",
-        "orig-Latitude": "38.6",
+        "orig-Longitude": "38.6",
+        "orig-Latitude": "-6.3",
         "Glottolog_Name": "Doe"
       }
     },
@@ -3955,8 +4185,8 @@
         "L-code": "G-Zar",
         "Language": "Zaramo",
         "missing": "10",
-        "orig-Longitude": "-7",
-        "orig-Latitude": "39",
+        "orig-Longitude": "39",
+        "orig-Latitude": "-7",
         "Glottolog_Name": "Zaramo"
       }
     },
@@ -3981,8 +4211,8 @@
         "L-code": "G-Ngu",
         "Language": "Ngulu",
         "missing": "9",
-        "orig-Longitude": "-6.2",
-        "orig-Latitude": "37.5",
+        "orig-Longitude": "37.5",
+        "orig-Latitude": "-6.2",
         "Glottolog_Name": "Ngulu"
       }
     },
@@ -4007,8 +4237,8 @@
         "L-code": "G-Lug",
         "Language": "Luguru",
         "missing": "10",
-        "orig-Longitude": "-6.9",
-        "orig-Latitude": "37.7",
+        "orig-Longitude": "37.7",
+        "orig-Latitude": "-6.9",
         "Glottolog_Name": "Luguru"
       }
     },
@@ -4030,8 +4260,8 @@
         "L-code": "G-Kam",
         "Language": "Kami",
         "missing": "11",
-        "orig-Longitude": "-7.4",
-        "orig-Latitude": "39.1",
+        "orig-Longitude": "39.1",
+        "orig-Latitude": "-7.4",
         "Glottolog_Name": "Kami (Tanzania)"
       }
     },
@@ -4053,8 +4283,8 @@
         "L-code": "G-Kut",
         "Language": "Kutu",
         "missing": "10",
-        "orig-Longitude": "-7.5",
-        "orig-Latitude": "37.5",
+        "orig-Longitude": "37.5",
+        "orig-Latitude": "-7.5",
         "Glottolog_Name": "Kutu"
       }
     },
@@ -4076,8 +4306,8 @@
         "L-code": "G-Elw",
         "Language": "Elwana",
         "missing": "10",
-        "orig-Longitude": "-1.1",
-        "orig-Latitude": "40.1",
+        "orig-Longitude": "40.1",
+        "orig-Latitude": "-1.1",
         "Glottolog_Name": "Ilwana"
       }
     },
@@ -4099,8 +4329,8 @@
         "L-code": "G-Mii",
         "Language": "Miini",
         "missing": "0",
-        "orig-Longitude": "1.2",
-        "orig-Latitude": "44",
+        "orig-Longitude": "44",
+        "orig-Latitude": "1.2",
         "Glottolog_Name": "Chimwiini"
       }
     },
@@ -4122,8 +4352,8 @@
         "L-code": "G-Sw1",
         "Language": "Swahili",
         "missing": "0",
-        "orig-Longitude": "-6.8",
-        "orig-Latitude": "39.3",
+        "orig-Longitude": "39.3",
+        "orig-Latitude": "-6.8",
         "Glottolog_Name": "Swahili"
       }
     },
@@ -4145,8 +4375,8 @@
         "L-code": "G-Nga",
         "Language": "Ngazija",
         "missing": "4",
-        "orig-Longitude": "-11.5",
-        "orig-Latitude": "43.5",
+        "orig-Longitude": "43.5",
+        "orig-Latitude": "-11.5",
         "Glottolog_Name": "Ngazidja Comorian"
       }
     },
@@ -4168,8 +4398,8 @@
         "L-code": "G-Mao",
         "Language": "Maore",
         "missing": "1",
-        "orig-Longitude": "-12.8",
-        "orig-Latitude": "44.2",
+        "orig-Longitude": "44.2",
+        "orig-Latitude": "-12.8",
         "Glottolog_Name": "Maore Comorian"
       }
     },
@@ -4191,8 +4421,8 @@
         "L-code": "G-Nju",
         "Language": "Njuani",
         "missing": "10",
-        "orig-Longitude": "-12.1",
-        "orig-Latitude": "44.3",
+        "orig-Longitude": "44.3",
+        "orig-Latitude": "-12.1",
         "Glottolog_Name": "Ndzwani Comorian"
       }
     },
@@ -4214,8 +4444,8 @@
         "L-code": "G-Mwl",
         "Language": "Mwali",
         "missing": "0",
-        "orig-Longitude": "-12.2",
-        "orig-Latitude": "40.5",
+        "orig-Longitude": "40.5",
+        "orig-Latitude": "-12.2",
         "Glottolog_Name": "Mwali Comorian"
       }
     },
@@ -4237,8 +4467,8 @@
         "L-code": "G-Kin",
         "Language": "Kinga",
         "missing": "1",
-        "orig-Longitude": "-9",
-        "orig-Latitude": "34",
+        "orig-Longitude": "34",
+        "orig-Latitude": "-9",
         "Glottolog_Name": "Kinga"
       }
     },
@@ -4260,8 +4490,8 @@
         "L-code": "H-Be2",
         "Language": "Bembe",
         "missing": "0",
-        "orig-Longitude": "-3.9",
-        "orig-Latitude": "13.55",
+        "orig-Longitude": "13.55",
+        "orig-Latitude": "-3.9",
         "Glottolog_Name": "Beembe"
       }
     },
@@ -4283,8 +4513,8 @@
         "L-code": "H-Vi1",
         "Language": "Vili",
         "missing": "3",
-        "orig-Longitude": "-4.6",
-        "orig-Latitude": "12.7",
+        "orig-Longitude": "12.7",
+        "orig-Latitude": "-4.6",
         "Glottolog_Name": "Vili"
       }
     },
@@ -4306,8 +4536,8 @@
         "L-code": "H-Su3",
         "Language": "Suundi",
         "missing": "1",
-        "orig-Longitude": "-6.3",
-        "orig-Latitude": "18.1",
+        "orig-Longitude": "18.1",
+        "orig-Latitude": "-6.3",
         "Glottolog_Name": "Suundi"
       }
     },
@@ -4332,8 +4562,8 @@
         "L-code": "H-Yo1",
         "Language": "Yombe",
         "missing": "0",
-        "orig-Longitude": "-5",
-        "orig-Latitude": "13",
+        "orig-Longitude": "13",
+        "orig-Latitude": "-5",
         "Glottolog_Name": "Yombe"
       }
     },
@@ -4358,8 +4588,8 @@
         "L-code": "H-Yo2",
         "Language": "Yombe",
         "missing": "1",
-        "orig-Longitude": "-4.1",
-        "orig-Latitude": "12.9",
+        "orig-Longitude": "12.9",
+        "orig-Latitude": "-4.1",
         "Glottolog_Name": "Yombe"
       }
     },
@@ -4381,8 +4611,8 @@
         "L-code": "H-Kun",
         "Language": "Kunyi",
         "missing": "0",
-        "orig-Longitude": "-4.1",
-        "orig-Latitude": "13.05",
+        "orig-Longitude": "13.05",
+        "orig-Latitude": "-4.1",
         "Glottolog_Name": "Kunyi"
       }
     },
@@ -4404,8 +4634,8 @@
         "L-code": "H-Su4",
         "Language": "Suundi",
         "missing": "0",
-        "orig-Longitude": "-4.3",
-        "orig-Latitude": "12.9",
+        "orig-Longitude": "12.9",
+        "orig-Latitude": "-4.3",
         "Glottolog_Name": "Suundi"
       }
     },
@@ -4430,8 +4660,8 @@
         "L-code": "H-Snd",
         "Language": "Sonde",
         "missing": "8",
-        "orig-Longitude": "-6.1",
-        "orig-Latitude": "18.2",
+        "orig-Longitude": "18.2",
+        "orig-Latitude": "-6.1",
         "Glottolog_Name": "Sonde"
       }
     },
@@ -4453,8 +4683,8 @@
         "L-code": "H-Laa",
         "Language": "Laadi",
         "missing": "4",
-        "orig-Longitude": "-4.3",
-        "orig-Latitude": "15",
+        "orig-Longitude": "15",
+        "orig-Latitude": "-4.3",
         "Glottolog_Name": "Laari"
       }
     },
@@ -4476,8 +4706,8 @@
         "L-code": "H-Lar",
         "Language": "Lari",
         "missing": "2",
-        "orig-Longitude": "-4.2",
-        "orig-Latitude": "14.8",
+        "orig-Longitude": "14.8",
+        "orig-Latitude": "-4.2",
         "Glottolog_Name": "Laari"
       }
     },
@@ -4502,8 +4732,8 @@
         "L-code": "H-Nta",
         "Language": "Ntandu",
         "missing": "0",
-        "orig-Longitude": "-5",
-        "orig-Latitude": "15.2",
+        "orig-Longitude": "15.2",
+        "orig-Latitude": "-5",
         "Glottolog_Name": "South-Central Koongo"
       }
     },
@@ -4528,8 +4758,8 @@
         "L-code": "H-Sik",
         "Language": "Sikongo",
         "missing": "0",
-        "orig-Longitude": "-6.2",
-        "orig-Latitude": "14.2",
+        "orig-Longitude": "14.2",
+        "orig-Latitude": "-6.2",
         "Glottolog_Name": "San Salvador Kongo"
       }
     },
@@ -4551,8 +4781,8 @@
         "L-code": "H-Su5",
         "Language": "Suundi",
         "missing": "1",
-        "orig-Longitude": "-4.8",
-        "orig-Latitude": "14.7",
+        "orig-Longitude": "14.7",
+        "orig-Latitude": "-4.8",
         "Glottolog_Name": "Suundi"
       }
     },
@@ -4577,8 +4807,8 @@
         "L-code": "H-Zoo",
         "Language": "Zoombo",
         "missing": "1",
-        "orig-Longitude": "-6.7",
-        "orig-Latitude": "15.1",
+        "orig-Longitude": "15.1",
+        "orig-Latitude": "-6.7",
         "Glottolog_Name": "South-Central Koongo"
       }
     },
@@ -4600,8 +4830,8 @@
         "L-code": "H-Kam",
         "Language": "Kamba",
         "missing": "4",
-        "orig-Longitude": "-4.15",
-        "orig-Latitude": "13.5",
+        "orig-Longitude": "13.5",
+        "orig-Latitude": "-4.15",
         "Glottolog_Name": "Kaamba"
       }
     },
@@ -4623,8 +4853,8 @@
         "L-code": "H-Kim",
         "Language": "Kimbundu",
         "missing": "0",
-        "orig-Longitude": "-8.75",
-        "orig-Latitude": "15.51",
+        "orig-Longitude": "15.51",
+        "orig-Latitude": "-8.75",
         "Glottolog_Name": "Kimbundu"
       }
     },
@@ -4646,8 +4876,8 @@
         "L-code": "H-Sng",
         "Language": "Songo",
         "missing": "6",
-        "orig-Longitude": "-4.5",
-        "orig-Latitude": "18.2",
+        "orig-Longitude": "18.2",
+        "orig-Latitude": "-4.5",
         "Glottolog_Name": "Nsongo"
       }
     },
@@ -4672,8 +4902,8 @@
         "L-code": "H-Ya1",
         "Language": "Yaka",
         "missing": "0",
-        "orig-Longitude": "-4.9",
-        "orig-Latitude": "17.15",
+        "orig-Longitude": "17.15",
+        "orig-Latitude": "-4.9",
         "Glottolog_Name": "Yaka-Pelende-Lonzo"
       }
     },
@@ -4698,8 +4928,8 @@
         "L-code": "H-Suk",
         "Language": "Suku",
         "missing": "1",
-        "orig-Longitude": "-5.3",
-        "orig-Latitude": "17.6",
+        "orig-Longitude": "17.6",
+        "orig-Latitude": "-5.3",
         "Glottolog_Name": "Suku"
       }
     },
@@ -4721,8 +4951,8 @@
         "L-code": "H-Hu1",
         "Language": "Hungana",
         "missing": "1",
-        "orig-Longitude": "-4.5",
-        "orig-Latitude": "18.5",
+        "orig-Longitude": "18.5",
+        "orig-Latitude": "-4.5",
         "Glottolog_Name": "Hungan"
       }
     },
@@ -4747,8 +4977,8 @@
         "L-code": "J-Reg",
         "Language": "Regi",
         "missing": "4",
-        "orig-Longitude": "-1.9",
-        "orig-Latitude": "33.1",
+        "orig-Longitude": "33.1",
+        "orig-Latitude": "-1.9",
         "Glottolog_Name": "Kara (Tanzania)"
       }
     },
@@ -4773,8 +5003,8 @@
         "L-code": "J-Yaa",
         "Language": "Yaaka",
         "missing": "0",
-        "orig-Longitude": "-1.8",
-        "orig-Latitude": "29.3",
+        "orig-Longitude": "29.3",
+        "orig-Latitude": "-1.8",
         "Glottolog_Name": "Yaka-Pelende-Lonzo"
       }
     },
@@ -4799,8 +5029,8 @@
         "L-code": "J-Nyo",
         "Language": "Nyoro",
         "missing": "0",
-        "orig-Longitude": "1.1",
-        "orig-Latitude": "30",
+        "orig-Longitude": "30",
+        "orig-Latitude": "1.1",
         "Glottolog_Name": "Nyoro"
       }
     },
@@ -4825,8 +5055,8 @@
         "L-code": "J-Gan",
         "Language": "Ganda",
         "missing": "1",
-        "orig-Longitude": "0.5",
-        "orig-Latitude": "33.7",
+        "orig-Longitude": "33.7",
+        "orig-Latitude": "0.5",
         "Glottolog_Name": "Ganda"
       }
     },
@@ -4851,8 +5081,8 @@
         "L-code": "J-Sog",
         "Language": "Soga",
         "missing": "3",
-        "orig-Longitude": "0.6",
-        "orig-Latitude": "33.9",
+        "orig-Longitude": "33.9",
+        "orig-Latitude": "0.6",
         "Glottolog_Name": "Soga"
       }
     },
@@ -4874,8 +5104,8 @@
         "L-code": "J-Gwe",
         "Language": "Gwere",
         "missing": "6",
-        "orig-Longitude": "1.2",
-        "orig-Latitude": "34",
+        "orig-Longitude": "34",
+        "orig-Latitude": "1.2",
         "Glottolog_Name": "Gwere"
       }
     },
@@ -4897,8 +5127,8 @@
         "L-code": "J-Tal",
         "Language": "Talinga",
         "missing": "4",
-        "orig-Longitude": "0.7",
-        "orig-Latitude": "29.8",
+        "orig-Longitude": "29.8",
+        "orig-Latitude": "0.7",
         "Glottolog_Name": "Talinga-Bwisi"
       }
     },
@@ -4923,8 +5153,8 @@
         "L-code": "J-Hay",
         "Language": "Haya",
         "missing": "6",
-        "orig-Longitude": "-1.8",
-        "orig-Latitude": "31.4",
+        "orig-Longitude": "31.4",
+        "orig-Latitude": "-1.8",
         "Glottolog_Name": "Haya"
       }
     },
@@ -4949,8 +5179,8 @@
         "L-code": "J-Zin",
         "Language": "Zinza",
         "missing": "3",
-        "orig-Longitude": "-2.7",
-        "orig-Latitude": "31.4",
+        "orig-Longitude": "31.4",
+        "orig-Latitude": "-2.7",
         "Glottolog_Name": "Zinza"
       }
     },
@@ -4975,8 +5205,8 @@
         "L-code": "J-Ker",
         "Language": "Kerebe",
         "missing": "5",
-        "orig-Longitude": "-2.1",
-        "orig-Latitude": "33.5",
+        "orig-Longitude": "33.5",
+        "orig-Latitude": "-2.1",
         "Glottolog_Name": "Kerewe"
       }
     },
@@ -4998,8 +5228,8 @@
         "L-code": "J-Jit",
         "Language": "Jita",
         "missing": "4",
-        "orig-Longitude": "-1.8",
-        "orig-Latitude": "33",
+        "orig-Longitude": "33",
+        "orig-Latitude": "-1.8",
         "Glottolog_Name": "Jita"
       }
     },
@@ -5021,8 +5251,8 @@
         "L-code": "J-Kwa",
         "Language": "Kwaya",
         "missing": "4",
-        "orig-Longitude": "-1.8",
-        "orig-Latitude": "33.5",
+        "orig-Longitude": "33.5",
+        "orig-Latitude": "-1.8",
         "Glottolog_Name": "Kwaya"
       }
     },
@@ -5044,8 +5274,8 @@
         "L-code": "J-Kis",
         "Language": "Kisa",
         "missing": "17",
-        "orig-Longitude": "0.3",
-        "orig-Latitude": "34.8",
+        "orig-Longitude": "34.8",
+        "orig-Latitude": "0.3",
         "Glottolog_Name": "Kisa"
       }
     },
@@ -5070,8 +5300,8 @@
         "L-code": "J-Buk",
         "Language": "Bukusu",
         "missing": "5",
-        "orig-Longitude": "0.6",
-        "orig-Latitude": "34.7",
+        "orig-Longitude": "34.7",
+        "orig-Latitude": "0.6",
         "Glottolog_Name": "Bukusu"
       }
     },
@@ -5096,8 +5326,8 @@
         "L-code": "J-Isu",
         "Language": "Isuka",
         "missing": "6",
-        "orig-Longitude": "0.3",
-        "orig-Latitude": "34.8",
+        "orig-Longitude": "34.8",
+        "orig-Latitude": "0.3",
         "Glottolog_Name": "Idakho-Isukha-Tiriki"
       }
     },
@@ -5119,8 +5349,8 @@
         "L-code": "J-Sam",
         "Language": "Samia",
         "missing": "6",
-        "orig-Longitude": "0.3",
-        "orig-Latitude": "34.1",
+        "orig-Longitude": "34.1",
+        "orig-Latitude": "0.3",
         "Glottolog_Name": "Saamia"
       }
     },
@@ -5142,8 +5372,8 @@
         "L-code": "J-Nan",
         "Language": "Nande",
         "missing": "0",
-        "orig-Longitude": "0.2",
-        "orig-Latitude": "29.2",
+        "orig-Longitude": "29.2",
+        "orig-Latitude": "0.2",
         "Glottolog_Name": "Nande"
       }
     },
@@ -5168,8 +5398,8 @@
         "L-code": "J-Hun",
         "Language": "Hunde",
         "missing": "12",
-        "orig-Longitude": "-1.5",
-        "orig-Latitude": "28.5",
+        "orig-Longitude": "28.5",
+        "orig-Latitude": "-1.5",
         "Glottolog_Name": "Hunde"
       }
     },
@@ -5191,8 +5421,8 @@
         "L-code": "J-Hav",
         "Language": "Havu",
         "missing": "1",
-        "orig-Longitude": "-2.1",
-        "orig-Latitude": "29.1",
+        "orig-Longitude": "29.1",
+        "orig-Latitude": "-2.1",
         "Glottolog_Name": "Havu"
       }
     },
@@ -5217,8 +5447,8 @@
         "L-code": "J-Shi",
         "Language": "Shi",
         "missing": "1",
-        "orig-Longitude": "-2.5",
-        "orig-Latitude": "28.8",
+        "orig-Longitude": "28.8",
+        "orig-Latitude": "-2.5",
         "Glottolog_Name": "Shi"
       }
     },
@@ -5240,9 +5470,32 @@
         "L-code": "J-Ful",
         "Language": "Fuliru",
         "missing": "1",
-        "orig-Longitude": "-3.1",
-        "orig-Latitude": "29",
+        "orig-Longitude": "29",
+        "orig-Latitude": "-3.1",
         "Glottolog_Name": "Fuliiru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9978,
+          -3.45787
+        ]
+      },
+      "properties": {
+        "Name": "J_Vir",
+        "Glottocode": "joba1238",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J55",
+        "L-code": "J-Vir",
+        "Language": "Vira",
+        "missing": "1",
+        "orig-Longitude": "29.1",
+        "orig-Latitude": "-3.4",
+        "Glottolog_Name": "Joba"
       }
     },
     {
@@ -5263,9 +5516,32 @@
         "L-code": "J-Tem",
         "Language": "Tembo",
         "missing": "0",
-        "orig-Longitude": "-1.7",
-        "orig-Latitude": "28",
+        "orig-Longitude": "28",
+        "orig-Latitude": "-1.7",
         "Glottolog_Name": "Tembo (Kitembo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6441,
+          -1.56771
+        ]
+      },
+      "properties": {
+        "Name": "J_Rwa",
+        "Glottocode": "kiny1244",
+        "Guthrie": "J",
+        "Hist-Groups": "East-Great Lakes",
+        "G-code": "J61",
+        "L-code": "J-Rwa",
+        "Language": "Rwanda",
+        "missing": "0",
+        "orig-Longitude": "30",
+        "orig-Latitude": "-2",
+        "Glottolog_Name": "Kinyarwanda"
       }
     },
     {
@@ -5289,8 +5565,8 @@
         "L-code": "J-Run",
         "Language": "Rundi",
         "missing": "0",
-        "orig-Longitude": "-3",
-        "orig-Latitude": "30",
+        "orig-Longitude": "30",
+        "orig-Latitude": "-3",
         "Glottolog_Name": "Rundi"
       }
     },
@@ -5312,8 +5588,8 @@
         "L-code": "J-Vin",
         "Language": "Vinza",
         "missing": "4",
-        "orig-Longitude": "-5.2",
-        "orig-Latitude": "31",
+        "orig-Longitude": "31",
+        "orig-Latitude": "-5.2",
         "Glottolog_Name": "Vinza"
       }
     },
@@ -5335,8 +5611,8 @@
         "L-code": "K-Hol",
         "Language": "Holu",
         "missing": "5",
-        "orig-Longitude": "-7.7",
-        "orig-Latitude": "17.5",
+        "orig-Longitude": "17.5",
+        "orig-Latitude": "-7.7",
         "Glottolog_Name": "Holu"
       }
     },
@@ -5361,8 +5637,8 @@
         "L-code": "K-Cio",
         "Language": "Ciokwe",
         "missing": "0",
-        "orig-Longitude": "-9",
-        "orig-Latitude": "20",
+        "orig-Longitude": "20",
+        "orig-Latitude": "-9",
         "Glottolog_Name": "Chokwe"
       }
     },
@@ -5387,8 +5663,8 @@
         "L-code": "K-Luv",
         "Language": "Luvale",
         "missing": "0",
-        "orig-Longitude": "-13.1",
-        "orig-Latitude": "22.1",
+        "orig-Longitude": "22.1",
+        "orig-Latitude": "-13.1",
         "Glottolog_Name": "Luvale"
       }
     },
@@ -5413,8 +5689,8 @@
         "L-code": "K-Lwe",
         "Language": "Lwena",
         "missing": "0",
-        "orig-Longitude": "-12.4",
-        "orig-Latitude": "22.4",
+        "orig-Longitude": "22.4",
+        "orig-Latitude": "-12.4",
         "Glottolog_Name": "Luvale"
       }
     },
@@ -5436,9 +5712,32 @@
         "L-code": "K-Mbu",
         "Language": "Mbunda",
         "missing": "0",
-        "orig-Longitude": "-11.8",
-        "orig-Latitude": "19.9",
+        "orig-Longitude": "19.9",
+        "orig-Latitude": "-11.8",
         "Glottolog_Name": "Mbunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2515,
+          -15.709
+        ]
+      },
+      "properties": {
+        "Name": "K_Gan",
+        "Glottocode": "nyem1238",
+        "Guthrie": "K",
+        "Hist-Groups": "West-Southwest",
+        "G-code": "K19",
+        "L-code": "K-Gan",
+        "Language": "Gangela",
+        "missing": "1",
+        "orig-Longitude": "21.4",
+        "orig-Latitude": "-14.1",
+        "Glottolog_Name": "Nyemba"
       }
     },
     {
@@ -5459,8 +5758,8 @@
         "L-code": "K-Sal",
         "Language": "Salampasu",
         "missing": "2",
-        "orig-Longitude": "-7.5",
-        "orig-Latitude": "22.5",
+        "orig-Longitude": "22.5",
+        "orig-Latitude": "-7.5",
         "Glottolog_Name": "Salampasu"
       }
     },
@@ -5485,8 +5784,8 @@
         "L-code": "K-Lun",
         "Language": "Lunda",
         "missing": "1",
-        "orig-Longitude": "-12",
-        "orig-Latitude": "24.2",
+        "orig-Longitude": "24.2",
+        "orig-Latitude": "-12",
         "Glottolog_Name": "Lunda"
       }
     },
@@ -5508,8 +5807,8 @@
         "L-code": "K-Ruu",
         "Language": "Ruund",
         "missing": "9",
-        "orig-Longitude": "-8.6",
-        "orig-Latitude": "23",
+        "orig-Longitude": "23",
+        "orig-Latitude": "-8.6",
         "Glottolog_Name": "Ruund"
       }
     },
@@ -5531,8 +5830,8 @@
         "L-code": "K-Luy",
         "Language": "Luyi",
         "missing": "1",
-        "orig-Longitude": "-16.2",
-        "orig-Latitude": "22",
+        "orig-Longitude": "22",
+        "orig-Latitude": "-16.2",
         "Glottolog_Name": "Luyi"
       }
     },
@@ -5554,8 +5853,8 @@
         "L-code": "K-Kwa",
         "Language": "Kwangali",
         "missing": "0",
-        "orig-Longitude": "-17.9",
-        "orig-Latitude": "19.7",
+        "orig-Longitude": "19.7",
+        "orig-Latitude": "-17.9",
         "Glottolog_Name": "Kwangali"
       }
     },
@@ -5577,8 +5876,8 @@
         "L-code": "K-Dci",
         "Language": "Dciriku",
         "missing": "0",
-        "orig-Longitude": "-17.9",
-        "orig-Latitude": "20.8",
+        "orig-Longitude": "20.8",
+        "orig-Latitude": "-17.9",
         "Glottolog_Name": "Diriku-Shambyu"
       }
     },
@@ -5603,8 +5902,8 @@
         "L-code": "K-Mb4",
         "Language": "Mbala",
         "missing": "0",
-        "orig-Longitude": "-4.5",
-        "orig-Latitude": "17.9",
+        "orig-Longitude": "17.9",
+        "orig-Latitude": "-4.5",
         "Glottolog_Name": "Mbala"
       }
     },
@@ -5629,8 +5928,8 @@
         "L-code": "K-Phe",
         "Language": "Pheende",
         "missing": "0",
-        "orig-Longitude": "-6",
-        "orig-Latitude": "19",
+        "orig-Longitude": "19",
+        "orig-Latitude": "-6",
         "Glottolog_Name": "Phende"
       }
     },
@@ -5652,8 +5951,8 @@
         "L-code": "K-Kwe",
         "Language": "Kwezo",
         "missing": "1",
-        "orig-Longitude": "-5.6",
-        "orig-Latitude": "18.4",
+        "orig-Longitude": "18.4",
+        "orig-Latitude": "-5.6",
         "Glottolog_Name": "Kwese"
       }
     },
@@ -5675,8 +5974,8 @@
         "L-code": "L-Bwi",
         "Language": "Bwile",
         "missing": "7",
-        "orig-Longitude": "-8",
-        "orig-Latitude": "29",
+        "orig-Longitude": "29",
+        "orig-Latitude": "-8",
         "Glottolog_Name": "Bwile"
       }
     },
@@ -5698,8 +5997,8 @@
         "L-code": "L-Yaz",
         "Language": "Yazi",
         "missing": "5",
-        "orig-Longitude": "-5.3",
-        "orig-Latitude": "26.8",
+        "orig-Longitude": "26.8",
+        "orig-Latitude": "-5.3",
         "Glottolog_Name": "Hemba-Yazi"
       }
     },
@@ -5721,8 +6020,8 @@
         "L-code": "L-Kei",
         "Language": "Kete-I",
         "missing": "3",
-        "orig-Longitude": "-7.6",
-        "orig-Latitude": "23.1",
+        "orig-Longitude": "23.1",
+        "orig-Latitude": "-7.6",
         "Glottolog_Name": "Kete"
       }
     },
@@ -5744,8 +6043,8 @@
         "L-code": "L-Lw1",
         "Language": "Lwalwa",
         "missing": "2",
-        "orig-Longitude": "-7.2",
-        "orig-Latitude": "21.8",
+        "orig-Longitude": "21.8",
+        "orig-Latitude": "-7.2",
         "Glottolog_Name": "Lwalu"
       }
     },
@@ -5770,8 +6069,8 @@
         "L-code": "L-Son",
         "Language": "Songye",
         "missing": "1",
-        "orig-Longitude": "-6.15",
-        "orig-Latitude": "24.4",
+        "orig-Longitude": "24.4",
+        "orig-Latitude": "-6.15",
         "Glottolog_Name": "Songe"
       }
     },
@@ -5793,8 +6092,8 @@
         "L-code": "L-Ba2",
         "Language": "Bangubangu",
         "missing": "4",
-        "orig-Longitude": "-4.6",
-        "orig-Latitude": "26.8",
+        "orig-Longitude": "26.8",
+        "orig-Latitude": "-4.6",
         "Glottolog_Name": "Bangubangu"
       }
     },
@@ -5819,8 +6118,8 @@
         "L-code": "L-LuK",
         "Language": "Luba-Ks",
         "missing": "2",
-        "orig-Longitude": "-6.5",
-        "orig-Latitude": "23.5",
+        "orig-Longitude": "23.5",
+        "orig-Latitude": "-6.5",
         "Glottolog_Name": "Luba-Lulua"
       }
     },
@@ -5842,8 +6141,8 @@
         "L-code": "L-Kan",
         "Language": "Kanyok",
         "missing": "2",
-        "orig-Longitude": "-7.1",
-        "orig-Latitude": "23.4",
+        "orig-Longitude": "23.4",
+        "orig-Latitude": "-7.1",
         "Glottolog_Name": "Kanyok"
       }
     },
@@ -5869,8 +6168,8 @@
         "L-code": "L-LuS",
         "Language": "Luba-Sh",
         "missing": "1",
-        "orig-Longitude": "-7.8",
-        "orig-Latitude": "27",
+        "orig-Longitude": "27",
+        "orig-Latitude": "-7.8",
         "Glottolog_Name": "Luba-Katanga"
       }
     },
@@ -5892,8 +6191,8 @@
         "L-code": "L-He1",
         "Language": "Hemba",
         "missing": "0",
-        "orig-Longitude": "-5.7",
-        "orig-Latitude": "26.7",
+        "orig-Longitude": "26.7",
+        "orig-Latitude": "-5.7",
         "Glottolog_Name": "Hemba-Yazi"
       }
     },
@@ -5915,8 +6214,8 @@
         "L-code": "L-He2",
         "Language": "Hemba-m",
         "missing": "1",
-        "orig-Longitude": "-5.5",
-        "orig-Latitude": "26.8",
+        "orig-Longitude": "26.8",
+        "orig-Latitude": "-5.5",
         "Glottolog_Name": "Hemba-Yazi"
       }
     },
@@ -5941,8 +6240,8 @@
         "L-code": "L-San",
         "Language": "Sanga",
         "missing": "0",
-        "orig-Longitude": "-9.6",
-        "orig-Latitude": "26.8",
+        "orig-Longitude": "26.8",
+        "orig-Latitude": "-9.6",
         "Glottolog_Name": "Sanga (Democratic Republic of Congo)"
       }
     },
@@ -5967,8 +6266,8 @@
         "L-code": "L-Kao",
         "Language": "Kaonde",
         "missing": "1",
-        "orig-Longitude": "-12.2",
-        "orig-Latitude": "26.8",
+        "orig-Longitude": "26.8",
+        "orig-Latitude": "-12.2",
         "Glottolog_Name": "Kaonde"
       }
     },
@@ -5990,8 +6289,8 @@
         "L-code": "L-Nko",
         "Language": "Nkoya",
         "missing": "1",
-        "orig-Longitude": "-14.8",
-        "orig-Latitude": "24.8",
+        "orig-Longitude": "24.8",
+        "orig-Latitude": "-14.8",
         "Glottolog_Name": "Nkoya"
       }
     },
@@ -6016,8 +6315,8 @@
         "L-code": "M-Mam",
         "Language": "Mambwe",
         "missing": "2",
-        "orig-Longitude": "-9.2",
-        "orig-Latitude": "31.8",
+        "orig-Longitude": "31.8",
+        "orig-Latitude": "-9.2",
         "Glottolog_Name": "Mambwe-Lungu"
       }
     },
@@ -6042,8 +6341,8 @@
         "L-code": "M-Kon",
         "Language": "Konde",
         "missing": "0",
-        "orig-Longitude": "-8.95",
-        "orig-Latitude": "33.55",
+        "orig-Longitude": "33.55",
+        "orig-Latitude": "-8.95",
         "Glottolog_Name": "Makonde"
       }
     },
@@ -6065,8 +6364,8 @@
         "L-code": "M-Ny1",
         "Language": "Nyakyusa",
         "missing": "0",
-        "orig-Longitude": "-9.7",
-        "orig-Latitude": "33.9",
+        "orig-Longitude": "33.9",
+        "orig-Latitude": "-9.7",
         "Glottolog_Name": "Nyakyusa-Ngonde"
       }
     },
@@ -6088,8 +6387,8 @@
         "L-code": "M-Bem",
         "Language": "Bemba",
         "missing": "1",
-        "orig-Longitude": "-12.6",
-        "orig-Latitude": "28.2",
+        "orig-Longitude": "28.2",
+        "orig-Latitude": "-12.6",
         "Glottolog_Name": "Bemba (Zambia)"
       }
     },
@@ -6111,8 +6410,8 @@
         "L-code": "M-Aus",
         "Language": "Aushi",
         "missing": "1",
-        "orig-Longitude": "-11.2",
-        "orig-Latitude": "26.8",
+        "orig-Longitude": "26.8",
+        "orig-Latitude": "-11.2",
         "Glottolog_Name": "Aushi"
       }
     },
@@ -6137,8 +6436,8 @@
         "L-code": "M-Lal",
         "Language": "Lala",
         "missing": "0",
-        "orig-Longitude": "-13.3",
-        "orig-Latitude": "30.2",
+        "orig-Longitude": "30.2",
+        "orig-Latitude": "-13.3",
         "Glottolog_Name": "Lala-Bisa"
       }
     },
@@ -6163,8 +6462,8 @@
         "L-code": "M-Lam",
         "Language": "Lamba",
         "missing": "0",
-        "orig-Longitude": "-12.9",
-        "orig-Latitude": "28.6",
+        "orig-Longitude": "28.6",
+        "orig-Latitude": "-12.9",
         "Glottolog_Name": "Lamba"
       }
     },
@@ -6186,8 +6485,8 @@
         "L-code": "M-Len",
         "Language": "Lenje",
         "missing": "0",
-        "orig-Longitude": "-15",
-        "orig-Latitude": "27.5",
+        "orig-Longitude": "27.5",
+        "orig-Latitude": "-15",
         "Glottolog_Name": "Lenje"
       }
     },
@@ -6209,8 +6508,8 @@
         "L-code": "M-Sol",
         "Language": "Soli",
         "missing": "1",
-        "orig-Longitude": "-15.4",
-        "orig-Latitude": "28.3",
+        "orig-Longitude": "28.3",
+        "orig-Latitude": "-15.4",
         "Glottolog_Name": "Soli"
       }
     },
@@ -6235,8 +6534,8 @@
         "L-code": "M-To2",
         "Language": "Tonga",
         "missing": "0",
-        "orig-Longitude": "-16.8",
-        "orig-Latitude": "27.2",
+        "orig-Longitude": "27.2",
+        "orig-Latitude": "-16.8",
         "Glottolog_Name": "Tonga (Zambia)"
       }
     },
@@ -6258,8 +6557,8 @@
         "L-code": "N-Mpo",
         "Language": "Mpoto",
         "missing": "2",
-        "orig-Longitude": "-10.7",
-        "orig-Latitude": "35.6",
+        "orig-Longitude": "35.6",
+        "orig-Latitude": "-10.7",
         "Glottolog_Name": "Mpoto"
       }
     },
@@ -6284,8 +6583,8 @@
         "L-code": "N-Tu2",
         "Language": "Tumbuka",
         "missing": "1",
-        "orig-Longitude": "-11.6",
-        "orig-Latitude": "33.6",
+        "orig-Longitude": "33.6",
+        "orig-Latitude": "-11.6",
         "Glottolog_Name": "Tumbuka"
       }
     },
@@ -6307,8 +6606,8 @@
         "L-code": "N-Lam",
         "Language": "Lambya",
         "missing": "0",
-        "orig-Longitude": "-9.7",
-        "orig-Latitude": "33.6",
+        "orig-Longitude": "33.6",
+        "orig-Latitude": "-9.7",
         "Glottolog_Name": "Lambya"
       }
     },
@@ -6333,8 +6632,8 @@
         "L-code": "N-Nys",
         "Language": "Nyasa",
         "missing": "7",
-        "orig-Longitude": "-11.2",
-        "orig-Latitude": "35.8",
+        "orig-Longitude": "35.8",
+        "orig-Latitude": "-11.2",
         "Glottolog_Name": "Mwera (Nyasa)"
       }
     },
@@ -6356,8 +6655,8 @@
         "L-code": "N-Nyj",
         "Language": "Nyanja",
         "missing": "0",
-        "orig-Longitude": "-12",
-        "orig-Latitude": "33.5",
+        "orig-Longitude": "33.5",
+        "orig-Latitude": "-12",
         "Glottolog_Name": "Nyanja"
       }
     },
@@ -6379,8 +6678,8 @@
         "L-code": "N-Sng",
         "Language": "Senga",
         "missing": "0",
-        "orig-Longitude": "-11.3",
-        "orig-Latitude": "32.9",
+        "orig-Longitude": "32.9",
+        "orig-Latitude": "-11.3",
         "Glottolog_Name": "Nsenga"
       }
     },
@@ -6405,8 +6704,8 @@
         "L-code": "N-Kun",
         "Language": "Kunda",
         "missing": "0",
-        "orig-Longitude": "-15.5",
-        "orig-Latitude": "30",
+        "orig-Longitude": "30",
+        "orig-Latitude": "-15.5",
         "Glottolog_Name": "Chikunda"
       }
     },
@@ -6431,8 +6730,8 @@
         "L-code": "N-Sen",
         "Language": "Sena",
         "missing": "2",
-        "orig-Longitude": "-17",
-        "orig-Latitude": "35.2",
+        "orig-Longitude": "35.2",
+        "orig-Latitude": "-17",
         "Glottolog_Name": "Sena"
       }
     },
@@ -6457,8 +6756,8 @@
         "L-code": "P-Ya1",
         "Language": "Yao",
         "missing": "0",
-        "orig-Longitude": "-15.7",
-        "orig-Latitude": "35.5",
+        "orig-Longitude": "35.5",
+        "orig-Latitude": "-15.7",
         "Glottolog_Name": "Yao"
       }
     },
@@ -6483,8 +6782,8 @@
         "L-code": "P-Ma4",
         "Language": "Makua",
         "missing": "0",
-        "orig-Longitude": "-14",
-        "orig-Latitude": "39.5",
+        "orig-Longitude": "39.5",
+        "orig-Latitude": "-14",
         "Glottolog_Name": "Makhuwa"
       }
     },
@@ -6506,8 +6805,8 @@
         "L-code": "P-Lom",
         "Language": "Lomwe",
         "missing": "0",
-        "orig-Longitude": "-16.5",
-        "orig-Latitude": "36.5",
+        "orig-Longitude": "36.5",
+        "orig-Latitude": "-16.5",
         "Glottolog_Name": "Mozambique Lomwe"
       }
     },
@@ -6532,8 +6831,8 @@
         "L-code": "R-Um1",
         "Language": "Umbundu",
         "missing": "0",
-        "orig-Longitude": "-11.3",
-        "orig-Latitude": "16.2",
+        "orig-Longitude": "16.2",
+        "orig-Latitude": "-11.3",
         "Glottolog_Name": "Umbundu"
       }
     },
@@ -6555,8 +6854,8 @@
         "L-code": "R-Kwa",
         "Language": "Kwanyama",
         "missing": "0",
-        "orig-Longitude": "-17",
-        "orig-Latitude": "16.8",
+        "orig-Longitude": "16.8",
+        "orig-Latitude": "-17",
         "Glottolog_Name": "Kuanyama"
       }
     },
@@ -6581,8 +6880,8 @@
         "L-code": "R-Ndo",
         "Language": "Ndonga",
         "missing": "0",
-        "orig-Longitude": "-18",
-        "orig-Latitude": "16.8",
+        "orig-Longitude": "16.8",
+        "orig-Latitude": "-18",
         "Glottolog_Name": "Ndonga"
       }
     },
@@ -6607,8 +6906,8 @@
         "L-code": "R-Her",
         "Language": "Herero",
         "missing": "0",
-        "orig-Longitude": "-17",
-        "orig-Latitude": "12",
+        "orig-Longitude": "12",
+        "orig-Latitude": "-17",
         "Glottolog_Name": "Herero"
       }
     },
@@ -6633,8 +6932,8 @@
         "L-code": "S-Sho",
         "Language": "Shona",
         "missing": "0",
-        "orig-Longitude": "-19",
-        "orig-Latitude": "30",
+        "orig-Longitude": "30",
+        "orig-Latitude": "-19",
         "Glottolog_Name": "Shona"
       }
     },
@@ -6656,8 +6955,8 @@
         "L-code": "S-Man",
         "Language": "Manyika",
         "missing": "0",
-        "orig-Longitude": "-18.5",
-        "orig-Latitude": "31.1",
+        "orig-Longitude": "31.1",
+        "orig-Latitude": "-18.5",
         "Glottolog_Name": "Manyika"
       }
     },
@@ -6682,8 +6981,8 @@
         "L-code": "S-Nda",
         "Language": "Ndau",
         "missing": "0",
-        "orig-Longitude": "-19.8",
-        "orig-Latitude": "34.8",
+        "orig-Longitude": "34.8",
+        "orig-Latitude": "-19.8",
         "Glottolog_Name": "Ndau"
       }
     },
@@ -6705,8 +7004,8 @@
         "L-code": "S-Kal",
         "Language": "Kalanga",
         "missing": "1",
-        "orig-Longitude": "-20.45",
-        "orig-Latitude": "27.8",
+        "orig-Longitude": "27.8",
+        "orig-Latitude": "-20.45",
         "Glottolog_Name": "Kalanga"
       }
     },
@@ -6731,8 +7030,8 @@
         "L-code": "S-Ven",
         "Language": "Venda",
         "missing": "1",
-        "orig-Longitude": "-22.2",
-        "orig-Latitude": "30",
+        "orig-Longitude": "30",
+        "orig-Latitude": "-22.2",
         "Glottolog_Name": "Venda"
       }
     },
@@ -6757,8 +7056,8 @@
         "L-code": "S-Twn",
         "Language": "Tswana",
         "missing": "0",
-        "orig-Longitude": "-25.5",
-        "orig-Latitude": "25.9",
+        "orig-Longitude": "25.9",
+        "orig-Latitude": "-25.5",
         "Glottolog_Name": "Tswana"
       }
     },
@@ -6780,8 +7079,8 @@
         "L-code": "S-Kha",
         "Language": "Khalaxadi",
         "missing": "4",
-        "orig-Longitude": "-13.7",
-        "orig-Latitude": "22",
+        "orig-Longitude": "22",
+        "orig-Latitude": "-13.7",
         "Glottolog_Name": "Kgalagadi"
       }
     },
@@ -6806,8 +7105,8 @@
         "L-code": "S-Sot",
         "Language": "Sotho-N",
         "missing": "0",
-        "orig-Longitude": "-30",
-        "orig-Latitude": "28",
+        "orig-Longitude": "28",
+        "orig-Latitude": "-30",
         "Glottolog_Name": "Southern Sotho"
       }
     },
@@ -6832,8 +7131,8 @@
         "L-code": "S-Loz",
         "Language": "Lozi",
         "missing": "0",
-        "orig-Longitude": "-17.9",
-        "orig-Latitude": "26",
+        "orig-Longitude": "26",
+        "orig-Latitude": "-17.9",
         "Glottolog_Name": "Lozi"
       }
     },
@@ -6855,8 +7154,8 @@
         "L-code": "S-Xho",
         "Language": "Xhosa",
         "missing": "0",
-        "orig-Longitude": "-32",
-        "orig-Latitude": "27",
+        "orig-Longitude": "27",
+        "orig-Latitude": "-32",
         "Glottolog_Name": "Xhosa"
       }
     },
@@ -6881,8 +7180,8 @@
         "L-code": "S-Zul",
         "Language": "Zulu",
         "missing": "0",
-        "orig-Longitude": "-28",
-        "orig-Latitude": "32",
+        "orig-Longitude": "32",
+        "orig-Latitude": "-28",
         "Glottolog_Name": "Zulu"
       }
     },
@@ -6907,8 +7206,8 @@
         "L-code": "S-Swa",
         "Language": "Swati",
         "missing": "0",
-        "orig-Longitude": "-26.5",
-        "orig-Latitude": "31.5",
+        "orig-Longitude": "31.5",
+        "orig-Latitude": "-26.5",
         "Glottolog_Name": "Swati"
       }
     },
@@ -6933,8 +7232,8 @@
         "L-code": "S-Nde",
         "Language": "Ndebele",
         "missing": "0",
-        "orig-Longitude": "-19.5",
-        "orig-Latitude": "29",
+        "orig-Longitude": "29",
+        "orig-Latitude": "-19.5",
         "Glottolog_Name": "Zimbabwean Ndebele"
       }
     },
@@ -6959,8 +7258,8 @@
         "L-code": "S-Ngo",
         "Language": "Ngoni",
         "missing": "3",
-        "orig-Longitude": "-11.65",
-        "orig-Latitude": "33.65",
+        "orig-Longitude": "33.65",
+        "orig-Latitude": "-11.65",
         "Glottolog_Name": "Tanzanian Ngoni"
       }
     },
@@ -6982,8 +7281,8 @@
         "L-code": "S-Tsw",
         "Language": "Tswa",
         "missing": "6",
-        "orig-Longitude": "-23.8",
-        "orig-Latitude": "35",
+        "orig-Longitude": "35",
+        "orig-Latitude": "-23.8",
         "Glottolog_Name": "Tswa"
       }
     },
@@ -7008,8 +7307,8 @@
         "L-code": "S-Tso",
         "Language": "Tsonga",
         "missing": "0",
-        "orig-Longitude": "-23",
-        "orig-Latitude": "33.5",
+        "orig-Longitude": "33.5",
+        "orig-Latitude": "-23",
         "Glottolog_Name": "Tsonga"
       }
     },
@@ -7031,8 +7330,8 @@
         "L-code": "S-Ron",
         "Language": "Ronga",
         "missing": "6",
-        "orig-Longitude": "-26",
-        "orig-Latitude": "33",
+        "orig-Longitude": "33",
+        "orig-Latitude": "-26",
         "Glottolog_Name": "Ronga"
       }
     },
@@ -7057,8 +7356,8 @@
         "L-code": "Eja",
         "Language": "Ejagham",
         "missing": "0",
-        "orig-Longitude": "5.5",
-        "orig-Latitude": "9.2",
+        "orig-Longitude": "9.2",
+        "orig-Latitude": "5.5",
         "Glottolog_Name": "Ejagham"
       }
     }

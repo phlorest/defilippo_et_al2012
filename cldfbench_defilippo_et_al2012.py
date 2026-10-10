@@ -39,7 +39,8 @@ class Dataset(phlorest.Dataset):
         # Add nexus data
         data = self.raw_dir.read_nexus(
             'deFelippo_et_al-Bantu.nex',
-            # Fix the NEXUS by switching to a valid DATATYPE.
-            preprocessor=lambda s: s.replace('DATATYPE=binary', 'DATATYPE=standard')
+            # Fix the NEXUS by switching to a valid DATATYPE (must precede SYMBOLS).
+            preprocessor=lambda s: s.replace(
+                'SYMBOLS="01" DATATYPE=binary', 'DATATYPE=standard SYMBOLS="01"')
         )
         args.writer.add_data(data, self.characters, args.log)

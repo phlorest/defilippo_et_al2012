@@ -31,7 +31,7 @@ A_Gun,,,A,Buneya,A62a,A-Gun,Gunu,11,11.3,4.6,nugu1242
 A_Mma,,,A,Buneya,A62b,A-Mma,Mmala,7,11.2,4.5,mmaa1238
 A_Kal,,,A,Buneya,A62d,A-Kal,Kalonge,0,11.1,4.3,yang1293
 A_Eto,,,A,North-West,A71,A-Eto,Eton,0,11.2,4,eton1253
-A_Ndo,,,A,North-West,A71a,A-Ndo,Ndongo,0,11.3,3.9,
+A_Ndo,,,A,North-West,A71a,A-Ndo,Ndongo,0,11.3,3.9,eton1253
 A_Ewo,,,A,North-West,A72a,A-Ewo,Ewondo,0,11.5,3.9,ewon1239
 A_Yao,,,A,North-West,A72a,A-Yao,Yaounde,0,11.2,3.6,ewon1239
 A_Yas,,,A,North-West,A72d,A-Yas,Yasem,3,11.7,4.4,
@@ -79,7 +79,7 @@ B_Nze,,,B,West-Coastal,B52,B-Nze,Nzebi,1,11.9,-1.9,njeb1242
 B_Tsa,,,B,West-Coastal,B53,B-Tsa,Tsangi,2,13.7,-2.9,tsaa1242
 B_Mbe,,,B,West-Coastal,B61,B-Mbe,Mbede,1,14,-0.4,mber1257
 B_Bam,,,B,West-Coastal,B62,B-Bam,Bamba,0,13.9,-1.2,omba1241
-B_Mpi,,,B,West-Coastal,B62,B-Mpi,Mpini,3,14.5,-1.2,
+B_Mpi,,,B,West-Coastal,B62,B-Mpi,Mpini,3,14.5,-1.2,ampi1238
 B_Kuy,,,B,West-Coastal,B63,B-Kuy,Kuya,10,13.4,-1.5,kuya1249
 B_Ndu,,,B,West-Coastal,B63,B-Ndu,Ndumu,11,13.5,-1.6,ndum1239
 B_Ngw,,,B,West-Coastal,B64,B-Ngw,Ngwi,2,19.4,-4.3,ngul1247
@@ -151,11 +151,11 @@ C_Lib,,,C,West-Congo Basin,C31r,C-Lib,Libinza,0,18.5,1.5,libi1244
 C_Bal,,,C,West-Congo Basin,C31s,C-Bal,Balobo,1,19.4,1.9,liki1240
 C_Mwe,,,C,West-Congo Basin,C31y,C-Mwe,Mwe,8,19.2,2.1,bamw1238
 C_Bob,,,C,West-Congo Basin,C32,C-Bob,Bobangi,0,17.7,-1.4,bang1354
-C_Kin,,,C,West-Congo Basin,C32,C-Kin,Kinunu,4,16.5,-1.9,
+C_Kin,,,C,West-Congo Basin,C32,C-Kin,Kinunu,4,16.5,-1.9,boba1252
 C_Mbm,,,C,West-Congo Basin,C32,C-Mbm,Mbompo,2,18.1,-0.1,
 C_Sen,,,C,West-Congo Basin,C33,C-Sen,Sengele,1,18.7,-1.8,seng1278
 C_Sak,xd49,Ac24,C,West-Congo Basin,C34,C-Sak,Sakata,3,18.1,-2.7,saka1287
-C_Kba,,,C,West-Congo Basin,C34a,C-Kba,Kibai,6,18.6,-2.9,
+C_Kba,,,C,West-Congo Basin,C34a,C-Kba,Kibai,6,18.6,-2.9,baii1247
 C_Kes,,,C,West-Congo Basin,C34B,C-Kes,Kesha,2,18.7,-3.05,nucl1401
 C_Bol,,,C,West-Congo Basin,C35,C-Bol,Bolia,1,18.4,-1.5,boli1255
 C_Nt1,,,C,West-Congo Basin,C35,C-Nt1,Ntomba-B,0,18.1,-1.1,ntom1250
