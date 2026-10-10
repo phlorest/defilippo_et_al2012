@@ -654,6 +654,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.3935,
+          4.21045
+        ]
+      },
+      "properties": {
+        "Name": "A_Ndo",
+        "Glottocode": "eton1253",
+        "Guthrie": "A",
+        "Hist-Groups": "North-West",
+        "G-code": "A71a",
+        "L-code": "A-Ndo",
+        "Language": "Ndongo",
+        "missing": "0",
+        "orig-Longitude": "11.3",
+        "orig-Latitude": "3.9",
+        "Glottolog_Name": "Eton-Mengisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.93646,
           4.21141
         ]

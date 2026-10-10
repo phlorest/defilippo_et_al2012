@@ -27,13 +27,13 @@
         {
             "rdf:about": "https://github.com/phlorest/defilippo_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-5-g5a561b3",
+            "dc:created": "v1.2-6-g38285ea",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
